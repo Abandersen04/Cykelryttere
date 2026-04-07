@@ -166,7 +166,7 @@
   <div class="sep"></div>
 
   <div class="filter-group">
-    <span class="filter-label">DK all-time rang <a href="https://www.prestigelisten.dk" target="_blank" style="color:#C60C30;font-size:0.65rem;text-decoration:none;" title="prestigelisten.dk">↗</a></span>
+    <span class="filter-label">Prestigelisten</span>
     <input type="range" id="rank-slider" min="1" max="70" value="70">
     <span class="slider-val" id="rank-val">Alle</span>
   </div>
@@ -381,7 +381,7 @@ function buildPopup(loc) {
       : "";
     const pcsRank = getPcsRank(r);
     const rankLabel = pcsRank
-      ? `<a class="rank-dk-badge" href="https://www.prestigelisten.dk" target="_blank" title="DK all-time #${pcsRank.rank} på prestigelisten.dk">#${pcsRank.rank} DK all-time · ${pcsRank.points}pt</a>`
+      ? `<span class="rank-dk-badge">Prestigelisten #${pcsRank.rank} · ${pcsRank.points}pt</span>`
       : "";
 
     return `<div class="pop-rider">
