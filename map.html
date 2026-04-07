@@ -84,6 +84,8 @@
     .pop-meta { font-size: 0.72rem; color: #666; margin: 2px 0 4px; }
 
     .wins-label { font-size: 0.68rem; color: #f5a623; font-weight: 700; }
+    .rank-dk-badge { font-size: 0.68rem; color: #C60C30; font-weight: 700; }
+    .pop-rank-row { margin: 1px 0 3px; }
     .wiki-link { font-size: 0.68rem; color: #4a9eff; text-decoration: none; }
     .wiki-link:hover { text-decoration: underline; }
 
@@ -160,6 +162,14 @@
 
   <div class="sep"></div>
 
+  <div class="sep"></div>
+
+  <div class="filter-group">
+    <button class="btn" id="ranked-btn" data-ranked="false">Kun DK all-time rangliste</button>
+  </div>
+
+  <div class="sep"></div>
+
   <input type="text" id="search" placeholder="Søg rytter eller by...">
   <div class="stats" id="stats"></div>
 </header>
@@ -190,12 +200,106 @@ function classBadge(cls) {
   return `<span class="cls-badge ${c[cat]||''}">${cls || '?'}</span>`;
 }
 
+// ── PCS All-time rangliste (DK) ───────────────────────────────────────────
+// Nøgle: "fødselsår_EFTERNAVN" (store bogstaver, første ord i PCS-navn)
+const PCS_RANKING = {
+  "1996_VINGEGAARD":  {rank:1,  allTime:46,   points:804},
+  "1995_PEDERSEN":    {rank:2,  allTime:124,  points:406},
+  "1965_SØRENSEN":    {rank:3,  allTime:127,  points:403},
+  "1964_RIIS":        {rank:4,  allTime:196,  points:295},
+  "1985_FUGLSANG":    {rank:5,  allTime:220,  points:268},
+  "1974_RASMUSSEN":   {rank:6,  allTime:487,  points:123},
+  "1995_ASGREEN":     {rank:7,  allTime:520,  points:114},
+  "1993_CORT":        {rank:8,  allTime:617,  points:94},
+  "1868_MEYER":       {rank:9,  allTime:656,  points:88},
+  "2000_SKJELMOSE":   {rank:10, allTime:686,  points:83},
+  "1958_ANDERSEN":    {rank:11, allTime:735,  points:73},
+  "1970_HAMBURGER":   {rank:11, allTime:735,  points:73},
+  "1946_MORTENSEN":   {rank:13, allTime:759,  points:71},
+  "1984_BRESCHEL":    {rank:14, allTime:789,  points:67},
+  "1992_VALGREN":     {rank:15, allTime:808,  points:65},
+  "1994_KRAGH":       {rank:16, allTime:900,  points:56},
+  "1964_SKIBBY":      {rank:17, allTime:912,  points:55},
+  "1969_MICHAELSEN":  {rank:18, allTime:1026, points:47},
+  "1941_RITTER":      {rank:19, allTime:1038, points:46},
+  "1973_PIIL":        {rank:20, allTime:1214, points:35},
+  "1950_MARCUSSEN":   {rank:21, allTime:1245, points:33},
+  "1975_SØRENSEN":    {rank:22, allTime:1275, points:32},
+  "1959_VAGN":        {rank:23, allTime:1375, points:28},
+  "1962_WELTZ":       {rank:24, allTime:1458, points:25},
+  "1980_BAK":         {rank:25, allTime:1556, points:22},
+  "2002_LUND":        {rank:26, allTime:1791, points:17},
+  "1985_MØRKØV":      {rank:26, allTime:1791, points:17},
+  "1941_FREY":        {rank:28, allTime:1929, points:15},
+  "1902_HANSEN":      {rank:28, allTime:1929, points:15},
+  "1966_PEDERSEN":    {rank:30, allTime:1981, points:14},
+  "1971_BO":          {rank:30, allTime:1981, points:14},
+  "1998_KRON":        {rank:30, allTime:1981, points:14},
+  "1968_MICHAEL":     {rank:30, allTime:1981, points:14},
+  "1872_HANSEN":      {rank:34, allTime:2041, points:13},
+  "1968_SANDSTØD":    {rank:34, allTime:2041, points:13},
+  "1954_ØRSTED":      {rank:36, allTime:2149, points:12},
+  "1984_ANKER":       {rank:37, allTime:2273, points:11},
+  "1945_SCHMIDT":     {rank:38, allTime:2336, points:10},
+  "1973_BLAUDZUN":    {rank:39, allTime:2408, points:9},
+  "1961_CARLSEN":     {rank:40, allTime:2453, points:8},
+  "1942_RODIAN":      {rank:40, allTime:2453, points:8},
+  "1962_HOLM":        {rank:42, allTime:2710, points:7},
+  "1959_WORRE":       {rank:42, allTime:2710, points:7},
+  "1997_HONORE":      {rank:42, allTime:2710, points:7},
+  "1998_BJERG":       {rank:42, allTime:2710, points:7},
+  "1965_LILHOLT":     {rank:46, allTime:2789, points:6},
+  "1968_MARCUSSEN":   {rank:46, allTime:2789, points:6},
+  "1993_KAMP":        {rank:46, allTime:2789, points:6},
+  "1994_WÜRTZ":       {rank:46, allTime:2789, points:6},
+  "1946_BLAUDZUN":    {rank:46, allTime:2789, points:6},
+  "1914_GRUNDAHL":    {rank:51, allTime:2879, points:5},
+  "1996_PEDERSEN":    {rank:52, allTime:3013, points:4},
+  "1936_LYKKE":       {rank:52, allTime:3013, points:4},
+  "1989_JUUL":        {rank:54, allTime:3433, points:3},
+  "1963_PETERSEN":    {rank:54, allTime:3433, points:3},
+  "1985_TOFT":        {rank:54, allTime:3433, points:3},
+  "1961_FROST":       {rank:54, allTime:3433, points:3},
+  "1941_EUGEN":       {rank:54, allTime:3433, points:3},
+  "1962_VEGGERBY":    {rank:54, allTime:3433, points:3},
+  "1966_MEINERT":     {rank:54, allTime:3433, points:3},
+  "1991_LANDER":      {rank:54, allTime:3433, points:3},
+  "2002_SØJBERG":     {rank:54, allTime:3433, points:3},
+  "1973_HØJ":         {rank:54, allTime:3433, points:3},
+  "1970_BO":          {rank:64, allTime:3813, points:2},
+  "1990_QUAADE":      {rank:64, allTime:3813, points:2},
+  "1927_EDMUND":      {rank:64, allTime:3813, points:2},
+  "1912_SØRENSEN":    {rank:64, allTime:3813, points:2},
+  "1964_PEDERSEN":    {rank:64, allTime:3813, points:2},
+  "1981_VANDBORG":    {rank:69, allTime:4032, points:1},
+  "1962_ANDERSEN":    {rank:69, allTime:4032, points:1},
+  "1969_BLIGAARD":    {rank:69, allTime:4032, points:1},
+  "1942_SKIBBY":      {rank:69, allTime:4032, points:1},
+  "1997_NORSGAARD":   {rank:69, allTime:4032, points:1},
+  "1999_PRICE-PEJTERSEN": {rank:69, allTime:4032, points:1},
+  "1997_LARSEN":      {rank:69, allTime:4032, points:1},
+};
+
+function getPcsRank(rider) {
+  const born = rider.birthdate ? rider.birthdate.slice(0,4) : null;
+  if (!born) return null;
+  const words = rider.name.toUpperCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").split(" ");
+  // Also try original (with diacritics)
+  const wordsRaw = rider.name.toUpperCase().split(" ");
+  for (const w of [...new Set([...words, ...wordsRaw])]) {
+    const key = `${born}_${w}`;
+    if (PCS_RANKING[key]) return PCS_RANKING[key];
+  }
+  return null;
+}
+
 // ── State ─────────────────────────────────────────────────────────────────
 let allData = [];
 let layerGroup = L.layerGroup().addTo(map);
 let activeGender = "all";
 let activeCats = new Set(["UWT","Pro","HC","WC","other"]);
 let minWins = 0, minCitySize = 1, yearFrom = 1868, yearTo = 2010;
+let onlyRanked = false;
 
 // ── Ikon ──────────────────────────────────────────────────────────────────
 function makeIcon(count) {
@@ -272,11 +376,16 @@ function buildPopup(loc) {
     const wikiLink = r.wikipedia_url
       ? `<a class="wiki-link" href="${r.wikipedia_url}" target="_blank">Wikipedia</a>`
       : "";
+    const pcsRank = getPcsRank(r);
+    const rankLabel = pcsRank
+      ? `<span class="rank-dk-badge" title="DK all-time #${pcsRank.rank} · ${pcsRank.points} pt">#${pcsRank.rank} DK · ${pcsRank.points}pt</span>`
+      : "";
 
     return `<div class="pop-rider">
       <div class="pop-rider-name ${r.gender==='kvinde'?'f':'m'}">
         ${r.name}${winsLabel ? ' ' : ''}${winsLabel}${wikiLink ? ' ' : ''}${wikiLink}
       </div>
+      ${rankLabel ? `<div class="pop-rank-row">${rankLabel}</div>` : ''}
       <div class="pop-meta">${r.birthdate ? r.birthdate.slice(0,4) : '?'}${r.current_team ? ' · ' + r.current_team : ''}</div>
       ${res.length > 0 ? `<div class="pop-results">${resultsHtml}</div>` : ''}
     </div>`;
@@ -299,6 +408,7 @@ function applyFilters() {
     if (query.length > 1 && !r.name.toLowerCase().includes(query) &&
         !(r.birthplace||"").toLowerCase().includes(query)) return false;
     if (minWins > 0 && countFilteredWins(r) < minWins) return false;
+    if (onlyRanked && !getPcsRank(r)) return false;
     return true;
   });
 
@@ -338,6 +448,12 @@ bindSlider("year-from",   "year-from-val",v => { yearFrom = v;   applyFilters();
 bindSlider("year-to",     "year-to-val",  v => { yearTo = v;     applyFilters(); });
 
 document.getElementById("search").addEventListener("input", applyFilters);
+
+document.getElementById("ranked-btn").addEventListener("click", function() {
+  onlyRanked = !onlyRanked;
+  this.classList.toggle("active", onlyRanked);
+  applyFilters();
+});
 
 // ── Data ──────────────────────────────────────────────────────────────────
 async function loadData() {
