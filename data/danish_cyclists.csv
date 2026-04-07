@@ -1,0 +1,744 @@
+﻿id,wikidata_id,name,gender,birthdate,birthplace,latitude,longitude,pcs_id,weight_kg,height_m,total_wins,current_team,wikipedia_url,fetched_at
+745,Q100930844,Adam Holm Jørgensen,mand,2002-09-01,Frederiksberg,55.6779,12.5327,242314,68.0,1.91,0,,https://nl.wikipedia.org/wiki/Adam_Holm_J%C3%B8rgensen,2026-04-06T15:50:19.976291+00:00
+746,Q117751467,Agnes Bøg,kvinde,2000-01-28,Hareskovby,55.76,12.3997,298279,,,0,,https://da.wikipedia.org/wiki/Agnes_B%C3%B8g,2026-04-06T15:50:30.695093+00:00
+747,Q16005784,Ahrensborg Clausen,mand,1895-06-20,Frederiksberg,55.6779,12.5327,246823,,,0,,https://pt.wikipedia.org/wiki/Georg_Claussen,2026-04-06T15:50:41.590500+00:00
+748,Q57973850,Aksel Bech Skot-Hansen,mand,2000-06-11,Hjortshøj,56.2492,10.2656,210061,62.0,1.8,0,,"https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D1%82-%D0%A5%D0%B0%D0%BD%D1%81%D0%B5%D0%BD,_%D0%90%D0%BA%D1%81%D0%B5%D0%BB%D1%8C_%D0%91%D0%B5%D0%BA",2026-04-06T15:50:52.204969+00:00
+749,Q113630058,Aksel Storm,mand,2007-10-22,Roskilde,55.641666666,12.080833333,299365,,,0,,https://da.wikipedia.org/wiki/Aksel_Storm,2026-04-06T15:51:02.611764+00:00
+750,Q108937498,Albert Holm,mand,2003-06-22,København,55.676111111,12.568888888,260792,,,0,,https://da.wikipedia.org/wiki/Albert_Holm,2026-04-06T15:51:13.472498+00:00
+751,Q116200192,Albert Withen Philipsen,mand,2006-09-03,Holte,55.810939,12.473536,289886,,,0,,"https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D1%81%D0%B5%D0%BD,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%92%D0%B8%D1%82%D0%B5%D0%BD",2026-04-06T15:51:24.046485+00:00
+752,Q111907132,Alberte Greve,kvinde,2005-09-16,Næstved,55.23333333,11.76666667,279551,,,0,,https://nl.wikipedia.org/wiki/Alberte_Greve,2026-04-06T15:51:34.460223+00:00
+753,Q1557645,Alex Pedersen,mand,1966-11-15,Ikast,56.1356,9.1547,168875,,,0,,https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%83%D8%B3_%D8%A8%D9%8A%D8%AF%D8%B1%D8%B3%D9%86,2026-04-06T15:51:45.021526+00:00
+754,Q462867,Alex Rasmussen,mand,1984-06-09,Svendborg,55.059722222,10.61,140226,88.0,1.86,0,,https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%83%D8%B3_%D8%B1%D8%A7%D8%B3%D9%85%D9%88%D8%B3%D9%86,2026-04-06T15:51:55.615452+00:00
+755,Q37583457,Alexander Andersen,mand,2000-02-25,,,,233002,,,0,,"https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%AE%D0%BD%D0%B3",2026-04-06T15:52:06.028053+00:00
+756,Q108855164,Alexander Arnt Hansen,mand,2003-05-13,Lynge,55.8397,12.2767,260765,68.0,1.87,0,,https://fr.wikipedia.org/wiki/Alexander_Arnt_Hansen,2026-04-06T15:52:16.591613+00:00
+757,Q16525988,Alexander Kamp,mand,1993-12-14,Køge,55.45,12.183333333,132228,74.0,1.86,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%BF,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B5%D1%80",2026-04-06T15:52:27.147537+00:00
+758,Q29344340,Alexander Salby,mand,1998-06-04,Aabenraa,55.0447,9.4195,196174,68.0,1.76,0,,https://nl.wikipedia.org/wiki/Alexander_Salby,2026-04-06T15:52:37.940054+00:00
+759,Q112676043,Alfred Christensen,mand,2004-09-22,Frederiksberg,55.6779,12.5327,270157,,,0,,https://da.wikipedia.org/wiki/Alfred_Christensen_(cykelrytter),2026-04-06T15:52:48.536478+00:00
+760,Q111544345,Alfred Grenaae,mand,2004-06-01,Støvring,56.889,9.831,270099,,,0,,https://da.wikipedia.org/wiki/Alfred_Grenaae,2026-04-06T15:52:59.046053+00:00
+761,Q111835918,Alfred Kongstad,mand,2005-11-09,København,55.676111111,12.568888888,270096,75.0,1.9,0,,https://da.wikipedia.org/wiki/Alfred_Kongstad,2026-04-06T15:53:09.533517+00:00
+762,Q1289930,Allan Bo Andresen,mand,1973-02-19,Hammel,56.25,9.866666666,115193,,,0,,https://nl.wikipedia.org/wiki/Allan-Bo_Andresen,2026-04-06T15:53:20.269379+00:00
+763,Q19958208,Allan Jacobsen,mand,1955-11-13,Herning,56.136111111,8.976666666,258602,,,0,,https://pt.wikipedia.org/wiki/Allan_Jacobsen,2026-04-06T15:53:31.388178+00:00
+764,Q1344885,Allan Johansen,mand,1971-07-14,Silkeborg,56.166666666,9.55,120646,78.0,1.88,0,,https://sv.wikipedia.org/wiki/Allan_Johansen,2026-04-06T15:53:42.166494+00:00
+22,Q17418790,Allan Juel Larsen,mand,1931-11-21,Frederiksberg,55.6779,12.5327,,,,0,,https://pt.wikipedia.org/wiki/Allan_Juel_Larsen,2026-04-06T15:50:01.217116+00:00
+23,Q105730490,Allan Møller,mand,1957-07-12,,,,,,,0,,https://de.wikipedia.org/wiki/Allan_M%C3%B8ller,2026-04-06T15:50:01.217116+00:00
+765,Q118720232,Alma Walther Møller Rasmussen,kvinde,2007-03-30,Odder,55.9725,10.149722222,294232,,,0,,"https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81%D1%81%D0%B5%D0%BD,_%D0%90%D0%BB%D1%8C%D0%BC%D0%B0",2026-04-06T15:53:53.100160+00:00
+766,Q17490498,Amalie Dideriksen,kvinde,1996-05-24,Kastrup,55.6375,12.6417,171564,62.0,1.75,0,,https://sv.wikipedia.org/wiki/Amalie_Dideriksen,2026-04-06T15:54:03.572008+00:00
+767,Q105481268,Amalie Kvist Nybroe,kvinde,1998-02-16,Uvelse,55.8678,12.2344,271168,,,0,,https://da.wikipedia.org/wiki/Amalie_Kvist_Nybroe,2026-04-06T15:54:14.741263+00:00
+768,Q63368916,Amalie Winther Olsen,kvinde,1994-01-12,Odense,55.4,10.383333333,171569,,,0,,https://fr.wikipedia.org/wiki/Amalie_Winther_Olsen,2026-04-06T15:54:25.150948+00:00
+769,Q123555003,Amanda Poulsen,kvinde,1999-03-16,Gilleleje,56.1225,12.3081,299388,58.0,1.73,0,,https://da.wikipedia.org/wiki/Amanda_Poulsen,2026-04-06T15:54:35.684606+00:00
+29,Q12301259,Amanda Sørensen,kvinde,1985-11-18,Skanderborg,56.033333333,9.933333333,,,,0,,https://pt.wikipedia.org/wiki/Amanda_S%C3%B8rensen,2026-04-06T15:50:01.217116+00:00
+770,Q133870279,Anders Fialla,mand,1975-10-03,Esbjerg,55.470833333,8.451388888,120589,,,0,,https://da.wikipedia.org/wiki/Anders_Fialla,2026-04-06T15:54:46.433089+00:00
+771,Q102300538,Anders Foldager,mand,2001-07-27,Skive,56.566666666,9.026944444,217743,69.0,1.81,0,,https://nl.wikipedia.org/wiki/Anders_Foldager,2026-04-06T15:54:56.856598+00:00
+772,Q106982847,Anders Fynbo,mand,1996-06-03,Greve Strand,55.582222222,12.288888888,196427,,,0,,"https://ru.wikipedia.org/wiki/%D0%A4%D1%8E%D0%BD%D0%B1%D0%BE,_%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81",2026-04-06T15:55:07.481159+00:00
+773,Q20736147,Anders Holm,mand,1978-08-13,,,,179980,,,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81_%D0%A5%D0%BE%D0%BB%D1%8C%D0%BC",2026-04-06T15:55:18.242973+00:00
+774,Q491180,Anders Lund,mand,1985-02-14,København,55.676111111,12.568888888,140529,65.0,1.67,0,,https://sv.wikipedia.org/wiki/Anders_Lund,2026-04-06T15:55:28.725409+00:00
+775,Q109912727,Anders Vos Sørensen,mand,2004-03-11,Svoldrup,56.7627546,9.3743148,270089,,,0,,https://da.wikipedia.org/wiki/Anders_Vos_S%C3%B8rensen,2026-04-06T15:55:39.942903+00:00
+776,Q64911513,Andreas Aidel Brixen,mand,1996-04-08,Thorsø,56.2994,9.7908,188794,73.0,1.87,0,,https://da.wikipedia.org/wiki/Andreas_Aidel_Brixen,2026-04-06T15:55:52.378207+00:00
+777,Q87345841,Andreas Byskov Sarbo,mand,2001-05-14,København,55.676111111,12.568888888,216886,,,0,,https://da.wikipedia.org/wiki/Andreas_Byskov_Sarbo,2026-04-06T15:56:04.168082+00:00
+778,Q23950142,Andreas Hyldgaard Jeppesen,mand,1996-07-21,,,,181507,,,0,,https://ca.wikipedia.org/wiki/Andreas_Jeppesen,2026-04-06T15:56:14.664691+00:00
+779,Q112107265,Andreas Krogh Jensen,mand,2005-02-26,Broager,54.889,9.6696,270680,,,0,,https://da.wikipedia.org/wiki/Andreas_Krogh_Jensen,2026-04-06T15:56:25.294875+00:00
+780,Q28970245,Andreas Kron,mand,1998-06-01,Albertslund,55.6597,12.3617,198040,63.0,1.77,0,,https://sr.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0%D1%81_%D0%9A%D1%80%D0%BE%D0%BD,2026-04-06T15:56:36.404716+00:00
+781,Q23851907,Andreas Stokbro,mand,1997-04-08,Brøndbyvester,55.645277777,12.41,186227,70.0,1.83,0,,"https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BA%D0%B1%D1%80%D0%BE,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0%D1%81",2026-04-06T15:56:46.910054+00:00
+782,Q522928,André Valgren Steensen,mand,1987-10-12,Skanderborg,56.033333333,9.933333333,139695,65.0,1.85,0,,"https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5",2026-04-06T15:56:57.456719+00:00
+783,Q115519038,Anika Rasmussen,kvinde,1996-11-18,Odense,55.4,10.383333333,176875,,,0,,https://es.wikipedia.org/wiki/Anika_Rasmussen,2026-04-06T15:57:07.955610+00:00
+784,Q55481609,Ann Svendsgaard Mathiesen,kvinde,1971-09-18,,,,315065,,,0,,"https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B8%D1%81%D0%B5%D0%BD,_%D0%90%D0%BD%D0%BD_%D0%A1%D0%B2%D0%B5%D0%BD%D0%BD%D1%81%D0%B3%D0%BE%D1%80",2026-04-06T15:57:18.524797+00:00
+45,Q107356477,Ann-Dorthe Lisbygd,kvinde,1984-02-16,Sorø,55.4366,11.5592,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%B1%D1%8E%D0%B3%D0%B4,_%D0%90%D0%BD%D0%BD-%D0%94%D0%BE%D1%80%D1%82%D0%B5",2026-04-06T15:50:01.217116+00:00
+785,Q112741095,Anna Margrethe Hansen,kvinde,2006-03-06,Amager,55.616666666,12.616666666,283412,,,0,,https://da.wikipedia.org/wiki/Anna_Margrethe_Hansen,2026-04-06T15:57:29.642642+00:00
+786,Q116890230,Anna Serop,kvinde,1999-08-09,Næstved,55.23333333,11.76666667,293530,,,0,,https://da.wikipedia.org/wiki/Anna_Serop,2026-04-06T15:57:40.214280+00:00
+787,Q30907412,Anne Holm,kvinde,1999-07-09,Frederiksberg,55.6779,12.5327,293529,,,0,,https://es.wikipedia.org/wiki/Anne_Holm_(triatleta),2026-04-06T15:57:50.650640+00:00
+49,Q125861971,Anne Thorbjørn,kvinde,1980-08-10,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D0%BA%D0%B5%D0%BB%D1%8C%D1%81%D0%B5%D0%BD,_%D0%90%D0%BD%D0%BD%D0%B5_%D0%A2%D0%BE%D1%80%D0%B1%D1%8C%D1%91%D1%80%D0%BD",2026-04-06T15:50:01.217116+00:00
+50,Q124807869,Anne-Sofie Nørgaard,kvinde,1979-08-13,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9D%D1%91%D1%80%D0%B3%D0%BE%D1%80,_%D0%90%D0%BD%D0%BD%D0%B0-%D0%A1%D0%BE%D1%84%D0%B8",2026-04-06T15:50:01.217116+00:00
+788,Q567124,Annika Langvad,kvinde,1984-03-22,Silkeborg,56.166666666,9.55,130081,64.0,1.74,0,,"https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B3%D0%B2%D0%B0%D0%B4,_%D0%90%D0%BD%D0%BD%D0%B8%D0%BA%D0%B0",2026-04-06T15:58:01.139781+00:00
+789,Q28924539,Anthon Charmig,mand,1998-03-25,Aarhus,56.156388888,10.209722222,187998,66.0,1.82,0,,"https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D1%80%D0%BC%D0%B8%D0%B3,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD",2026-04-06T15:58:12.486513+00:00
+53,Q28744734,Anton Hansen,mand,1900-01-01,,,,,,,0,,https://es.wikipedia.org/wiki/Andreas_Hansen,2026-04-06T15:50:01.217116+00:00
+790,Q112677481,Anton Louw Larsen,mand,2006-06-24,Roskilde,55.641666666,12.080833333,282365,,,0,,https://da.wikipedia.org/wiki/Anton_Louw_Larsen,2026-04-06T15:58:23.279207+00:00
+791,Q64167818,Arne Birkemose,mand,1998-10-24,Svendborg,55.059722222,10.61,195532,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D0%BA%D0%B5%D0%BC%D0%BE%D1%81%D0%B5,_%D0%90%D1%80%D0%BD%D0%B5",2026-04-06T15:58:33.770899+00:00
+56,Q98821954,Arne Jonsson,mand,1931-11-28,,,,,,,0,,https://en.wikipedia.org/wiki/Arne_Jonsson,2026-04-06T15:50:01.217116+00:00
+792,Q692925,Arne Pedersen,mand,1917-09-07,København,55.676111111,12.568888888,214814,,,0,,https://pt.wikipedia.org/wiki/Arne_Pedersen,2026-04-06T15:58:44.978586+00:00
+793,Q18809439,Arne Petersen,mand,1913-04-02,Vejen,55.4758,9.1381,246592,,,0,,https://pt.wikipedia.org/wiki/Arne_Petersen,2026-04-06T15:58:55.989457+00:00
+59,Q16008742,Arnold Lundgren,mand,1899-01-05,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Johan_Lundgren,2026-04-06T15:50:01.217116+00:00
+794,Q98915714,Asbjørn Hellemose,mand,1999-01-15,Galten,56.1564,9.905,206644,65.0,1.92,0,,https://nl.wikipedia.org/wiki/Asbj%C3%B8rn_Hellemose,2026-04-06T15:59:06.512293+00:00
+795,Q17428009,Asbjørn Kragh Andersen,mand,1992-04-09,Strib,55.5367,9.7722,134492,72.0,1.82,0,,"https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%90%D1%81%D0%B1%D1%8C%D1%91%D1%80%D0%BD_%D0%9A%D1%80%D0%B0%D0%B3",2026-04-06T15:59:17.072601+00:00
+796,Q122146696,Asger Paaske Frederiksen,mand,2004-10-16,Kolding,55.490833333,9.472222222,283375,,,0,,"https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA%D1%81%D0%B5%D0%BD,_%D0%90%D1%81%D0%B3%D0%B5%D1%80",2026-04-06T15:59:27.563014+00:00
+797,Q115134958,Asger Røjbek Sørensen,mand,2003-04-14,Svaneke,55.1361,15.1422,260788,75.0,1.88,0,,https://da.wikipedia.org/wiki/Asger_R%C3%B8jbek_S%C3%B8rensen,2026-04-06T15:59:38.099589+00:00
+798,Q23807380,Aske Vorre Louring,mand,1993-05-24,,,,158682,,,0,,https://ca.wikipedia.org/wiki/Aske_Vorre_Louring,2026-04-06T15:59:48.729187+00:00
+799,Q105847516,Astrid Marie Bjørn Sørensen,kvinde,2005-08-31,Aarhus,56.156388888,10.209722222,271209,,,0,,https://da.wikipedia.org/wiki/Astrid_Marie_Bj%C3%B8rn_S%C3%B8rensen,2026-04-06T15:59:59.183311+00:00
+66,Q16029196,Axel Hansen,mand,1899-10-13,Amiens,49.891944444,2.297777777,,,,0,,https://pt.wikipedia.org/wiki/Axel_Hansen,2026-04-06T15:50:01.217116+00:00
+67,Q792162,Axel Hansen,mand,1882-02-09,,,,,,,0,,https://de.wikipedia.org/wiki/Axel_Hansen_(Radsportler),2026-04-06T15:50:01.217116+00:00
+68,Q792344,Axel Schandorff,mand,1926-03-03,København,55.676111111,12.568888888,,,,0,,https://uk.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B5%D0%BB%D1%8C_%D0%A1%D0%BA%D0%B0%D0%BD%D0%B4%D0%BE%D1%80%D1%84%D1%84,2026-04-06T15:50:01.217116+00:00
+800,Q136708904,Bailey Groenendaal,mand,2003-09-12,Schijndel,51.6183,5.4364,321464,,,0,,https://da.wikipedia.org/wiki/Bailey_Groenendaal,2026-04-06T16:00:09.919705+00:00
+801,Q1993761,Bekim Christensen,mand,1973-09-17,Roskilde,55.641666666,12.080833333,114491,66.0,1.78,0,,https://nl.wikipedia.org/wiki/Bekim_Christensen,2026-04-06T16:00:20.998171+00:00
+71,Q64212362,Bendy Pedersen,mand,1933-01-17,Kerteminde,55.449,10.659,,,,0,,https://da.wikipedia.org/wiki/Bendy_Pedersen,2026-04-06T15:50:01.217116+00:00
+72,Q111792952,Bengt Hjortbøl,mand,1933-01-01,,,,,,,0,,https://de.wikipedia.org/wiki/Bengt_Hjortb%C3%B8l,2026-04-06T15:50:01.217116+00:00
+802,Q66979422,Benjamin Hertz,mand,2001-10-14,Rødovre,55.6811,12.4558,216746,68.0,1.83,0,,https://da.wikipedia.org/wiki/Benjamin_Hertz,2026-04-06T16:00:31.535344+00:00
+803,Q123956277,Benjamin Thestrup,mand,2007-08-29,Karlslunde,55.5722,12.2242,300131,,,0,,https://da.wikipedia.org/wiki/Benjamin_Thestrup,2026-04-06T16:00:42.162641+00:00
+804,Q817558,Benjamin Wittrup Justesen,mand,1979-11-01,Skuldelev,55.7833,12.0172,131912,,,0,,"https://ru.wikipedia.org/wiki/%D0%AE%D1%81%D1%82%D0%B5%D1%81%D0%B5%D0%BD,_%D0%91%D0%B5%D0%BD%D1%8C%D1%8F%D0%BC%D0%B8%D0%BD",2026-04-06T16:00:52.999867+00:00
+805,Q111806083,Benny Pedersen,mand,1945-09-22,,,,236865,,,0,,https://de.wikipedia.org/wiki/Benny_Pedersen,2026-04-06T16:01:03.598800+00:00
+77,Q17404083,Benny Schnoor,mand,1922-12-28,Region Hovedstaden,55.931507329,12.35011779,,,,0,,https://pt.wikipedia.org/wiki/Benny_Schnoor,2026-04-06T15:50:01.217116+00:00
+78,Q9168913,Bent Hansen,mand,1932-10-21,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Bent_Hansen,2026-04-06T15:50:01.217116+00:00
+79,Q4890330,Bent Jørgensen,mand,1923-05-07,Region Syddanmark,55.333333333,9.666666666,,,,0,,https://pt.wikipedia.org/wiki/Bent_J%C3%B8rgensen,2026-04-06T15:50:01.217116+00:00
+80,Q25850428,Bent Ole Retvig,mand,1936-05-15,Lolland Kommune,54.769444444,11.424444444,,,,0,,https://en.wikipedia.org/wiki/Bent_Ole_Retvig,2026-04-06T15:50:01.217116+00:00
+806,Q18385388,Bent Pedersen,mand,1945-07-24,Region Hovedstaden,55.931507329,12.35011779,258564,72.0,1.8,0,,https://de.wikipedia.org/wiki/Bent_Pedersen,2026-04-06T16:01:14.198438+00:00
+82,Q111897600,Bent Peters,mand,1940-01-15,,,,,,,0,,https://de.wikipedia.org/wiki/Bent_Peters,2026-04-06T15:50:01.217116+00:00
+83,Q825027,Bernhard Franzpötter,mand,1965-12-06,,,,,,,0,,https://de.wikipedia.org/wiki/Bernhard_Franzp%C3%B6tter,2026-04-06T15:50:01.217116+00:00
+807,Q30524931,Betina Cramer,kvinde,1978-10-01,Aalborg,57.05,9.916666666,124966,,,0,,https://da.wikipedia.org/wiki/Betina_Cramer,2026-04-06T16:01:24.711709+00:00
+808,Q55287126,Birgitte Krogsgaard,kvinde,1991-10-27,Skødstrup,56.2633,10.3042,222958,,,0,,https://en.wikipedia.org/wiki/Birgitte_Krogsgaard,2026-04-06T16:01:35.214299+00:00
+809,Q125862169,Birthe Dabelstein,kvinde,,,,,314996,,,0,,"https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%D1%88%D1%82%D0%B0%D0%B9%D0%BD,_%D0%91%D0%B8%D1%80%D1%82%D0%B5",2026-04-06T16:01:45.895795+00:00
+810,Q2379839,Bjarke Nielsen,mand,1976-02-10,,,,113901,,,0,,https://nl.wikipedia.org/wiki/Bjarke_Nielsen,2026-04-06T16:01:56.476456+00:00
+88,Q4919489,Bjarke Refslund,mand,1981-01-01,,,,,,,0,,https://en.wikipedia.org/wiki/Bjarke_Refslund,2026-04-06T15:50:01.217116+00:00
+811,Q310288,Bjarne Riis,mand,1964-04-03,Herning,56.136111111,8.976666666,113406,71.0,1.84,0,,https://uk.wikipedia.org/wiki/%D0%91%27%D1%8F%D1%80%D0%BD%D0%B5_%D0%A0%D1%96%D1%96%D1%81,2026-04-06T16:02:07.123276+00:00
+812,Q19885297,Bjarne Sørensen,mand,1954-12-23,Birkerød,55.8473558,12.428001,240361,,,0,,https://pt.wikipedia.org/wiki/Bjarne_S%C3%B8rensen,2026-04-06T16:02:17.510203+00:00
+813,Q106871235,Bjørn Andreassen,mand,2001-12-27,Gudme,55.15,10.716666666,269338,,,0,,"https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0%D1%81%D1%81%D0%B5%D0%BD,_%D0%91%D1%8C%D1%91%D1%80%D0%BD",2026-04-06T16:02:27.960321+00:00
+92,Q106471358,Bjørn Persson,mand,1948-01-01,København,55.676111111,12.568888888,,,,0,,https://de.wikipedia.org/wiki/Bj%C3%B8rn_Persson,2026-04-06T15:50:01.217116+00:00
+93,Q63569189,Bjørn Stieler,mand,1912-07-24,København,55.676111111,12.568888888,,,,0,,https://da.wikipedia.org/wiki/Bj%C3%B8rn_Stieler,2026-04-06T15:50:01.217116+00:00
+94,Q17388800,Bjørn Stiler,mand,1911-07-24,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Bj%C3%B8rn_Stiler,2026-04-06T15:50:01.217116+00:00
+814,Q713153,Bo Hamburger,mand,1970-05-24,Frederiksberg,55.6779,12.5327,115220,58.0,1.74,0,,https://sv.wikipedia.org/wiki/Bo_Hamburger,2026-04-06T16:02:38.531846+00:00
+815,Q111955141,Boas Lysgaard,mand,2004-11-22,Hillerød,55.933333333,12.3,270679,80.0,1.82,0,,https://da.wikipedia.org/wiki/Boas_Lysgaard,2026-04-06T16:02:48.964573+00:00
+97,Q912055,Brian Dandanell,mand,1964-07-30,,,,,,,0,,https://de.wikipedia.org/wiki/Brian_Dandanell,2026-04-06T15:50:01.217116+00:00
+816,Q80393,Brian Holm,mand,1962-10-02,København,55.676111111,12.568888888,113450,77.0,1.86,0,,https://sv.wikipedia.org/wiki/Brian_Holm,2026-04-06T16:02:59.697612+00:00
+817,Q5656812,Brian Lykke Bistrup,mand,1967-09-22,Frederiksberg,55.6779,12.5327,212742,,,0,,https://es.wikipedia.org/wiki/Brian_Lykke_Bistrup,2026-04-06T16:03:10.304453+00:00
+818,Q913183,Brian Vandborg,mand,1981-12-04,Herning,56.136111111,8.976666666,140321,75.0,1.87,0,,"https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD%D0%B4%D0%B1%D0%BE%D1%80%D0%B3,_%D0%91%D1%80%D0%B8%D0%B0%D0%BD",2026-04-06T16:03:20.748583+00:00
+101,Q1020222,Børge Gissel,mand,1915-07-07,Aarhus,56.156388888,10.209722222,,,,0,,https://pt.wikipedia.org/wiki/B%C3%B8rge_Gissel,2026-04-06T15:50:01.217116+00:00
+102,Q17404053,Børge Mortensen,mand,1921-11-03,Aarhus,56.156388888,10.209722222,,,,0,,https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1_%D9%85%D9%88%D8%B1%D8%AA%D9%86%D8%B3%D9%86,2026-04-06T15:50:01.217116+00:00
+819,Q17388608,Børge Saxil Nielsen,mand,1920-02-21,København,55.676111111,12.568888888,255896,,,0,,https://pt.wikipedia.org/wiki/B%C3%B8rge_Saxil_Nielsen,2026-04-06T16:03:32.086948+00:00
+742,Q137705253,Camilla Knippel Knudsen,kvinde,1992-05-21,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D0%BD%D1%83%D0%B4%D1%81%D0%B5%D0%BD,_%D0%9A%D0%B0%D0%BC%D0%B8%D0%BB%D0%BB%D0%B0_%D0%9A%D0%BD%D0%B8%D0%BF%D0%BF%D0%B5%D0%BB%D1%8C",2026-04-06T15:50:01.217116+00:00
+820,Q21622099,Camilla Møllebro,kvinde,1984-05-21,Lemvig,56.5477,8.3033,180243,,,0,,https://nl.wikipedia.org/wiki/Camilla_M%C3%B8llebro,2026-04-06T16:03:42.544822+00:00
+105,Q107400615,Camilla Søgaard,kvinde,1991-08-14,Horsens,55.861944444,9.851944444,,,,0,,"https://ru.wikipedia.org/wiki/%D0%A1%D1%91%D0%B3%D0%BE%D1%80,_%D0%9A%D0%B0%D0%BC%D0%B8%D0%BB%D0%BB%D0%B0",2026-04-06T15:50:01.217116+00:00
+106,Q101074168,Carl Andreasen,mand,1874-01-01,Odense,55.4,10.383333333,,,,0,,https://de.wikipedia.org/wiki/Carl_Andreasen,2026-04-06T15:50:01.217116+00:00
+821,Q112676002,Carl Emil Just Pedersen,mand,2006-01-16,Herning,56.136111111,8.976666666,282363,80.0,1.92,0,,https://da.wikipedia.org/wiki/Carl_Emil_Just_Pedersen,2026-04-06T16:03:53.224067+00:00
+108,Q12305247,Carl Georg Rasmussen,mand,,,,,,,,0,,https://en.wikipedia.org/wiki/Carl_Georg_Rasmussen,2026-04-06T15:50:01.217116+00:00
+109,Q1039249,Carl Koblauch,mand,1923-03-19,København,55.676111111,12.568888888,,,,0,,https://de.wikipedia.org/wiki/Carl_Koblauch,2026-04-06T15:50:01.217116+00:00
+822,Q100327223,Carl-Frederik Bévort,mand,2003-11-24,København,55.676111111,12.568888888,256753,,,0,,https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94-%E5%BC%97%E9%9B%B7%E5%BE%B7%E9%87%8C%E5%85%8B%C2%B7%E8%B4%9D%E6%B2%83%E7%89%B9,2026-04-06T16:04:03.724581+00:00
+1290,Q137701221,Carol Rasmussen,kvinde,1964-01-01,Karlslunde,55.5722,12.2242,311078,,,0,,"https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81%D1%81%D0%B5%D0%BD,_%D0%9A%D0%B0%D1%80%D0%BE%D0%BB%D1%8C",2026-04-06T17:27:11.272599+00:00
+823,Q30558346,Caroline Bohé,kvinde,1999-07-23,Hillerød,55.933333333,12.3,197111,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%8D,_%D0%9A%D0%B0%D1%80%D0%BE%D0%BB%D0%B8%D0%BD",2026-04-06T16:04:14.185860+00:00
+824,Q124048764,Caroline Geldorf,kvinde,1995-05-11,Holte,55.810939,12.473536,300167,,,0,,https://da.wikipedia.org/wiki/Caroline_Geldorf,2026-04-06T16:04:24.844961+00:00
+825,Q111803145,Caroline Kirk Schad,kvinde,1997-04-01,Virum,55.7917,12.4597,283411,,,0,,"https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B4,_%D0%9A%D0%B0%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5",2026-04-06T16:04:35.358828+00:00
+826,Q639427,Casper Jørgensen,mand,1985-08-20,Årslev,55.3029,10.4642,219703,,,0,,https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B3%D9%BE%D8%B1_%DB%8C%D9%88%D8%B1%D9%86%D8%B3%D9%86,2026-04-06T16:04:45.758338+00:00
+827,Q20109709,Casper Pedersen,mand,1996-03-15,København,55.676111111,12.568888888,176731,71.0,1.86,0,,https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%B3%D8%A8%D8%B1_%D8%A8%D9%8A%D8%AF%D8%B1%D8%B3%D9%8A%D9%86,2026-04-06T16:04:56.975878+00:00
+116,Q125855988,Casper Saltoft,mand,1984-01-05,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9A%D0%B0%D1%81%D0%BF%D0%B5%D1%80_%D0%A1%D0%B0%D0%BB%D1%8C%D1%82%D0%BE%D1%84%D1%82",2026-04-06T15:50:01.217116+00:00
+828,Q1048164,Casper von Folsach,mand,1993-03-30,Gentofte Kommune,55.750472,12.552073,157818,81.0,1.91,0,,https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%96%AF%E7%8F%80%C2%B7%E5%86%AF%C2%B7%E7%A6%8F%E5%B0%94%E8%90%A8%E8%B5%AB,2026-04-06T16:05:07.448145+00:00
+829,Q2471605,Cathrine Grage,kvinde,1976-10-13,Karlslunde,55.5722,12.2242,141075,,,0,,"https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%88,_%D0%9A%D0%B0%D1%82%D1%80%D0%B8%D0%BD",2026-04-06T16:05:18.396840+00:00
+830,Q19968758,Cecilie Uttrup Ludwig,kvinde,1995-08-23,Herlev,55.731,12.424,168160,,,0,,https://zh.wikipedia.org/wiki/%E5%A1%9E%E8%A5%BF%E8%8E%89%C2%B7%E4%B9%8C%E7%89%B9%E9%B2%81%E6%99%AE%C2%B7%E5%8D%A2%E5%BE%B7%E7%BB%B4%E6%A0%BC,2026-04-06T16:05:28.953740+00:00
+831,Q5078749,Charles Hansen,mand,1891-04-23,København,55.676111111,12.568888888,253320,,,0,,https://pt.wikipedia.org/wiki/Charles_Hansen,2026-04-06T16:05:39.813425+00:00
+832,Q2959813,Charles Meyer,mand,1868-03-16,Flensborg,54.781944444,9.436666666,172567,72.0,1.7,0,,https://sv.wikipedia.org/wiki/Charles_Meyer,2026-04-06T16:05:50.327877+00:00
+833,Q447792,Chris Anker Sørensen,mand,1984-09-05,Hammel,56.25,9.866666666,140579,64.0,1.85,0,,https://vo.wikipedia.org/wiki/Chris_Anker_S%C3%B8rensen,2026-04-06T16:06:01.146575+00:00
+834,Q167704,Christian Andersen,mand,1967-06-18,Viborg,56.45,9.4,173265,71.0,1.89,0,,https://nl.wikipedia.org/wiki/Christian_Andersen,2026-04-06T16:06:12.403529+00:00
+124,Q15998506,Christian Frisch,mand,1891-07-03,København,55.676111111,12.568888888,,,,0,,https://de.wikipedia.org/wiki/Christian_Frisch_(Radsportler),2026-04-06T15:50:01.217116+00:00
+125,Q1080434,Christian Ingeman,mand,1873-12-09,,,,,,,0,,https://simple.wikipedia.org/wiki/Christian_Ingemann_Petersen,2026-04-06T15:50:01.217116+00:00
+126,Q16209797,Christian Johansen,mand,,,,,,,,0,,https://pt.wikipedia.org/wiki/Johan_Johansen,2026-04-06T15:50:01.217116+00:00
+835,Q1080641,Christian Knørr,mand,1985-08-05,Danmark,56.0,10.0,116561,,,0,,https://nl.wikipedia.org/wiki/Christian_Kn%C3%B8rr,2026-04-06T16:06:23.848356+00:00
+836,Q98375153,Christian Lindquist,mand,1997-08-05,Dragør,55.5925,12.672222222,189659,,,0,,https://fr.wikipedia.org/wiki/Christian_Lindquist,2026-04-06T16:06:34.937545+00:00
+837,Q1080523,Christian Moberg,mand,1987-11-13,Odder,55.9725,10.149722222,139719,73.0,1.94,0,,https://de.wikipedia.org/wiki/Christian_J%C3%B8rgensen,2026-04-06T16:06:45.383680+00:00
+838,Q2965532,Christian Pedersen,mand,1920-09-17,Horsens,55.861944444,9.851944444,236485,,,0,,https://pl.wikipedia.org/wiki/Christian_Pedersen_(kolarz),2026-04-06T16:06:56.524261+00:00
+131,Q88520854,Christian Poulsen,mand,1979-01-01,Kolding,55.490833333,9.472222222,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%83%D0%BB%D1%8C%D1%81%D0%B5%D0%BD,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA)",2026-04-06T15:50:01.217116+00:00
+839,Q1081511,Christian Ranneries,mand,1988-05-05,Næstved,55.23333333,11.76666667,132068,,,0,,https://fr.wikipedia.org/wiki/Christian_Ranneries,2026-04-06T16:07:07.113009+00:00
+840,Q100715719,Christian Spang Kjeldsen,mand,2002-08-14,Silkeborg,56.166666666,9.55,241547,69.0,1.82,0,,https://da.wikipedia.org/wiki/Christian_Spang_Kjeldsen,2026-04-06T16:07:17.896204+00:00
+134,Q125860091,Christian Svendsen,mand,1996-04-12,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D0%BD%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA)",2026-04-06T15:50:01.217116+00:00
+841,Q106279769,Christina Bragh Lorenzen,kvinde,1995-12-08,Varde,55.62,8.480555555,271167,71.0,1.79,0,,https://da.wikipedia.org/wiki/Christina_Bragh_Lorenzen,2026-04-06T16:07:28.833737+00:00
+842,Q12306291,Christina Siggaard,kvinde,1994-03-24,Gammel Rye,56.0783,9.7014,157828,67.0,1.78,0,,https://nl.wikipedia.org/wiki/Christina_Siggaard,2026-04-06T16:07:39.323499+00:00
+843,Q17562032,Christoffer Lisson,mand,1995-11-28,Kalundborg,55.681388888,11.085,169969,73.0,1.94,0,,https://fr.wikipedia.org/wiki/Christoffer_Lisson,2026-04-06T16:07:49.903827+00:00
+844,Q733963,Christopher Juul-Jensen,mand,1989-07-06,Kilmacanogue,53.167494,-6.136454,140300,73.0,1.83,0,,"https://ru.wikipedia.org/wiki/%D0%AE%D0%BB%D1%8C-%D0%99%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%84%D0%B5%D1%80",2026-04-06T16:08:00.493957+00:00
+139,Q125859986,Claus Crone,mand,1978-01-17,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%BD%D0%B5,_%D0%9A%D0%BB%D0%B0%D1%83%D1%81",2026-04-06T15:50:01.217116+00:00
+845,Q1098718,Claus Michael Møller,mand,1968-10-03,Hjørring,57.46,9.986666666,115483,70.0,1.82,0,,"https://ru.wikipedia.org/wiki/%D0%9C%D1%91%D0%BB%D0%BB%D0%B5%D1%80,_%D0%9A%D0%BB%D0%B0%D1%83%D1%81_%D0%9C%D0%B8%D0%BA%D0%B0%D1%8D%D0%BB%D1%8C",2026-04-06T16:08:11.085872+00:00
+141,Q20065168,Claus Rasmussen,mand,1957-12-31,Svendborg,55.059722222,10.61,,,,0,,https://pt.wikipedia.org/wiki/Claus_Rasmussen,2026-04-06T15:50:01.217116+00:00
+846,Q111804450,Conrad Haugsted,mand,2005-01-13,Islands Brygge,55.66666667,12.58333333,270134,,,0,,https://en.wikipedia.org/wiki/Conrad_Haugsted,2026-04-06T16:08:21.787033+00:00
+847,Q109768515,Curt Trusell,mand,1940-04-05,København,55.676111111,12.568888888,252716,,,0,,https://de.wikipedia.org/wiki/Curt_Trusell,2026-04-06T16:08:32.519968+00:00
+144,Q112701251,Cæcilie Rueløkke Christoffersen,kvinde,1992-05-24,Svendborg,55.059722222,10.61,,,,0,,https://da.wikipedia.org/wiki/C%C3%A6cilie_Ruel%C3%B8kke_Christoffersen,2026-04-06T15:50:01.217116+00:00
+848,Q1159069,Dan Frost,mand,1961-05-22,Frederiksberg,55.6779,12.5327,216310,,,0,,https://pt.wikipedia.org/wiki/Dan_Frost,2026-04-06T16:08:42.932922+00:00
+849,Q115203515,Daniel Brockhoff,mand,2005-11-29,Tranbjerg,56.095833333,10.136111111,270128,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BA%D1%85%D0%BE%D1%84%D1%84,_%D0%94%D0%B0%D0%BD%D0%B8%D0%B5%D0%BB%D1%8C",2026-04-06T16:08:53.481608+00:00
+850,Q204546,Daniel Foder,mand,1983-04-07,Silkeborg,56.166666666,9.55,139815,,,0,,https://fr.wikipedia.org/wiki/Daniel_Foder,2026-04-06T16:09:03.992208+00:00
+851,Q106864123,Daniel Guld,mand,2000-12-09,Tilst,56.192,10.11,242839,67.0,1.83,0,,https://da.wikipedia.org/wiki/Daniel_Guld,2026-04-06T16:09:14.538296+00:00
+852,Q212146,Daniel Kreutzfeldt,mand,1987-11-19,Roskilde,55.641666666,12.080833333,124015,,,0,,https://pt.wikipedia.org/wiki/Daniel_Kreutzfeldt,2026-04-06T16:09:25.921849+00:00
+853,Q28970640,Daniel Lyhne,mand,1996-03-03,Skive,56.566666666,9.026944444,186976,61.0,1.77,0,,"https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%BD%D0%B5,_%D0%94%D0%B0%D0%BD%D0%B8%D0%B5%D0%BB%D1%8C",2026-04-06T16:09:36.354245+00:00
+854,Q104166378,Daniel Stampe,mand,1996-07-27,Gentofte,55.7517,12.5508,209393,79.0,1.89,0,,https://nl.wikipedia.org/wiki/Daniel_Stampe,2026-04-06T16:09:46.868335+00:00
+855,Q109575935,Daniel Weis Nielsen,mand,2005-07-17,Roskilde,55.641666666,12.080833333,270117,60.0,1.66,0,,https://fr.wikipedia.org/wiki/Daniel_Weis,2026-04-06T16:09:57.682078+00:00
+856,Q2706615,Danny Jonasson,mand,1974-10-01,Hørsholm,55.878611111,12.499166666,114059,,,0,,https://fr.wikipedia.org/wiki/Danny_Jonasson,2026-04-06T16:10:08.169715+00:00
+857,Q104099076,Dennis Lock,mand,2002-05-17,Kolding,55.490833333,9.472222222,244542,58.0,1.76,0,,https://fr.wikipedia.org/wiki/Dennis_Lock,2026-04-06T16:10:18.680688+00:00
+155,Q1226923,Dion Åkerstrøm,mand,1973-05-20,Frederiksberg,55.6779,12.5327,,,,0,,https://de.wikipedia.org/wiki/Dion_%C3%85kerstr%C3%B8m,2026-04-06T15:50:01.217116+00:00
+156,Q112162639,Dorte Balle,kvinde,1997-05-31,Nykøbing Mors,56.7981,8.8622,,,,0,,https://da.wikipedia.org/wiki/Dorte_Balle,2026-04-06T15:50:01.217116+00:00
+858,Q12308859,Dorte Lohse,kvinde,1971-03-16,Silkeborg,56.166666666,9.55,134532,,,0,,"https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81%D1%81%D0%B5%D0%BD,_%D0%94%D0%BE%D1%80%D1%82%D0%B5_%D0%9B%D0%BE%D0%B7%D0%B5",2026-04-06T16:10:29.292838+00:00
+859,Q31137817,Dávur Magnussen,mand,1995-02-28,,,,209396,75.0,1.79,0,,https://fo.wikipedia.org/wiki/D%C3%A1vur_Magnussen,2026-04-06T16:10:40.000744+00:00
+159,Q59554,Edmund Hansen,mand,1900-09-09,Odense,55.4,10.383333333,,,,0,,https://es.wikipedia.org/wiki/Edmund_Hansen,2026-04-06T15:50:01.217116+00:00
+160,Q1294962,Edwin Schrader,mand,1900-01-01,,,,,,,0,,https://pl.wikipedia.org/wiki/Edwin_Schrader,2026-04-06T15:50:01.217116+00:00
+860,Q18353035,Eigil Sørensen,mand,1948-06-24,Region Syddanmark,55.333333333,9.666666666,258419,68.0,1.77,0,,https://pt.wikipedia.org/wiki/Eigil_S%C3%B8rensen,2026-04-06T16:10:50.438604+00:00
+861,Q99901075,Ellen Hjøllund Klinge,kvinde,2000-12-31,Strib,55.5367,9.7722,216388,,,0,,https://de.wikipedia.org/wiki/Ellen_Klinge,2026-04-06T16:11:01.419003+00:00
+862,Q633093,Eluf Dalgaard,mand,1929-05-26,Vejle,55.708333333,9.533333333,183104,,,0,,https://cs.wikipedia.org/wiki/Eluf_Dalgaard,2026-04-06T16:11:12.077997+00:00
+863,Q37793152,Emil Bækhøj Halvorsen,mand,1994-04-18,Aarhus,56.156388888,10.209722222,180386,,,0,,https://fr.wikipedia.org/wiki/Emil_B%C3%A6kh%C3%B8j,2026-04-06T16:11:22.838738+00:00
+864,Q109367460,Emil Feldberg Hansen,mand,2003-04-06,Holbæk,55.7181,11.7103,256771,,,0,,https://da.wikipedia.org/wiki/Emil_Feldberg_Hansen,2026-04-06T16:11:33.745105+00:00
+166,Q1336252,Emil Hovmand,mand,1991-07-15,,,,,,,0,,https://de.wikipedia.org/wiki/Emil_Hovmand,2026-04-06T15:50:01.217116+00:00
+865,Q133457766,Emil Nymand Nielsen,mand,2006-04-13,Lillerød,55.8708,12.356,330703,56.0,1.68,0,,https://da.wikipedia.org/wiki/Emil_Nymand_Nielsen,2026-04-06T16:11:44.899127+00:00
+866,Q98685705,Emil Schandorff Iwersen,mand,2002-08-15,København,55.676111111,12.568888888,240122,62.0,1.83,0,,https://da.wikipedia.org/wiki/Emil_Schandorff_Iwersen,2026-04-06T16:11:55.397900+00:00
+867,Q20736152,Emil Toudal,mand,1996-05-28,Rønne,55.1,14.7,190402,72.0,1.87,0,,https://nl.wikipedia.org/wiki/Emil_Toudal,2026-04-06T16:12:06.801830+00:00
+868,Q28099968,Emil Vinjebo,mand,1994-03-24,Gadstrup,55.5686,12.0925,168774,67.0,1.81,0,,https://nl.wikipedia.org/wiki/Emil_Vinjebo,2026-04-06T16:12:17.463666+00:00
+171,Q124167800,Emma Lund,kvinde,1997-07-02,,,,,,,0,,https://en.wikipedia.org/wiki/Emma_Lund,2026-04-06T15:50:01.217116+00:00
+869,Q131102156,Emma Lyngholm,kvinde,1995-05-18,,,,324613,,,0,,"https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%BD%D0%B3%D1%85%D0%BE%D0%BB%D1%8C%D0%BC,_%D0%AD%D0%BC%D0%BC%D0%B0",2026-04-06T16:12:28.225680+00:00
+870,Q25170737,Emma Norsgaard Bjerg,kvinde,1999-07-26,Silkeborg,56.166666666,9.55,197113,65.0,1.72,0,,https://zh.wikipedia.org/wiki/%E5%9F%83%E7%8E%9B%C2%B7%E8%AF%BA%E6%96%AF%E6%88%88%E5%B0%94,2026-04-06T16:12:38.851007+00:00
+871,Q123044983,Erik Aagaard,mand,1996-09-05,Lisbjerg,56.2206,10.17,302781,,,0,,"https://ru.wikipedia.org/wiki/%D0%9E%D0%B3%D0%BE%D1%80,_%D0%AD%D1%80%D0%B8%D0%BA",2026-04-06T16:12:49.486558+00:00
+872,Q16009190,Erik Andersen,mand,1902-08-15,Sjælland,55.57,11.89,250130,,,0,,https://pt.wikipedia.org/wiki/Erik_Andersen,2026-04-06T16:13:00.273032+00:00
+176,Q17388362,Erik Friis,mand,1916-01-23,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Erik_Friis,2026-04-06T15:50:01.217116+00:00
+177,Q2692852,Erik Kjeldsen,mand,1890-10-20,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Erik_Kjeldsen,2026-04-06T15:50:01.217116+00:00
+178,Q112079837,Erik Skelde,mand,1944-07-15,,,,,,,0,,https://de.wikipedia.org/wiki/Erik_Skelde,2026-04-06T15:50:01.217116+00:00
+179,Q43294564,Ernst Albin Hansen,mand,1969-11-06,Roskilde,55.641666666,12.080833333,,,,0,,"https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D1%81%D0%B5%D0%BD,_%D0%AD%D1%80%D0%BD%D1%81%D1%82",2026-04-06T15:50:01.217116+00:00
+180,Q12310752,Evan Klamer,mand,1923-01-15,København,55.676111111,12.568888888,,,,0,,https://sv.wikipedia.org/wiki/Evan_Klamer,2026-04-06T15:50:01.217116+00:00
+873,Q61659339,Fie Østerby,kvinde,1992-05-10,Juelsminde,55.7062,10.0155,211047,,,0,,https://da.wikipedia.org/wiki/Fie_%C3%98sterby,2026-04-06T16:13:10.770096+00:00
+182,Q17579996,Flemming Hansen,mand,1944-02-11,Køge,55.45,12.183333333,,,,0,,https://pt.wikipedia.org/wiki/Flemming_Hansen,2026-04-06T15:50:01.217116+00:00
+183,Q109529539,Flemming Wewer,mand,1943-11-23,Helsinge,56.02194,12.19944,,,,0,,https://de.wikipedia.org/wiki/Flemming_Wewer,2026-04-06T15:50:01.217116+00:00
+184,Q16545505,Flemming Wisborg,mand,1943-01-01,København,55.676111111,12.568888888,,,,0,,https://pl.wikipedia.org/wiki/Flemming_Wisborg,2026-04-06T15:50:01.217116+00:00
+874,Q951784,Frank Høj,mand,1973-01-04,Holte,55.810939,12.473536,126076,80.0,1.86,0,,https://sv.wikipedia.org/wiki/Frank_H%C3%B8j,2026-04-06T16:13:21.442974+00:00
+875,Q1452642,Freddy Eugen,mand,1941-02-04,København,55.676111111,12.568888888,195322,,,0,,https://sv.wikipedia.org/wiki/Freddy_Eugen,2026-04-06T16:13:32.349592+00:00
+187,Q12312263,Frede Toxværd,mand,1941-01-01,,,,,,,0,,https://da.wikipedia.org/wiki/Frede_Toxv%C3%A6rd,2026-04-06T15:50:01.217116+00:00
+876,Q87137907,Frederik Bertelsen,mand,1974-04-24,København,55.676111111,12.568888888,233438,,,0,,https://en.wikipedia.org/wiki/Frederik_Bertelsen,2026-04-06T16:13:43.037645+00:00
+877,Q109533343,Frederik Bjørn Sørensen,mand,2003-05-18,Aarhus,56.156388888,10.209722222,256768,,,0,,https://da.wikipedia.org/wiki/Frederik_Bj%C3%B8rn_S%C3%B8rensen,2026-04-06T16:13:53.658594+00:00
+878,Q106864496,Frederik Erringsø,mand,2002-07-31,Svogerslev,55.6339,12.0111,240698,67.0,1.83,0,,https://da.wikipedia.org/wiki/Frederik_Errings%C3%B8,2026-04-06T16:14:04.492586+00:00
+879,Q55989247,Frederik Irgens Jensen,mand,1999-09-10,Fuglebjerg,55.3019,11.5431,201708,75.0,1.96,0,,https://fr.wikipedia.org/wiki/Frederik_Irgens,2026-04-06T16:14:15.549286+00:00
+192,Q18222020,Frederik Lind Plesner,mand,1994-01-03,,,,,,,0,,https://fr.wikipedia.org/wiki/Frederik_Plesner,2026-04-06T15:50:01.217116+00:00
+880,Q109540470,Frederik Lykke,mand,2004-04-01,Silkeborg,56.166666666,9.55,270677,,,0,,https://da.wikipedia.org/wiki/Frederik_Lykke,2026-04-06T16:14:26.537757+00:00
+881,Q54622403,Frederik Muff,mand,1993-08-02,Esbjerg,55.470833333,8.451388888,188046,78.0,1.95,0,,"https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D1%81%D0%B5%D0%BD,_%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA_%D0%9C%D1%83%D1%84%D1%84",2026-04-06T16:14:37.402633+00:00
+882,Q23008098,Frederik Rodenberg,mand,1998-01-22,Værløse,55.7828,12.37,188791,73.0,1.9,0,,"https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3,_%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA",2026-04-06T16:14:47.941377+00:00
+883,Q45995914,Frederik Wandahl,mand,2001-05-09,Stockholm,59.329444444,18.068611111,216889,61.0,1.78,0,,https://pl.wikipedia.org/wiki/Frederik_Wandahl,2026-04-06T16:14:58.645811+00:00
+884,Q110917111,Frederikke Asfeldt,kvinde,1999-02-14,Herning,56.136111111,8.976666666,260888,,,0,,https://da.wikipedia.org/wiki/Frederikke_Asfeldt,2026-04-06T16:15:09.320851+00:00
+198,Q80672962,Fritz Ravn,mand,1929-09-13,Esbjerg,55.470833333,8.451388888,,,,0,,https://simple.wikipedia.org/wiki/Fritz_Ravn,2026-04-06T15:50:01.217116+00:00
+885,Q127589,Frode Sørensen,mand,1912-02-08,København,55.676111111,12.568888888,246735,,,0,,https://uk.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%B4%D0%B5_%D0%A1%D0%B5%D1%80%D0%B5%D0%BD%D1%81%D0%B5%D0%BD_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA),2026-04-06T16:15:19.776211+00:00
+200,Q120200447,Georg Nielsen,mand,,,,,,,,0,,https://de.wikipedia.org/wiki/Georg_Nielsen,2026-04-06T15:50:01.217116+00:00
+201,Q107350909,Gerhard Nielsen,mand,1945-01-01,,,,,,,0,,https://de.wikipedia.org/wiki/Gerhard_Nielsen,2026-04-06T15:50:01.217116+00:00
+886,Q2610046,Gert Frank,mand,1956-03-15,Hobro,56.633333333,9.8,213518,,,0,,https://uk.wikipedia.org/wiki/%D2%90%D0%B5%D1%80%D1%82_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA,2026-04-06T16:15:30.432007+00:00
+887,Q119797877,Gertrud Riis Madsen,kvinde,2004-07-25,Skørping,56.833333333,9.883333333,294399,,,0,,"https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D1%81%D0%B5%D0%BD,_%D0%93%D0%B5%D1%80%D1%82%D1%80%D1%83%D0%B4",2026-04-06T16:15:41.138224+00:00
+888,Q1531039,Glenn Bak,mand,1981-06-27,Ølstykke-Stenløse,55.7667,12.1833,122849,,,0,,https://fr.wikipedia.org/wiki/Glenn_Bak,2026-04-06T16:15:51.815995+00:00
+889,Q5576943,Godtfred Olsen,mand,1883-07-22,Roholte,55.195,12.0903,253337,,,0,,https://pt.wikipedia.org/wiki/Godtfred_Olsen,2026-04-06T16:16:03.052961+00:00
+206,Q861594,Gunnar Asmussen,mand,1944-05-10,Aarhus,56.156388888,10.209722222,,,,0,,https://uk.wikipedia.org/wiki/%D2%90%D1%83%D0%BD%D0%BD%D0%B0%D1%80_%D0%90%D1%81%D0%BC%D1%83%D1%81%D1%81%D0%B5%D0%BD,2026-04-06T15:50:01.217116+00:00
+207,Q44294645,Gunnar Dahl-Olsen,mand,1965-01-12,,,,,,,0,,https://fr.wikipedia.org/wiki/Gunnar_Dahl-Olsen,2026-04-06T15:50:01.217116+00:00
+890,Q12314648,Gunnar Tycho Langhoff Andersen,mand,1911-05-12,København,55.676111111,12.568888888,246757,,,0,,https://pt.wikipedia.org/wiki/Gunnar_Andersen,2026-04-06T16:16:13.454187+00:00
+891,Q106977802,Gustav Frederik Dahl,mand,2000-11-27,Helsinge,56.02194,12.19944,242845,62.0,1.85,0,,"https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BB%D1%8C,_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2_%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA",2026-04-06T16:16:24.146931+00:00
+210,Q105154589,Gustav Heby Pedersen,mand,2004-07-16,Gug,57.0069,9.9267,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2_%D0%A5%D0%B5%D0%B1%D1%8E",2026-04-06T15:50:01.217116+00:00
+892,Q97127315,Gustav Wang,mand,2003-03-13,Rødovre,55.6811,12.4558,243168,70.0,1.86,0,,https://nl.wikipedia.org/wiki/Gustav_Wang,2026-04-06T16:16:34.671945+00:00
+893,Q26899220,Hanne Malmberg,kvinde,1964-11-19,Upernavik,72.783888888,-56.150555555,227216,,,0,,https://fr.wikipedia.org/wiki/Hanne_Malmberg,2026-04-06T16:16:45.120836+00:00
+894,Q1579279,Hans Andresen,mand,1927-10-03,Vedbæk,55.8514,12.5685,172443,,,0,,https://de.wikipedia.org/wiki/Hans_Andresen_(Radsportler),2026-04-06T16:16:55.712938+00:00
+214,Q17388609,Hans Christian Nielsen,mand,1916-02-16,Region Hovedstaden,55.931507329,12.35011779,,,,0,,https://pt.wikipedia.org/wiki/Hans_Christian_Nielsen,2026-04-06T15:50:01.217116+00:00
+895,Q16006619,Hans Olsen,mand,1885-01-01,Roholte,55.195,12.0903,253380,,,0,,https://pt.wikipedia.org/wiki/Hans_Olsen,2026-04-06T16:17:06.234061+00:00
+216,Q131380314,Hans Viggo Jensen,mand,1900-04-01,,,,,,,0,,https://de.wikipedia.org/wiki/Hans_Viggo_Jensen_(Radsportler),2026-04-06T15:50:01.217116+00:00
+896,Q611893,Hans-Henrik Ørsted,mand,1954-12-13,Grenaa,56.413333333,10.875833333,213204,,,0,,https://eo.wikipedia.org/wiki/Hans-Henrik_%C3%98rsted,2026-04-06T16:17:16.775791+00:00
+218,Q129327,Harald Christensen,mand,1907-04-09,Kolding,55.490833333,9.472222222,,,,0,,https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B0%D0%BB%D1%8C%D0%B4_%D0%9A%D1%80%D1%96%D1%81%D1%82%D0%B5%D0%BD%D1%81%D0%B5%D0%BD_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA),2026-04-06T15:50:01.217116+00:00
+219,Q17388308,Heino Dissing,mand,1912-09-16,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Heino_Dissing,2026-04-06T15:50:01.217116+00:00
+897,Q5704481,Helge Hansen,mand,1925-04-02,Kongens Lyngby,55.77,12.5,246590,,,0,,https://pt.wikipedia.org/wiki/Helge_Hansen,2026-04-06T16:17:27.364260+00:00
+221,Q19519092,Helge Jacobsen,mand,1915-01-02,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Helge_Jacobsen,2026-04-06T15:50:01.217116+00:00
+222,Q125862166,Helle DeLeva,kvinde,,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%9B%D0%B5%D0%B2%D0%B0,_%D0%A5%D0%B5%D0%BB%D0%BB%D0%B5",2026-04-06T15:50:01.217116+00:00
+223,Q124807864,Helle Haugaard Jessen,kvinde,1981-11-14,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%99%D0%B5%D1%81%D1%81%D0%B5%D0%BD,_%D0%A5%D0%B5%D0%BB%D0%BB%D0%B5_%D0%A5%D0%B0%D1%83%D0%B3%D0%BE%D1%80",2026-04-06T15:50:01.217116+00:00
+224,Q124807863,Helle Qvortrup Bachmann,kvinde,1982-04-06,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%85%D0%BC%D0%B0%D0%BD%D0%BD,_%D0%A5%D0%B5%D0%BB%D0%BB%D0%B5_%D0%9A%D0%B2%D0%BE%D1%80%D1%82%D1%80%D1%83%D0%BF",2026-04-06T15:50:01.217116+00:00
+898,Q1602727,Helle Sørensen,kvinde,1963-05-22,Ringsted Kommune,55.445276,11.788908,228310,56.0,1.59,0,,https://pt.wikipedia.org/wiki/Helle_S%C3%B8rensen,2026-04-06T16:17:37.846580+00:00
+899,Q18396929,Henning Jørgensen,mand,1949-03-06,Region Midtjylland,56.166666666,9.5,233499,71.0,1.77,0,,https://pt.wikipedia.org/wiki/Henning_J%C3%B8rgensen,2026-04-06T16:17:49.204020+00:00
+227,Q16186764,Henning Larsen,mand,1955-04-12,Fraugde,55.3544,10.4883,,,,0,,https://pt.wikipedia.org/wiki/Henning_Larsen_(ciclista_nascido_em_1955),2026-04-06T15:50:01.217116+00:00
+900,Q16557361,Henning Petersen,mand,1939-09-03,Søllerød Kommune,55.816666666,12.516666666,203663,,,0,,https://fr.wikipedia.org/wiki/Henning_Petersen,2026-04-06T16:17:59.728735+00:00
+229,Q5715034,Henning R. Larsen,mand,1931-04-09,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Henning_Larsen,2026-04-06T15:50:01.217116+00:00
+230,Q16146593,Henrik Baltzersen,mand,1984-08-14,Bjerringbro,56.375555555,9.655,,,,0,,https://pt.wikipedia.org/wiki/Henrik_Baltzersen,2026-04-06T15:50:01.217116+00:00
+901,Q101951317,Henrik Breiner Pedersen,mand,2004-12-03,Sønder Felding,55.942777777,8.782777777,262283,,,0,,https://nl.wikipedia.org/wiki/Henrik_Pedersen_(wielrenner),2026-04-06T16:18:10.191394+00:00
+902,Q2067186,Henrik Djernis,mand,1966-04-22,Svebølle,55.6511,11.2808,191076,,,0,,https://sv.wikipedia.org/wiki/Henrik_Djernis,2026-04-06T16:18:20.864404+00:00
+233,Q106409590,Henrik Hammel,mand,1969-05-07,,,,,,,0,,https://de.wikipedia.org/wiki/Henrik_Hammel,2026-04-06T15:50:01.217116+00:00
+234,Q20016003,Henrik Salée,mand,1955-11-28,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Henrik_Sal%C3%A9e,2026-04-06T15:50:01.217116+00:00
+235,Q1606540,Henry Brask Andersen,mand,1896-06-23,København,55.676111111,12.568888888,,,,0,,https://sv.wikipedia.org/wiki/Henry_Brask_Andersen,2026-04-06T15:50:01.217116+00:00
+903,Q763580,Henry Hansen,mand,1902-03-16,København,55.676111111,12.568888888,230360,,,0,,https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D1%80%D1%96_%D0%93%D0%B0%D0%BD%D1%81%D0%B5%D0%BD_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA),2026-04-06T16:18:31.489373+00:00
+237,Q120266383,Henry Jørgensen,mand,1907-01-03,,,,,,,0,,https://de.wikipedia.org/wiki/Henry_J%C3%B8rgensen,2026-04-06T15:50:01.217116+00:00
+904,Q115903111,Hjalte Thor Knudsen,mand,2003-04-15,Hundested,55.963611111,11.8525,260795,,,0,,https://da.wikipedia.org/wiki/Hjalte_Thor_Knudsen,2026-04-06T16:18:42.005433+00:00
+239,Q2791636,Holger Guldager,mand,1904-09-16,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Holger_Guldager,2026-04-06T15:50:01.217116+00:00
+905,Q117034664,Hugo Rishøj,mand,2006-05-14,København,55.676111111,12.568888888,282369,,,0,,https://da.wikipedia.org/wiki/Hugo_Rish%C3%B8j,2026-04-06T16:18:52.649041+00:00
+906,Q99293725,Ian Millennium,mand,2001-02-17,Odense,55.4,10.383333333,261730,,,0,,"https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D0%BD%D0%BD%D0%B8%D1%83%D0%BC,_%D0%9C%D0%B0%D1%80%D0%BA_%D0%98%D0%B0%D0%BD",2026-04-06T16:19:03.057201+00:00
+242,Q63614779,Ib Laursen,mand,1926-09-26,København,55.676111111,12.568888888,,,,0,,https://da.wikipedia.org/wiki/Ib_Laursen,2026-04-06T15:50:01.217116+00:00
+243,Q16090307,Ib Vagn Hansen,mand,1926-01-04,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Ib_Vagn_Hansen,2026-04-06T15:50:01.217116+00:00
+907,Q120199196,Ib Varbæk,mand,1940-12-16,,,,245302,,,0,,https://de.wikipedia.org/wiki/Ib_Varb%C3%A6k,2026-04-06T16:19:13.817557+00:00
+908,Q115430325,Ida Dam Fialla,kvinde,2008-08-13,Odense,55.4,10.383333333,304380,,,0,,https://de.wikipedia.org/wiki/Ida_Fialla,2026-04-06T16:19:24.651727+00:00
+909,Q112438446,Ida Krickau Ketelsen,kvinde,2006-06-15,Solrød Strand,55.531944444,12.219444444,282338,,,0,,https://da.wikipedia.org/wiki/Ida_Krickau_Ketelsen,2026-04-06T16:19:35.328895+00:00
+910,Q109553112,Ida Mechlenborg Krum,kvinde,2004-03-21,Fredericia,55.564444444,9.759722222,260943,,,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%83%D0%BC,_%D0%98%D0%B4%D0%B0_%D0%9C%D0%B5%D0%BA%D0%BB%D0%B5%D0%BD%D0%B1%D0%BE%D1%80%D0%B3",2026-04-06T16:19:46.188705+00:00
+248,Q19879185,Ivar Jakobsen,mand,1954-01-05,Frederiksberg,55.6779,12.5327,,,,0,,https://pt.wikipedia.org/wiki/Ivar_Jakobsen,2026-04-06T15:50:01.217116+00:00
+911,Q115092401,Jacob Bausager,mand,1960-01-23,Roskilde,55.641666666,12.080833333,178518,,,0,,https://da.wikipedia.org/wiki/Jacob_Bausager,2026-04-06T16:19:56.908585+00:00
+912,Q4439719,Jacob Gram Nielsen,mand,1976-06-15,Næstved,55.23333333,11.76666667,231899,,,0,,https://nl.wikipedia.org/wiki/Jacob_Gram_Nielsen,2026-04-06T16:20:07.452730+00:00
+913,Q42572176,Jacob Hindsgaul,mand,2000-07-14,Middelfart,55.505833333,9.730555555,207950,67.0,1.9,0,,https://tr.wikipedia.org/wiki/Jacob_Hindsgaul,2026-04-06T16:20:18.264856+00:00
+914,Q330253,Jacob Moe Rasmussen,mand,1975-01-19,Amager,55.616666666,12.616666666,117776,,,0,,https://nl.wikipedia.org/wiki/Jacob_Moe_Rasmussen,2026-04-06T16:20:28.810021+00:00
+915,Q1677598,Jacob Nielsen,mand,1978-01-12,Horsens,55.861944444,9.851944444,134331,,,0,,https://fr.wikipedia.org/wiki/Jacob_Nielsen_(cyclisme),2026-04-06T16:20:39.417936+00:00
+916,Q106977307,Jacob Schebye,mand,2000-08-23,Bjæverskov,55.4575,12.0319,242842,,,0,,https://da.wikipedia.org/wiki/Jacob_Schebye,2026-04-06T16:20:49.957509+00:00
+917,Q27266162,Jakob Egholm,mand,1998-04-27,Holbæk,55.7181,11.7103,193600,69.0,1.86,0,,https://cs.wikipedia.org/wiki/Jakob_Egholm,2026-04-06T16:21:00.388502+00:00
+918,Q30224171,Jakob Frandsen,mand,1994-10-30,Ebeltoft,56.2,10.68,163398,,,0,,"https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BD%D1%81%D0%B5%D0%BD,_%D0%AF%D0%BA%D0%BE%D0%B1",2026-04-06T16:21:10.867539+00:00
+919,Q507962,Jakob Fuglsang,mand,1985-03-22,Genève,46.2,6.15,140870,67.0,1.82,0,,https://zh.wikipedia.org/wiki/%E9%9B%85%E5%90%84%E5%B8%83%C2%B7%E7%A6%8F%E5%B0%94%E6%A1%91,2026-04-06T16:21:21.584564+00:00
+920,Q472590,Jakob Piil,mand,1973-03-09,Odense,55.4,10.383333333,115825,65.0,1.82,0,,https://sv.wikipedia.org/wiki/Jakob_Piil,2026-04-06T16:21:32.025562+00:00
+921,Q99528699,James Møller,mand,,,,,321860,,,0,,https://da.wikipedia.org/wiki/James_M%C3%B8ller,2026-04-06T16:21:42.833053+00:00
+922,Q1581415,Jan Bo Petersen,mand,1970-07-28,Næstved,55.23333333,11.76666667,182408,,,0,,https://uk.wikipedia.org/wiki/%D0%AF%D0%BD_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D1%81%D0%B5%D0%BD_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA),2026-04-06T16:21:53.274134+00:00
+923,Q2335961,Jan Erik Østergaard,mand,1961-02-20,Vejle Kommune,55.705,9.532777777,168082,,,0,,"https://ru.wikipedia.org/wiki/%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B3%D0%BE%D1%80,_%D0%AF%D0%BD",2026-04-06T16:22:03.781656+00:00
+924,Q91231849,Jan Høegh,mand,1946-04-13,,,,226324,,,0,,https://de.wikipedia.org/wiki/Jan_H%C3%B8egh,2026-04-06T16:22:14.212042+00:00
+263,Q12319032,Jan Ingstrup-Mikkelsen,mand,1944-02-25,Helsingør,56.036,12.6106,,,,0,,https://pt.wikipedia.org/wiki/Jan_Ingstrup-Mikkelsen,2026-04-06T15:50:01.217116+00:00
+264,Q106651078,Jan Møller,mand,1957-11-16,,,,,,,0,,https://de.wikipedia.org/wiki/Jan_M%C3%B8ller,2026-04-06T15:50:01.217116+00:00
+265,Q6170804,Jean Hansen,mand,1932-03-06,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Jean_Hansen,2026-04-06T15:50:01.217116+00:00
+266,Q125855952,Jens Gorm Hansen,mand,1976-03-02,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D1%81%D0%B5%D0%BD,_%D0%99%D0%B5%D0%BD%D1%81_%D0%93%D0%BE%D1%80%D0%BC",2026-04-06T15:50:01.217116+00:00
+267,Q6179723,Jens Juul Eriksen,mand,1926-07-09,Aarhus,56.156388888,10.209722222,,,,0,,https://pt.wikipedia.org/wiki/Jens_Juul_Eriksen,2026-04-06T15:50:01.217116+00:00
+268,Q1687336,Jens Petersen,mand,1919-04-24,København,55.676111111,12.568888888,,,,0,,https://de.wikipedia.org/wiki/Jens_Petersen_(Radsportler),2026-04-06T15:50:01.217116+00:00
+925,Q17560927,Jens Sørensen,mand,1941-04-04,København,55.676111111,12.568888888,246640,,,0,,https://simple.wikipedia.org/wiki/Jens_S%C3%B8rensen_(cyclist),2026-04-06T16:22:24.841514+00:00
+926,Q637607,Jens Veggerby,mand,1962-10-20,København,55.676111111,12.568888888,168045,,,0,,https://sv.wikipedia.org/wiki/Jens_Veggerby,2026-04-06T16:22:35.527781+00:00
+927,Q1382244,Jens-Erik Madsen,mand,1981-03-30,Randers,56.456944444,10.039166666,133273,,,0,,https://uk.wikipedia.org/wiki/%D0%84%D0%BD%D1%81-%D0%95%D1%80%D1%96%D0%BA_%D0%9C%D0%B0%D0%B4%D1%81%D0%B5%D0%BD,2026-04-06T16:22:46.079029+00:00
+928,Q54887601,Jeppe Aaskov Pallesen,mand,1997-07-17,Aarhus,56.156388888,10.209722222,204035,60.0,1.74,0,,https://fr.wikipedia.org/wiki/Jeppe_Aaskov_Pallesen,2026-04-06T16:22:56.619461+00:00
+929,Q106864110,Jeppe Falk-Kristensen,mand,1998-09-14,,,,221962,,,0,,"https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%BB%D1%8C%D0%BA-%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%99%D0%B5%D0%BF%D0%BF%D0%B5",2026-04-06T16:23:07.349242+00:00
+274,Q124805924,Jesper Agergaard Jensen,mand,1975-02-18,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D0%B5%D1%80%D0%B3%D0%BE%D1%80,_%D0%99%D0%B5%D1%81%D0%BF%D0%B5%D1%80",2026-04-06T15:50:01.217116+00:00
+930,Q28970278,Jesper Bundgaard Vinkel,mand,1996-02-07,Holstebro,56.358055555,8.6175,181036,,,0,,https://da.wikipedia.org/wiki/Jesper_Bundgaard_Vinkel,2026-04-06T16:23:17.951152+00:00
+931,Q16645732,Jesper Hansen,mand,1990-10-23,København,55.676111111,12.568888888,138480,60.0,1.72,0,,https://sv.wikipedia.org/wiki/Jesper_Hansen_(cyklist),2026-04-06T16:23:28.538174+00:00
+932,Q1688106,Jesper Mørkøv,mand,1988-03-11,Kokkedal,55.908333333,12.49,128464,,,0,,https://sv.wikipedia.org/wiki/Jesper_M%C3%B8rk%C3%B8v,2026-04-06T16:23:39.220345+00:00
+933,Q28970733,Jesper Schultz,mand,1996-02-27,Danmark,56.0,10.0,179100,60.0,1.81,0,,https://fr.wikipedia.org/wiki/Jesper_Schultz,2026-04-06T16:23:49.856991+00:00
+934,Q910991,Jesper Skibby,mand,1964-03-21,Silkeborg,56.166666666,9.55,113558,70.0,1.88,0,,https://sv.wikipedia.org/wiki/Jesper_Skibby,2026-04-06T16:24:00.483185+00:00
+935,Q1357444,Jesper Worre,mand,1959-06-05,Frederiksberg,55.6779,12.5327,168904,,,0,,https://sv.wikipedia.org/wiki/Jesper_Worre,2026-04-06T16:24:11.078495+00:00
+936,Q1688514,Jette Fuglsang,kvinde,1978-05-31,Thisted,56.9539,8.6903,117506,,,0,,https://de.wikipedia.org/wiki/Jette_Fuglsang,2026-04-06T16:24:22.534156+00:00
+937,Q946823,Jimmi Madsen,mand,1969-01-04,København,55.676111111,12.568888888,114485,,,0,,https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D1%96_%D0%9C%D0%B0%D0%B4%D1%81%D0%B5%D0%BD,2026-04-06T16:24:33.200595+00:00
+938,Q1689279,Jimmi Sørensen,mand,1990-11-07,,,,139821,,,0,,https://fr.wikipedia.org/wiki/Jimmi_S%C3%B8rensen,2026-04-06T16:24:43.655312+00:00
+284,Q23771382,Jimmi Therkelsen,mand,1991-07-07,Billund,55.7243,9.1188,,,,0,,https://en.wikipedia.org/wiki/Jimmi_Therkelsen,2026-04-06T15:50:01.217116+00:00
+286,Q21089268,Jimmy Hansen,mand,1974-02-08,,,,,,,0,,https://ca.wikipedia.org/wiki/Jimmy_Hansen,2026-04-06T15:50:01.217116+00:00
+939,Q1689363,Jimmy Hansen,mand,1978-08-17,Bagsværd,55.76,12.455,115265,,,0,,https://de.wikipedia.org/wiki/Jimmy_Hansen,2026-04-06T16:24:54.272383+00:00
+287,Q1689376,Jimmy Johnsen,mand,1978-05-30,,,,,,,0,,https://es.wikipedia.org/wiki/Jimmy_Johnsen,2026-04-06T15:50:01.217116+00:00
+940,Q3179494,Joachim Parbo,mand,1974-11-18,Struer,56.491666666,8.594444444,190268,,,0,,https://fr.wikipedia.org/wiki/Joachim_Parbo,2026-04-06T16:25:04.768862+00:00
+941,Q131819055,Joakim Bukdal,mand,1994-09-04,Nykøbing Falster,54.766666666,11.883333333,169960,,,0,,https://da.wikipedia.org/wiki/Joakim_Bukdal,2026-04-06T16:25:15.382256+00:00
+942,Q131267117,Johan Eltoft,mand,2007-01-11,Ammitsbøl,55.6492881,9.4098428,315434,,,0,,https://da.wikipedia.org/wiki/Johan_Eltoft,2026-04-06T16:25:27.262615+00:00
+943,Q42563237,Johan Langballe,mand,1999-02-09,Viby,56.125,10.161111111,203492,,,0,,https://fr.wikipedia.org/wiki/Johan_Langballe,2026-04-06T16:25:38.107069+00:00
+292,Q11727659,Johan Norman Hansen,mand,1890-12-27,Danmark,56.0,10.0,,,,0,,https://pl.wikipedia.org/wiki/Johan_Norman_Hansen,2026-04-06T15:50:01.217116+00:00
+944,Q42310154,Johan Price-Pejtersen,mand,1999-05-26,Frederiksberg,55.6779,12.5327,205930,83.0,1.91,0,,https://pt.wikipedia.org/wiki/Johan_Price-Pejtersen,2026-04-06T16:25:48.634987+00:00
+945,Q124748268,Johann Bünger,mand,2007-08-23,,,,303218,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D1%8E%D0%BD%D0%B3%D0%B5%D1%80,_%D0%99%D0%BE%D1%85%D0%B0%D0%BD%D0%BD",2026-04-06T16:25:59.200952+00:00
+295,Q12320029,Johanne Jørgensen,kvinde,1870-01-01,,,,,,,0,,https://da.wikipedia.org/wiki/Johanne_J%C3%B8rgensen,2026-04-06T15:50:01.217116+00:00
+946,Q6216944,Johannes Reinwaldt,mand,1890-05-14,København,55.676111111,12.568888888,253332,,,0,,https://pt.wikipedia.org/wiki/Johannes_Reinwaldt,2026-04-06T16:26:09.771195+00:00
+947,Q3181200,John Carlsen,mand,1961-12-31,Vinderød,55.988,12.03,168041,,,0,,https://pt.wikipedia.org/wiki/John_Carlsen,2026-04-06T16:26:20.571041+00:00
+948,Q15221030,John Ebsen,mand,1988-11-15,,,,136498,58.0,1.76,0,,https://fr.wikipedia.org/wiki/John_Kronborg_Ebsen,2026-04-06T16:26:30.992389+00:00
+299,Q17560929,John Lundgren,mand,1940-07-30,Aarhus,56.156388888,10.209722222,,,,0,,https://pt.wikipedia.org/wiki/John_Lundgren,2026-04-06T15:50:01.217116+00:00
+949,Q1702432,Johnny Weltz,mand,1962-03-20,København,55.676111111,12.568888888,140993,65.0,1.78,0,,https://sv.wikipedia.org/wiki/Johnny_Weltz,2026-04-06T16:26:41.477740+00:00
+950,Q1382311,Jonas Aaen Jørgensen,mand,1986-04-20,Glostrup,55.6628,12.3972,140185,63.0,1.75,0,,"https://ru.wikipedia.org/wiki/%D0%99%D1%91%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%99%D0%BE%D0%BD%D0%B0%D1%81_%D0%90%D0%B5%D0%BD",2026-04-06T16:26:52.032386+00:00
+951,Q23950510,Jonas Gregaard,mand,1996-07-30,Herlev,55.731,12.424,179351,66.0,1.84,0,,https://nl.wikipedia.org/wiki/Jonas_Gregaard,2026-04-06T16:27:02.675409+00:00
+952,Q56318397,Jonas Lindberg,mand,1997-10-12,Gammel Rye,56.0783,9.7014,193599,,,0,,"https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BD%D0%B4%D0%B1%D0%B5%D1%80%D0%B3,_%D0%99%D0%BE%D0%BD%D0%B0%D1%81",2026-04-06T16:27:13.121991+00:00
+953,Q16646118,Jonas Pedersen,mand,1992-06-06,,,,137369,,,0,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%99%D0%BE%D0%BD%D0%B0%D1%81",2026-04-06T16:27:23.680105+00:00
+954,Q18222046,Jonas Poulsen,mand,1995-04-03,Danmark,56.0,10.0,170562,,,0,,https://fr.wikipedia.org/wiki/Jonas_Poulsen,2026-04-06T16:27:34.130374+00:00
+955,Q26868933,Jonas Vingegaard,mand,1996-12-10,Hillerslev,57.0114,8.7308,196424,58.0,1.75,0,,https://uk.wikipedia.org/wiki/%D0%99%D0%BE%D0%BD%D0%B0%D1%81_%D0%92%D1%96%D0%BD%D0%B3%D0%B5%D0%B3%D0%BE%D1%80,2026-04-06T16:27:44.796838+00:00
+956,Q66605813,Joshua Gudnitz,mand,2001-08-19,Helsingør,56.036,12.6106,219421,69.0,1.77,0,,https://it.wikipedia.org/wiki/Joshua_Gudnitz,2026-04-06T16:27:55.453294+00:00
+957,Q126683137,Joshua Von Wettstein,mand,2007-03-24,København,55.676111111,12.568888888,313021,,,0,,https://da.wikipedia.org/wiki/Joshua_Von_Wettstein,2026-04-06T16:28:05.922825+00:00
+958,Q111494221,Julie Gaumitz Storm,kvinde,1996-04-24,Odense,55.4,10.383333333,270167,,,0,,"https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D1%80%D0%BC,_%D0%AE%D0%BB%D0%B8%D0%B5_%D0%93%D0%B0%D1%83%D0%BC%D0%B8%D1%82%D1%81",2026-04-06T16:28:16.854823+00:00
+959,Q106152649,Julie Lillelund,kvinde,2005-02-21,Ikast,56.1356,9.1547,271206,,,0,,"https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BB%D0%BB%D0%B5%D0%BB%D1%83%D0%BD%D0%BD,_%D0%AE%D0%BB%D0%B8%D0%B5",2026-04-06T16:28:27.698910+00:00
+960,Q119458843,Julie Marckmann Sørensen,kvinde,2000-12-19,Saltum,57.2719,9.6972,294234,,,0,,https://da.wikipedia.org/wiki/Julie_Marckmann_S%C3%B8rensen,2026-04-06T16:28:38.183340+00:00
+961,Q110070911,Julie Nielsen Maribo,kvinde,1995-02-09,Lynge,55.8397,12.2767,271166,60.0,1.71,0,,https://da.wikipedia.org/wiki/Julie_Nielsen_Maribo,2026-04-06T16:28:49.657314+00:00
+962,Q1569983,Julie Norman Leth,kvinde,1992-07-13,Mårslet,56.0683,10.1617,134560,68.0,1.75,0,,https://sv.wikipedia.org/wiki/Julie_Norman_Leth,2026-04-06T16:29:00.363670+00:00
+314,Q125862222,Julie Solbjerg Appel,kvinde,1980-11-22,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%BF%D0%B5%D0%BB%D1%8C,_%D0%AE%D0%BB%D0%B8%D0%B5_%D0%A1%D0%BE%D0%BB%D1%8C%D0%B1%D1%8C%D0%B5%D1%80%D0%B3",2026-04-06T15:50:01.217116+00:00
+963,Q109863582,Julie Uhre,kvinde,2004-04-07,Tjæreborg,55.463,8.583,260879,,,0,,https://da.wikipedia.org/wiki/Julie_Uhre,2026-04-06T16:29:11.511975+00:00
+964,Q28934535,Julius Johansen,mand,1999-09-13,Blovstrød,55.8703,12.3864,197224,77.0,1.88,0,,https://en.wikipedia.org/wiki/Julius_Johansen,2026-04-06T16:29:22.229900+00:00
+965,Q131392422,Julius Løvstrup Birkedal,mand,2008-11-24,Nyråd,55.0042,11.9611,311679,,,0,,https://da.wikipedia.org/wiki/Julius_L%C3%B8vstrup_Birkedal,2026-04-06T16:29:32.780256+00:00
+966,Q102353411,Julius Nowak Dalner,mand,2002-06-07,Holbæk,55.7181,11.7103,244793,,,0,,https://da.wikipedia.org/wiki/Julius_Nowak_Dalner,2026-04-06T16:29:43.470171+00:00
+967,Q18392815,Junker Jørgensen,mand,1946-05-17,Roskilde,55.641666666,12.080833333,240368,,,0,,https://pt.wikipedia.org/wiki/Junker_J%C3%B8rgensen,2026-04-06T16:29:54.203173+00:00
+968,Q17484185,Jørgen B. Jørgensen,mand,1936-04-01,København,55.676111111,12.568888888,244487,,,0,,https://pt.wikipedia.org/wiki/J%C3%B8rgen_J%C3%B8rgensen,2026-04-06T16:30:04.677124+00:00
+969,Q2358559,Jørgen Bo Petersen,mand,1970-04-11,Hørsholm,55.878611111,12.499166666,114254,,,0,,https://nl.wikipedia.org/wiki/J%C3%B8rgen_Bo_Petersen,2026-04-06T16:30:15.479082+00:00
+322,Q1090983,Jørgen Emil Hansen,mand,1942-12-07,København,55.676111111,12.568888888,,,,0,,https://uk.wikipedia.org/wiki/%D0%84%D1%80%D2%91%D0%B5%D0%BD_%D0%93%D0%B0%D0%BD%D1%81%D0%B5%D0%BD_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA),2026-04-06T15:50:01.217116+00:00
+970,Q16091599,Jørgen Frank Rasmussen,mand,1930-11-21,Rødovre,55.6811,12.4558,246574,,,0,,https://pt.wikipedia.org/wiki/J%C3%B8rgen_Frank_Rasmussen,2026-04-06T16:30:26.150375+00:00
+324,Q18044255,Jørgen Jensen,mand,1947-01-06,Odense,55.4,10.383333333,,,,0,,https://pt.wikipedia.org/wiki/J%C3%B8rgen_Jensen,2026-04-06T15:50:01.217116+00:00
+971,Q2625316,Jørgen Marcussen,mand,1950-05-15,Hillerød,55.933333333,12.3,168668,70.0,1.85,0,,https://de.wikipedia.org/wiki/J%C3%B8rgen_Marcussen,2026-04-06T16:30:36.739484+00:00
+972,Q1559949,Jørgen Schmidt,mand,1945-08-03,Vester Alling,56.4108,10.2752,227727,,,0,,"https://ru.wikipedia.org/wiki/%D0%A8%D0%BC%D0%B8%D0%B4%D1%82,_%D0%99%D1%91%D1%80%D0%B3%D0%B5%D0%BD",2026-04-06T16:30:47.366814+00:00
+327,Q110000646,Jørgen Timm,mand,1949-01-01,,,,,,,0,,https://de.wikipedia.org/wiki/J%C3%B8rgen_Timm,2026-04-06T15:50:01.217116+00:00
+973,Q3109090,Jørgen V. Pedersen,mand,1959-10-08,København,55.676111111,12.568888888,167524,,,0,,https://sv.wikipedia.org/wiki/J%C3%B8rgen_V._Pedersen,2026-04-06T16:30:57.859971+00:00
+974,Q1091842,Jørn Lund,mand,1944-08-26,Astrup,56.7671,9.9816,226346,,,0,,https://uk.wikipedia.org/wiki/%D0%84%D1%80%D0%BD_%D0%9B%D1%83%D0%BD%D0%B4_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA),2026-04-06T16:31:08.359586+00:00
+975,Q1721824,Kaj Allan Olsen,mand,1927-02-19,Gentofte,55.7517,12.5508,183108,,,0,,https://pt.wikipedia.org/wiki/Kaj_Allan_Olsen,2026-04-06T16:31:18.842454+00:00
+331,Q677563,Kaj Erik Jensen,mand,1942-02-19,Odense,55.4,10.383333333,,,,0,,https://pl.wikipedia.org/wiki/Kaj_Jensen,2026-04-06T15:50:01.217116+00:00
+976,Q21062689,Kamilla Sofie Vallin,kvinde,1993-08-18,Hellerup,55.733333333,12.566666666,127640,,,0,,https://en.wikipedia.org/wiki/Kamilla_Sofie_Vallin,2026-04-06T16:31:29.374427+00:00
+977,Q113039945,Kamma Bergholt,kvinde,2007-06-29,Varde,55.62,8.480555555,298257,,,0,,https://da.wikipedia.org/wiki/Kamma_Bergholt,2026-04-06T16:31:39.919010+00:00
+334,Q125862172,Kariatta Esther Koroma,kvinde,1977-01-01,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BC%D0%B0,_%D0%9A%D0%B0%D1%80%D0%B8%D0%B0%D1%82%D1%82%D0%B0_%D0%AD%D1%81%D1%82%D0%B5%D1%80",2026-04-06T15:50:01.217116+00:00
+978,Q2255964,Karina Skibby,kvinde,1965-06-16,Frederiksberg,55.6779,12.5327,228453,54.0,1.7,0,,https://pt.wikipedia.org/wiki/Karina_Skibby,2026-04-06T16:31:50.517112+00:00
+979,Q111907330,Karl Hjøllund Klinge,mand,1998-09-21,Strib,55.5367,9.7722,198665,,,0,,https://da.wikipedia.org/wiki/Karl_Hj%C3%B8llund_Klinge,2026-04-06T16:32:01.081459+00:00
+337,Q17388556,Karl Magnussen,mand,1915-04-21,Søllerød,55.812,12.503,,,,0,,https://pt.wikipedia.org/wiki/Karl_Magnussen,2026-04-06T15:50:01.217116+00:00
+980,Q106871295,Karl-Erik Rosendahl,mand,2001-05-01,Svendborg,55.059722222,10.61,269339,,,0,,https://da.wikipedia.org/wiki/Karl-Erik_Rosendahl,2026-04-06T16:32:11.695385+00:00
+981,Q64848597,Karoline Hemmsen,kvinde,1988-07-26,Vejen,55.4758,9.1381,204666,,,0,,"https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BC%D0%BC%D1%81%D0%B5%D0%BD,_%D0%9A%D0%B0%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5_%D0%9A%D0%BD%D1%83%D0%B4%D1%81%D0%B5%D0%BD",2026-04-06T16:32:22.184934+00:00
+982,Q98706047,Kasper Andersen,mand,2002-07-01,Bagsværd,55.76,12.455,240706,,,0,,https://it.wikipedia.org/wiki/Kasper_Andersen,2026-04-06T16:32:32.860767+00:00
+983,Q23950146,Kasper Asgreen,mand,1995-02-08,Kolding,55.490833333,9.472222222,181257,75.0,1.93,0,,https://en.wikipedia.org/wiki/Kasper_Asgreen,2026-04-06T16:32:43.448536+00:00
+984,Q1735151,Kasper Jebjerg,mand,1985-03-21,Svendborg,55.059722222,10.61,134327,,,0,,https://fr.wikipedia.org/wiki/Kasper_Jebjerg,2026-04-06T16:32:54.074392+00:00
+985,Q1114247,Kasper Klostergaard,mand,1983-05-22,Horsens,55.861944444,9.851944444,140248,69.0,1.82,0,,https://no.wikipedia.org/wiki/Kasper_Klostergaard,2026-04-06T16:33:04.684625+00:00
+986,Q1735156,Kasper Linde Jørgensen,mand,1984-08-23,Bogense,55.5642,10.0894,139770,,,0,,https://de.wikipedia.org/wiki/Kasper_Linde_J%C3%B8rgensen,2026-04-06T16:33:15.410720+00:00
+345,Q1415311,Kasper Lindholm Jessen,mand,1985-01-31,,,,,,,0,,https://en.wikipedia.org/wiki/Kasper_Lindholm_Jessen,2026-04-06T15:50:01.217116+00:00
+346,Q125857729,Kasper Svendsen,mand,1993-04-21,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D0%BD%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9A%D0%B0%D1%81%D0%BF%D0%B5%D1%80",2026-04-06T15:50:01.217116+00:00
+987,Q130962431,Kasper Thustrup,mand,1987-08-05,Kolding,55.490833333,9.472222222,232817,,,0,,https://da.wikipedia.org/wiki/Kasper_Thustrup,2026-04-06T16:33:25.920481+00:00
+988,Q99293520,Kasper Viberg Søgaard,mand,2001-09-12,Birkerød,55.8473558,12.428001,217155,,,0,,https://da.wikipedia.org/wiki/Kasper_Viberg_S%C3%B8gaard,2026-04-06T16:33:36.596357+00:00
+989,Q28970288,Kasper Würtz Schmidt,mand,1995-08-25,,,,179084,,,0,,"https://ru.wikipedia.org/wiki/%D0%A8%D0%BC%D0%B8%D0%B4%D1%82,_%D0%9A%D0%B0%D1%81%D0%BF%D0%B5%D1%80_%D0%92%D1%8E%D1%80%D1%86",2026-04-06T16:33:47.149306+00:00
+350,Q538647,Kay Werner Nielsen,mand,1921-05-28,Aarhus,56.156388888,10.209722222,,,,0,,https://sv.wikipedia.org/wiki/Kay_Werner_Nielsen,2026-04-06T15:50:01.217116+00:00
+990,Q64212218,Keld Leveau,mand,1933-02-15,København,55.676111111,12.568888888,246619,,,0,,https://da.wikipedia.org/wiki/Keld_Leveau,2026-04-06T16:33:57.654517+00:00
+352,Q371131,Ken Frost,mand,1967-02-15,Rødovre Kommune,55.681388888,12.455,,,,0,,https://uk.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD_%D0%A4%D1%80%D0%BE%D1%81%D1%82_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA),2026-04-06T15:50:01.217116+00:00
+991,Q16648239,Kenneth Hansen,mand,1991-10-07,Haderslev,55.25,9.5,138155,,,0,,https://nl.wikipedia.org/wiki/Kenneth_Hansen,2026-04-06T16:34:08.228175+00:00
+354,Q25754118,Kenneth Røpke,mand,1965-08-17,Gentofte,55.7517,12.5508,,,,0,,https://en.wikipedia.org/wiki/Kenneth_R%C3%B8pke,2026-04-06T15:50:01.217116+00:00
+992,Q120634313,Kenneth Weltz,mand,1965-09-21,København,55.676111111,12.568888888,167914,,,0,,https://fr.wikipedia.org/wiki/Kenneth_Weltz,2026-04-06T16:34:18.657023+00:00
+993,Q112107476,Kevin Biehl,mand,2004-01-08,Esbjerg,55.470833333,8.451388888,270097,,,0,,https://da.wikipedia.org/wiki/Kevin_Biehl,2026-04-06T16:34:29.714130+00:00
+994,Q932133,Kim Andersen,mand,1958-02-10,Malling,56.0386,10.1933,167541,,,0,,https://sv.wikipedia.org/wiki/Kim_Andersen,2026-04-06T16:34:40.222049+00:00
+995,Q17350568,Kim Eriksen,mand,1964-02-10,Silkeborg,56.166666666,9.55,168131,,,0,,https://pt.wikipedia.org/wiki/Kim_Eriksen,2026-04-06T16:34:51.627232+00:00
+359,Q12321834,Kim Greisen,mand,1972-10-16,,,,,,,0,,https://da.wikipedia.org/wiki/Kim_Greisen,2026-04-06T15:50:01.217116+00:00
+996,Q19885298,Kim Gunnar Svendsen,mand,1955-12-24,Roskilde,55.641666666,12.080833333,246689,,,0,,https://sv.wikipedia.org/wiki/Kim_Gunnar_Svendsen,2026-04-06T16:35:02.092334+00:00
+997,Q1437306,Kim Marcussen,mand,1968-09-18,Frederiksværk,55.96989444,12.0199,210191,,,0,,https://de.wikipedia.org/wiki/Kim_Marcussen,2026-04-06T16:35:12.565885+00:00
+998,Q1741559,Kim Nielsen,mand,1986-01-16,,,,119046,,,0,,https://fr.wikipedia.org/wiki/Kim_Nielsen,2026-04-06T16:35:23.467615+00:00
+363,Q19859294,Kim Refshammer,mand,1955-09-14,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Kim_Refshammer,2026-04-06T15:50:01.217116+00:00
+364,Q124805928,Kim Sigmann Petersen,mand,1981-02-08,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%9A%D0%B8%D0%BC",2026-04-06T15:50:01.217116+00:00
+999,Q111974438,Kirstine Frida Rysbjerg Munk,kvinde,1996-02-02,Frederiksberg,55.6779,12.5327,260880,,,0,,"https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%BD%D0%BA,_%D0%9A%D0%B8%D1%80%D1%81%D1%82%D0%B8%D0%BD%D0%B5",2026-04-06T16:35:34.176202+00:00
+1000,Q794569,Kjell Rodian,mand,1942-06-30,Frederiksberg,55.6779,12.5327,246353,73.0,1.79,0,,https://uk.wikipedia.org/wiki/%D0%9A%27%D1%94%D0%BB%D0%BB%D1%8C_%D0%A0%D0%BE%D0%B4%D1%96%D0%B0%D0%BD,2026-04-06T16:35:44.645625+00:00
+1001,Q113040294,Klara Schlüter,kvinde,2007-07-27,,,,303215,,,0,,"https://ru.wikipedia.org/wiki/%D0%A8%D0%BB%D1%8E%D1%82%D0%B5%D1%80,_%D0%9A%D0%BB%D0%B0%D1%80%D0%B0",2026-04-06T16:35:55.219354+00:00
+1002,Q118136963,Klara Sofie Skovgård Hansen,kvinde,2002-09-06,Nørrebro,55.688333333,12.559722222,260876,,,0,,"https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9A%D0%BB%D0%B0%D1%80%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8_%D0%A1%D0%BA%D0%BE%D0%B2%D0%B3%D0%BE%D1%80",2026-04-06T16:36:06.243283+00:00
+1003,Q11739884,Klaus Kynde,mand,1966-04-13,Aarhus,56.156388888,10.209722222,222060,,,0,,https://uk.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%83%D1%81_%D0%9A%D1%8E%D0%BD%D0%B4%D0%B5_%D0%9D%D1%96%D0%BB%D1%8C%D1%81%D0%B5%D0%BD,2026-04-06T16:36:16.875167+00:00
+1004,Q6007729,Klaus Nielsen,mand,1980-01-08,Køge,55.45,12.183333333,120660,66.0,1.76,0,,"https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BB%D1%8C%D1%81%D0%B5%D0%BD,_%D0%9A%D0%BB%D0%B0%D1%83%D1%81_(%D0%BC%D0%B0%D1%83%D0%BD%D1%82%D0%B8%D0%BD%D0%B1%D0%B0%D0%B9%D0%BA%D0%B5%D1%80)",2026-04-06T16:36:27.352824+00:00
+371,Q116215009,Klaus Puggård Nielsen,mand,1976-09-04,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BB%D1%8C%D1%81%D0%B5%D0%BD,_%D0%9A%D0%BB%D0%B0%D1%83%D1%81_%D0%9F%D1%83%D0%B3%D0%B3%D0%BE%D1%80",2026-04-06T15:50:01.217116+00:00
+372,Q11981122,Klaus Vesterlund,mand,1976-01-14,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BB%D1%8C%D1%81%D0%B5%D0%BD,_%D0%9A%D0%BB%D0%B0%D1%83%D1%81_%D0%92%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BB%D1%83%D0%BD%D0%BD",2026-04-06T15:50:01.217116+00:00
+373,Q570233,Knud Andersen,mand,1922-01-05,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Knud_Andersen,2026-04-06T15:50:01.217116+00:00
+374,Q519173,Knud Enemark,mand,1936-11-30,Aarhus,56.156388888,10.209722222,,,,0,,https://sv.wikipedia.org/wiki/Knud_Enemark_Jensen,2026-04-06T15:50:01.217116+00:00
+1005,Q17388473,Knud Jacobsen,mand,1914-05-26,København,55.676111111,12.568888888,214820,,,0,,https://pt.wikipedia.org/wiki/Knud_Jacobsen,2026-04-06T16:36:37.874758+00:00
+1006,Q105747072,Kristian Egholm,mand,2004-03-16,Holbæk,55.7181,11.7103,262276,,,0,,https://fr.wikipedia.org/wiki/Kristian_Egholm,2026-04-06T16:36:48.466177+00:00
+1007,Q15623909,Kristian Haugaard,mand,1991-02-27,Aarhus,56.156388888,10.209722222,130812,,,0,,https://nl.wikipedia.org/wiki/Kristian_Haugaard_Jensen,2026-04-06T16:36:59.071287+00:00
+1008,Q43018924,Kristian Kaimer Eriksen,mand,1999-11-24,Rødovre Kommune,55.681388888,12.455,202635,,,0,,https://fr.wikipedia.org/wiki/Kristian_Kaimer,2026-04-06T16:37:09.483327+00:00
+1009,Q1789240,Kristian Sobota,mand,1988-06-01,København,55.676111111,12.568888888,132070,,,0,,https://de.wikipedia.org/wiki/Kristian_Sobota,2026-04-06T16:37:19.928981+00:00
+1010,Q125860499,Kristine Holt,kvinde,2000-09-03,,,,260889,,,0,,"https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D1%8C%D1%82,_%D0%9A%D0%B8%D1%80%D1%81%D1%82%D0%B8%D0%BD%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8",2026-04-06T16:37:30.747375+00:00
+381,Q125860500,Kristine Nørgaard,kvinde,1977-08-03,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9D%D1%91%D1%80%D0%B3%D0%BE%D1%80,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD",2026-04-06T15:50:01.217116+00:00
+1011,Q587161,Kristoffer Gudmund Nielsen,mand,1985-05-20,Brønshøj,55.7042,12.4982,117526,,,0,,https://nl.wikipedia.org/wiki/Kristoffer_Gudmund_Nielsen,2026-04-06T16:37:42.317597+00:00
+383,Q131919313,Kurt Melby,mand,1933-10-04,København,55.676111111,12.568888888,,,,0,,https://de.wikipedia.org/wiki/Kurt_Melby,2026-04-06T15:50:01.217116+00:00
+384,Q11751354,Kurt vid Stein,mand,1935-11-17,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Kurt_vid_Stein,2026-04-06T15:50:01.217116+00:00
+1012,Q447780,Lars Bak,mand,1980-01-16,Silkeborg,56.166666666,9.55,140848,76.0,1.9,0,,https://sv.wikipedia.org/wiki/Lars_Bak,2026-04-06T16:37:53.004123+00:00
+1013,Q1806183,Lars Brian Nielsen,mand,1970-09-14,Amager,55.616666666,12.616666666,277303,,,0,,https://de.wikipedia.org/wiki/Lars_Brian_Nielsen,2026-04-06T16:38:03.498073+00:00
+1014,Q20736157,Lars Carstensen,mand,1980-11-20,,,,186541,,,0,,https://nl.wikipedia.org/wiki/Lars_Carstensen,2026-04-06T16:38:14.752316+00:00
+1015,Q20091036,Lars Jensen,mand,1964-03-03,Region Midtjylland,56.166666666,9.5,225013,,,0,,https://pt.wikipedia.org/wiki/Lars_Jensen,2026-04-06T16:38:25.784347+00:00
+389,Q106573069,Lars Johansen,mand,1959-01-01,,,,,,,0,,https://de.wikipedia.org/wiki/Lars_Johansen,2026-04-06T15:50:01.217116+00:00
+390,Q113835434,Lars Lander,mand,1943-07-21,,,,,,,0,,https://de.wikipedia.org/wiki/Lars_Lander,2026-04-06T15:50:01.217116+00:00
+1016,Q570325,Lars Michaelsen,mand,1969-03-13,Farum,55.808333333,12.358055555,115560,79.0,1.85,0,,https://sv.wikipedia.org/wiki/Lars_Michaelsen,2026-04-06T16:38:36.328452+00:00
+1017,Q12323898,Lars Pingel,mand,1971-01-20,,,,256188,,,0,,https://da.wikipedia.org/wiki/Lars_Pingel,2026-04-06T16:38:47.051505+00:00
+393,Q112174914,Lars Udby,mand,1957-04-12,,,,,,,0,,https://de.wikipedia.org/wiki/Lars_Udby,2026-04-06T15:50:01.217116+00:00
+1018,Q1806345,Lars Ulrich Sørensen,mand,1984-07-30,Køge,55.45,12.183333333,119293,,,0,,https://fr.wikipedia.org/wiki/Lars_Ulrich_S%C3%B8rensen,2026-04-06T16:38:57.637385+00:00
+395,Q279269,Lasse Brun Pedersen,mand,1974-01-01,,,,,,,0,,https://fi.wikipedia.org/wiki/Lasse_Brun_Pedersen,2026-04-06T15:50:01.217116+00:00
+1019,Q962474,Lasse Bøchman,mand,1983-06-13,Næstved,55.23333333,11.76666667,138389,,,0,,https://nl.wikipedia.org/wiki/Lasse_B%C3%B8chman,2026-04-06T16:39:08.201138+00:00
+1020,Q922529,Lasse Norman Leth,mand,1992-02-11,Faaborg,55.095,10.242222222,131925,75.0,1.81,0,,"https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82,_%D0%9B%D0%B0%D1%81%D1%81%D0%B5_%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BD",2026-04-06T16:39:18.685513+00:00
+1021,Q106322839,Laura Auerbach-Lind,kvinde,2003-06-14,Ledøje,55.71,12.3027,260886,,,0,,https://de.wikipedia.org/wiki/Laura_Auerbach-Lind,2026-04-06T16:39:29.479369+00:00
+399,Q105811078,Leif Jørgensen,mand,1946-01-01,,,,,,,0,,https://de.wikipedia.org/wiki/Leif_J%C3%B8rgensen,2026-04-06T15:50:01.217116+00:00
+400,Q11753806,Leif Larsen,mand,1942-09-30,Odense,55.4,10.383333333,,,,0,,https://pt.wikipedia.org/wiki/Leif_Larsen,2026-04-06T15:50:01.217116+00:00
+1022,Q574287,Leif Mortensen,mand,1946-05-05,Frederiksberg,55.6779,12.5327,168676,70.0,1.8,0,,https://cs.wikipedia.org/wiki/Leif_Mortensen,2026-04-06T16:39:39.957915+00:00
+1023,Q1818066,Lennie Kristensen,mand,1968-05-16,Silkeborg,56.166666666,9.55,114184,70.0,1.83,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9B%D0%B5%D0%BD%D0%BD%D0%B8",2026-04-06T16:39:50.628988+00:00
+1024,Q113881,Leo Nielsen,mand,1909-03-05,Randers,56.456944444,10.039166666,246751,,,0,,https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BE_%D0%9D%D1%96%D0%BB%D1%8C%D1%81%D0%B5%D0%BD,2026-04-06T16:40:01.707269+00:00
+1025,Q270555,Linda Villumsen,kvinde,1985-04-09,Herning,56.136111111,8.976666666,140858,59.0,1.7,0,,https://sv.wikipedia.org/wiki/Linda_Villumsen,2026-04-06T16:40:12.291655+00:00
+405,Q114750703,Line Brun Stallknecht,kvinde,,,,,,,,0,,https://da.wikipedia.org/wiki/Line_Brun_Stallknecht,2026-04-06T15:50:01.217116+00:00
+406,Q124805966,Lis Jacobsen,kvinde,1965-05-18,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%AF%D0%BA%D0%BE%D0%B1%D1%81%D0%B5%D0%BD,_%D0%9B%D0%B8%D1%81_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D1%86%D0%B0)",2026-04-06T15:50:01.217116+00:00
+1026,Q1726870,Lisbeth Simper,kvinde,1978-01-13,Roskilde,55.641666666,12.080833333,190873,,,0,,https://fr.wikipedia.org/wiki/Lisbeth_Simper,2026-04-06T16:40:22.965203+00:00
+1027,Q19662048,Lise Christensen,kvinde,1972-06-15,Danmark,56.0,10.0,190827,,,0,,https://en.wikipedia.org/wiki/Lise_Christensen,2026-04-06T16:40:33.602824+00:00
+409,Q125861970,Lisette Rosenbeck Christensen,kvinde,1981-05-20,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9B%D0%B8%D0%B7%D0%B5%D1%82%D1%82_%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D0%B1%D0%B5%D0%BA",2026-04-06T15:50:01.217116+00:00
+1028,Q55422462,Lona Munck,kvinde,,,,,267075,,,0,,https://fr.wikipedia.org/wiki/Lona_Munck,2026-04-06T16:40:44.308934+00:00
+1029,Q55422477,Lotte Bak,kvinde,1964-06-28,,,,230206,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA,_%D0%9B%D0%BE%D1%82%D1%82%D0%B5",2026-04-06T16:40:54.881393+00:00
+1030,Q12324923,Lotte Schmidt,kvinde,1972-01-06,Randers,56.456944444,10.039166666,226914,,,0,,"https://ru.wikipedia.org/wiki/%D0%A8%D0%BC%D0%B8%D0%B4%D1%82,_%D0%9B%D0%BE%D1%82%D1%82%D0%B5",2026-04-06T16:41:05.364165+00:00
+1031,Q28970449,Louis Bendixen,mand,1995-06-23,København,55.676111111,12.568888888,195093,,,0,,https://nl.wikipedia.org/wiki/Louis_Bendixen,2026-04-06T16:41:15.987487+00:00
+1032,Q25920897,Louise Norman Hansen,kvinde,1995-02-12,Nørre Søby,55.2844,10.3781,197137,,,0,,https://fr.wikipedia.org/wiki/Louise_Norman_Hansen,2026-04-06T16:41:27.157760+00:00
+1033,Q124546913,Lucas Strunge,mand,2006-02-01,Veerst,55.5596,9.244,302783,75.0,1.86,0,,"https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%BD%D0%B3%D0%B5,_%D0%9B%D1%83%D0%BA%D0%B0%D1%81",2026-04-06T16:41:37.903386+00:00
+1034,Q111538549,Lucas Toftemark,mand,2004-07-10,Holbæk,55.7181,11.7103,270094,73.0,1.85,0,,https://da.wikipedia.org/wiki/Lucas_Toftemark,2026-04-06T16:41:48.878894+00:00
+1035,Q43018689,Ludvig Anton Wacker,mand,2000-07-15,Roskilde,55.641666666,12.080833333,208535,68.0,1.83,0,,https://fr.wikipedia.org/wiki/Ludvig_Wacker,2026-04-06T16:41:59.508164+00:00
+1036,Q109426481,Lukas Lund Sørensen,mand,2003-02-19,Aarhus,56.156388888,10.209722222,253126,,,0,,https://da.wikipedia.org/wiki/Lukas_Lund_S%C3%B8rensen,2026-04-06T16:42:10.008812+00:00
+1037,Q112678851,Lukas Sulaj Kloppenborg,mand,2001-12-09,Holbæk,55.7181,11.7103,216162,,,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%BE%D0%BF%D0%BF%D0%B5%D0%BD%D0%B1%D0%BE%D1%80%D0%B3,_%D0%9B%D1%83%D0%BA%D0%B0%D1%81_%D0%A1%D1%83%D0%BB%D0%B0%D0%B9",2026-04-06T16:42:20.469231+00:00
+1038,Q98594955,Mads Andersen,mand,2000-11-27,Odense,55.4,10.383333333,216429,,,0,,https://en.wikipedia.org/wiki/Mads_Andersen_(cyclist),2026-04-06T16:42:30.892322+00:00
+1039,Q112798220,Mads Bertram Kristensen,mand,2006-04-04,Otterup,55.516666666,10.4,282380,,,0,,https://da.wikipedia.org/wiki/Mads_Bertram_Kristensen,2026-04-06T16:42:41.583244+00:00
+1040,Q729718,Mads Christensen,mand,1984-04-06,Aalborg,57.05,9.916666666,140107,69.0,1.82,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B0%D0%B4%D1%81_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA)",2026-04-06T16:42:52.836229+00:00
+1041,Q111550161,Mads Landbo,mand,2004-09-30,Hørsholm,55.878611111,12.499166666,270683,,,0,,https://fr.wikipedia.org/wiki/Mads_Landbo,2026-04-06T16:43:03.281857+00:00
+1042,Q3276247,Mads Pedersen,mand,1995-12-18,Tølløse,55.6117,11.7736,168776,76.0,1.8,0,,https://de.wikipedia.org/wiki/Mads_Pedersen_(Radsportler),2026-04-06T16:43:13.981755+00:00
+1043,Q24326406,Mads Rahbek,mand,1995-10-19,Lind,56.1042,8.97917,170397,66.0,1.8,0,,"https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%85%D0%B1%D0%B5%D0%BA,_%D0%9C%D0%B0%D0%B4%D1%81",2026-04-06T16:43:24.462103+00:00
+1044,Q1398639,Mads Rydicher,mand,1987-05-30,,,,128836,,,0,,https://fr.wikipedia.org/wiki/Mads_Rydicher,2026-04-06T16:43:35.158556+00:00
+1045,Q106286502,Mads Schelde Berg,mand,1998-08-10,Slagelse,55.400833333,11.35,201741,75.0,,0,,https://da.wikipedia.org/wiki/Mads_Schelde_Berg,2026-04-06T16:43:45.643685+00:00
+1046,Q111804838,Mads Schulz Jørgensen,mand,2005-10-29,Holbæk,55.7181,11.7103,270161,,,0,,https://da.wikipedia.org/wiki/Mads_Schulz_J%C3%B8rgensen,2026-04-06T16:43:56.202774+00:00
+1047,Q2079559,Mads Würtz Schmidt,mand,1994-03-31,Randers,56.456944444,10.039166666,132414,70.0,1.76,0,,"https://ru.wikipedia.org/wiki/%D0%A8%D0%BC%D0%B8%D0%B4%D1%82,_%D0%9C%D0%B0%D0%B4%D1%81_%D0%92%D1%8E%D1%80%D1%86",2026-04-06T16:44:06.828253+00:00
+1048,Q30564055,Mads Østergaard Kristensen,mand,1998-01-26,Varde,55.62,8.480555555,198786,,,0,,https://fr.wikipedia.org/wiki/Mads_%C3%98stergaard,2026-04-06T16:44:17.372811+00:00
+1049,Q109452173,Mads-Emil Dupont Hougaard,mand,2003-08-22,Randers,56.456944444,10.039166666,253152,,,0,,https://da.wikipedia.org/wiki/Mads-Emil_Dupont_Hougaard,2026-04-06T16:44:27.956408+00:00
+1050,Q17496882,Magnus Bak Klaris,mand,1996-01-23,København,55.676111111,12.568888888,179112,,,0,,https://nl.wikipedia.org/wiki/Magnus_Bak_Klaris,2026-04-06T16:44:38.511034+00:00
+1051,Q109771438,Magnus Bächler,mand,2002-02-19,Faaborg,55.095,10.242222222,260782,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%85%D0%BB%D0%B5%D1%80,_%D0%9C%D0%B0%D0%B3%D0%BD%D1%83%D1%81",2026-04-06T16:44:48.933920+00:00
+1052,Q112677627,Magnus Carstensen,mand,2006-01-01,Randers,56.456944444,10.039166666,282366,,,0,,https://da.wikipedia.org/wiki/Magnus_Carstensen,2026-04-06T16:44:59.470370+00:00
+1053,Q12325722,Magnus Cort,mand,1993-01-16,Rønne,55.1,14.7,132428,68.0,1.84,0,,https://tr.wikipedia.org/wiki/Magnus_Cort,2026-04-06T16:45:10.022544+00:00
+1054,Q99236992,Magnus Henneberg,mand,2000-11-21,Virum,55.7917,12.4597,211635,67.0,1.87,0,,https://da.wikipedia.org/wiki/Magnus_Henneberg,2026-04-06T16:45:20.792904+00:00
+1055,Q109561626,Magnus Lorents Nielsen,mand,2003-11-23,Silkeborg,56.166666666,9.55,260773,69.0,1.85,0,,https://da.wikipedia.org/wiki/Magnus_Lorents_Nielsen,2026-04-06T16:45:31.398612+00:00
+1056,Q125862165,Maiken Jørgensen,kvinde,1974-08-19,Rønne,55.1,14.7,226906,,,0,,"https://ru.wikipedia.org/wiki/%D0%99%D1%91%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%B5%D0%BD",2026-04-06T16:45:41.820783+00:00
+439,Q125860502,Maj Schneider Thomsen,kvinde,1987-02-08,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B0%D0%B9_%D0%A8%D0%BD%D0%B0%D0%B9%D0%B4%D0%B5%D1%80",2026-04-06T15:50:01.217116+00:00
+1057,Q19598895,Maja Adamsen,kvinde,1978-09-07,Munkebo,55.457,10.553,117749,,,0,,https://en.wikipedia.org/wiki/Maja_Adamsen,2026-04-06T16:45:52.305784+00:00
+1058,Q98594940,Maja Winther Brandt Heisel,kvinde,1993-10-23,,,,260875,52.0,1.6,0,,https://da.wikipedia.org/wiki/Maja_Winther_Brandt_Heisel,2026-04-06T16:46:02.867636+00:00
+442,Q56513316,Malene Degin,kvinde,1996-01-01,,,,,,,0,,https://en.wikipedia.org/wiki/Malene_Degin,2026-04-06T15:50:01.217116+00:00
+443,Q112156947,Malene Kejlstrup,kvinde,2002-06-06,Randers,56.456944444,10.039166666,,,,0,,https://no.wikipedia.org/wiki/Malene_Kejlstrup,2026-04-06T15:50:01.217116+00:00
+1059,Q106768655,Malte Hellerup,mand,2004-04-07,Aalborg,57.05,9.916666666,270130,,,0,,https://da.wikipedia.org/wiki/Malte_Hellerup,2026-04-06T16:46:13.357040+00:00
+1060,Q1892649,Marc Hester,mand,1985-06-28,København,55.676111111,12.568888888,133957,,,0,,https://nl.wikipedia.org/wiki/Marc_Hester,2026-04-06T16:46:23.989333+00:00
+1061,Q3296169,Marc Strange Jacobsen,mand,1972-02-08,Slagelse,55.400833333,11.35,182475,,,0,,https://nl.wikipedia.org/wiki/Marc_Strange_Jacobsen,2026-04-06T16:46:34.435164+00:00
+1062,Q99296796,Marckus Njor,mand,2001-06-25,Ballerup,55.7307,12.3617,215971,,,0,,https://da.wikipedia.org/wiki/Marckus_Njor,2026-04-06T16:46:45.157218+00:00
+1063,Q50140905,Marcus Sander Hansen,mand,2000-08-25,Greve Strand,55.582222222,12.288888888,181672,68.0,1.82,0,,https://nl.wikipedia.org/wiki/Marcus_Sander_Hansen,2026-04-06T16:46:55.871262+00:00
+1064,Q25920036,Margriet Kloppenburg,kvinde,1988-01-18,,,,138101,,,0,,https://en.wikipedia.org/wiki/Margriet_Kloppenburg,2026-04-06T16:47:06.273975+00:00
+1065,Q99296897,Maria Bertelsen,kvinde,2002-02-09,Herning,56.136111111,8.976666666,240187,,,0,,https://da.wikipedia.org/wiki/Maria_Bertelsen,2026-04-06T16:47:16.946050+00:00
+1066,Q25921359,Marie Vilmann,kvinde,1993-10-21,,,,196438,,,0,,https://en.wikipedia.org/wiki/Marie_Vilmann,2026-04-06T16:47:27.471860+00:00
+1067,Q102353912,Marie-Louise Hartz Krogager,kvinde,1989-06-21,København,55.676111111,12.568888888,280838,,,0,,https://da.wikipedia.org/wiki/Marie-Louise_Hartz_Krogager,2026-04-06T16:47:37.879753+00:00
+1068,Q98590185,Marita Jensen,kvinde,1991-07-06,København,55.676111111,12.568888888,260873,,,0,,https://da.wikipedia.org/wiki/Marita_Jensen,2026-04-06T16:47:48.517304+00:00
+1069,Q117034642,Marius Hobolth,mand,2006-04-01,Frederiksberg,55.6779,12.5327,282372,71.0,1.88,0,,https://da.wikipedia.org/wiki/Marius_Hobolth,2026-04-06T16:47:58.982130+00:00
+1070,Q15376812,Mark Sehested Pedersen,mand,1991-11-06,Kalundborg,55.681388888,11.085,130013,,,0,,https://fr.wikipedia.org/wiki/Mark_Sehested,2026-04-06T16:48:09.475102+00:00
+456,Q70874032,Markus Heuer,mand,2001-02-17,København,55.676111111,12.568888888,,,,0,,https://es.wikipedia.org/wiki/Markus_Heuer,2026-04-06T15:50:01.217116+00:00
+1071,Q3431593,Markus Kilsgaard,mand,1992-02-23,Herning,56.136111111,8.976666666,141105,,,0,,https://pl.wikipedia.org/wiki/Markus_Kilsgaard,2026-04-06T16:48:20.190683+00:00
+1072,Q102353521,Markus Kramer,mand,1999-07-03,Holbæk,55.7181,11.7103,210314,,,0,,https://da.wikipedia.org/wiki/Markus_Kramer,2026-04-06T16:48:30.661386+00:00
+459,Q124661485,Marlene Jakobsen,kvinde,1983-07-05,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%AF%D0%BA%D0%BE%D0%B1%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B0%D1%80%D0%BB%D0%B5%D0%BD",2026-04-06T15:50:01.217116+00:00
+1073,Q1904467,Martin Lollesgaard,mand,1987-01-15,Odense,55.4,10.383333333,120584,,,0,,https://de.wikipedia.org/wiki/Martin_Lollesgaard,2026-04-06T16:48:41.180631+00:00
+1074,Q1292014,Martin Mortensen,mand,1984-11-05,Herning,56.136111111,8.976666666,140303,70.0,1.8,0,,"https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%82%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD",2026-04-06T16:48:51.699685+00:00
+1075,Q1400394,Martin Pedersen,mand,1983-04-15,Brøndby Kommune,55.654722222,12.416388888,135458,62.0,1.7,0,,"https://nl.wikipedia.org/wiki/Martin_Pedersen_(wielrenner,_1983)",2026-04-06T16:49:02.466119+00:00
+1076,Q112194625,Martin Pedersen,mand,1998-01-28,Tølløse,55.6117,11.7736,281659,,,0,,"https://da.wikipedia.org/wiki/Martin_Pedersen_(cykelrytter,_f%C3%B8dt_1998)",2026-04-06T16:49:13.190515+00:00
+1077,Q106979766,Martin Szokody,mand,1999-04-04,Slimminge,55.4458,11.9517,242841,,,0,,https://da.wikipedia.org/wiki/Martin_Szokody,2026-04-06T16:49:23.635685+00:00
+1078,Q20736155,Martin Toft Madsen,mand,1985-02-20,Hørsholm Hospital,55.8913,12.4964,167369,67.0,1.84,0,,https://da.wikipedia.org/wiki/Martin_Toft_Madsen,2026-04-06T16:49:34.043615+00:00
+1079,Q29344237,Mathias Bregnhøj,mand,1995-11-11,Vejle,55.708333333,9.533333333,181226,63.0,1.8,0,,https://nl.wikipedia.org/wiki/Mathias_Bregnh%C3%B8j,2026-04-06T16:49:44.795437+00:00
+1080,Q124788673,Mathias Busk Sælgen,mand,1992-01-01,,,,303741,,,0,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B0%D1%82%D0%B8%D0%B0%D1%81_%D0%91%D1%83%D1%81%D0%BA_%D0%A1%D0%B5%D0%BB%D0%B3%D0%B5%D0%BD",2026-04-06T16:49:55.258720+00:00
+1081,Q20736149,Mathias Dam Westergaard,mand,1994-02-21,Aalborg,57.05,9.916666666,162004,,,0,,https://nl.wikipedia.org/wiki/Mathias_Westergaard,2026-04-06T16:50:05.801755+00:00
+1082,Q15103946,Mathias Krigbaum,mand,1995-02-03,København,55.676111111,12.568888888,167933,79.0,1.86,0,,https://nl.wikipedia.org/wiki/Mathias_Krigbaum,2026-04-06T16:50:16.629230+00:00
+1083,Q29589370,Mathias Larsen,mand,1999-05-02,Roskilde,55.641666666,12.080833333,202678,72.0,1.87,0,,https://fr.wikipedia.org/wiki/Mathias_Larsen_(cyclisme),2026-04-06T16:50:27.567606+00:00
+1084,Q20736154,Mathias Lisson,mand,1990-03-10,Kalundborg,55.681388888,11.085,132184,,,0,,https://da.wikipedia.org/wiki/Mathias_Lisson,2026-04-06T16:50:38.181840+00:00
+1085,Q58383024,Mathias Matz,mand,1998-07-09,Ballerup,55.7307,12.3617,206196,,,0,,https://da.wikipedia.org/wiki/Mathias_Matz,2026-04-06T16:50:48.625099+00:00
+1086,Q3275941,Mathias Møller Nielsen,mand,1994-03-19,Gentofte,55.7517,12.5508,158679,,,0,,"https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BB%D1%8C%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B0%D1%82%D0%B8%D0%B0%D1%81_%D0%9C%D1%91%D0%BB%D0%BB%D0%B5%D1%80",2026-04-06T16:50:59.155526+00:00
+1087,Q24053040,Mathias Norsgaard,mand,1997-05-05,Silkeborg,56.166666666,9.55,186507,88.0,2.02,0,,"https://ru.wikipedia.org/wiki/%D0%99%D1%91%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B0%D1%82%D0%B8%D0%B0%D1%81_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA)",2026-04-06T16:51:09.777249+00:00
+1088,Q124877839,Mathias Rosenberg Pedersen,mand,1997-04-07,Roskilde,55.641666666,12.080833333,304105,,,0,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B0%D1%82%D0%B8%D0%B0%D1%81_%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3",2026-04-06T16:51:20.642717+00:00
+1089,Q112450161,Mathilde Cramer,kvinde,2007-07-07,Greve Strand,55.582222222,12.288888888,292562,,,0,,https://da.wikipedia.org/wiki/Mathilde_Cramer,2026-04-06T16:51:31.258720+00:00
+477,Q137758534,Mathilde Ryth Leegaard,kvinde,2010-03-26,Græsted,56.0653,12.2842,,,,0,,https://da.wikipedia.org/wiki/Mathilde_Ryth_Leegaard,2026-04-06T15:50:01.217116+00:00
+1090,Q1631924,Matias Greve,mand,1992-03-01,,,,157720,,,0,,https://de.wikipedia.org/wiki/Matias_Greve,2026-04-06T16:51:41.679206+00:00
+1091,Q55978517,Matias Malmberg,mand,2000-08-31,Frederiksberg,55.6779,12.5327,210341,68.0,1.77,0,,https://nl.wikipedia.org/wiki/Matias_Malmberg,2026-04-06T16:51:52.171987+00:00
+1092,Q471567,Matti Breschel,mand,1984-08-31,Faxe,55.2544,12.1181,140764,70.0,1.81,0,,https://sv.wikipedia.org/wiki/Matti_Breschel,2026-04-06T16:52:02.748551+00:00
+1093,Q106979513,Mattias Nordal,mand,2001-12-26,Køge,55.45,12.183333333,217175,,,0,,https://da.wikipedia.org/wiki/Mattias_Nordal,2026-04-06T16:52:13.173309+00:00
+1094,Q43019098,Mattias Skjelmose,mand,2000-09-26,København,55.676111111,12.568888888,208786,65.0,1.8,0,,https://sv.wikipedia.org/wiki/Mattias_Skjelmose,2026-04-06T16:52:23.996337+00:00
+483,Q17404014,Max Jørgensen,mand,1923-04-09,Greve Kommune,55.583888888,12.295277777,,,,0,,https://pt.wikipedia.org/wiki/Max_J%C3%B8rgensen,2026-04-06T15:50:01.217116+00:00
+1095,Q55422390,Melina Rasmussen,kvinde,1973-10-09,,,,227221,,,0,,"https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B5%D0%BB%D0%B8%D0%BD%D0%B0",2026-04-06T16:52:34.617152+00:00
+1096,Q14950042,Mette Andersen,kvinde,1974-01-09,,,,171568,68.0,1.83,0,,"https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B5%D1%82%D1%82%D0%B5",2026-04-06T16:52:45.124440+00:00
+1097,Q86921964,Mette Egtoft Jensen,kvinde,2001-02-15,Aalborg,57.05,9.916666666,210650,,,0,,https://da.wikipedia.org/wiki/Mette_Egtoft_Jensen,2026-04-06T16:52:55.700348+00:00
+1098,Q19662100,Mette Fischer Andreasen,kvinde,1983-04-13,Thurø,55.0456,10.6672,190820,,,0,,"https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B5%D1%82%D1%82%D0%B5_%D0%A4%D0%B8%D1%88%D0%B5%D1%80",2026-04-06T16:53:06.153968+00:00
+488,Q125862173,Mette Marie Kronborg,kvinde,1987-01-01,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D1%8C%D1%91%D1%82%D1%82,_%D0%9C%D0%B5%D1%82%D1%82%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8_%D0%9A%D1%80%D0%BE%D0%BD%D0%B1%D0%BE%D1%80%D0%B3",2026-04-06T15:50:01.217116+00:00
+1099,Q107277765,Mia Sofie Rützou,kvinde,1999-07-20,Strib,55.5367,9.7722,270165,,,0,,"https://ru.wikipedia.org/wiki/%D0%A0%D1%8E%D1%86%D1%83,_%D0%9C%D0%B8%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8",2026-04-06T16:53:16.707209+00:00
+1100,Q1454240,Michael Berling,mand,1982-04-24,Aarhus,56.156388888,10.209722222,132067,,,0,,https://de.wikipedia.org/wiki/Michael_Berling,2026-04-06T16:53:27.299499+00:00
+1101,Q951747,Michael Blaudzun,mand,1973-04-30,Herning,56.136111111,8.976666666,117727,66.0,1.8,0,,https://no.wikipedia.org/wiki/Michael_Blaudzun,2026-04-06T16:53:37.949138+00:00
+1102,Q15965394,Michael Carbel,mand,1995-02-07,Horsens,55.861944444,9.851944444,176919,73.0,1.8,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%B5%D0%BB%D1%8C,_%D0%9C%D0%B8%D0%BA%D0%B0%D1%8D%D0%BB%D1%8C",2026-04-06T16:53:48.685191+00:00
+1103,Q1298243,Michael Færk Christensen,mand,1986-02-14,Hobro,56.633333333,9.8,123476,,,0,,https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D1%85%D0%B0%D0%B5%D0%BB%D1%8C_%D0%A4%D0%B5%D1%80%D0%BA_%D0%9A%D1%80%D1%96%D1%81%D1%82%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,2026-04-06T16:53:59.141021+00:00
+494,Q125855671,Michael Grønbech,mand,1974-08-19,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%91%D0%BD%D0%B1%D0%B5%D1%85,_%D0%9C%D0%B8%D0%BA%D0%B0%D1%8D%D0%BB%D1%8C",2026-04-06T15:50:01.217116+00:00
+495,Q24430908,Michael Guldhammer,mand,1961-12-14,Vejle,55.708333333,9.533333333,,,,0,,https://de.wikipedia.org/wiki/Michael_Guldhammer,2026-04-06T15:50:01.217116+00:00
+496,Q124805919,Michael Jørgensen,mand,1968-04-23,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%99%D1%91%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B8%D0%BA%D0%B0%D1%8D%D0%BB%D1%8C",2026-04-06T15:50:01.217116+00:00
+1104,Q744990,Michael Marcussen,mand,1955-01-09,Roskilde,55.641666666,12.080833333,246651,,,0,,"https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D1%83%D1%81%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B8%D0%BA%D0%B0%D1%8D%D0%BB%D1%8C",2026-04-06T16:54:09.592763+00:00
+1105,Q447816,Michael Mørkøv,mand,1985-04-30,Kokkedal,55.908333333,12.49,140521,71.0,1.83,0,,https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%87%B1%E7%88%BE%C2%B7%E9%BB%98%E7%88%BE%E5%85%8B%E5%A4%AB,2026-04-06T16:54:20.298123+00:00
+1106,Q348028,Michael Rasmussen,mand,1974-06-01,Tølløse,55.6117,11.7736,137457,58.0,1.74,0,,https://eu.wikipedia.org/wiki/Michael_Rasmussen,2026-04-06T16:54:30.841494+00:00
+1107,Q1928998,Michael Reihs,mand,1979-04-25,Silkeborg,56.166666666,9.55,139808,75.0,1.89,0,,https://nl.wikipedia.org/wiki/Michael_Reihs,2026-04-06T16:54:42.281035+00:00
+1108,Q13850519,Michael Rosborg,mand,1971-03-15,Silkeborg,56.166666666,9.55,113366,,,0,,https://nl.wikipedia.org/wiki/Michael_Rosborg,2026-04-06T16:54:52.868572+00:00
+1109,Q972941,Michael Sandstød,mand,1968-06-23,København,55.676111111,12.568888888,173275,74.0,1.8,0,,https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%BA%D0%B0%D0%B5%D0%BB%D1%8C_%D0%A1%D0%B0%D0%BD%D0%B4%D1%81%D1%82%D0%B5%D0%B4,2026-04-06T16:55:03.327223+00:00
+1110,Q1929415,Michael Skelde,mand,1973-08-13,Horsens,55.861944444,9.851944444,115889,,,0,,https://nl.wikipedia.org/wiki/Michael_Skelde,2026-04-06T16:55:13.935231+00:00
+1111,Q1435805,Michael Smith Larsen,mand,1981-06-03,,,,227786,,,0,,https://de.wikipedia.org/wiki/Michael_Smith_Larsen,2026-04-06T16:55:24.518969+00:00
+1112,Q2787648,Michael Steen Nielsen,mand,1975-02-15,Køge,55.45,12.183333333,113637,,,0,,https://nl.wikipedia.org/wiki/Michael_Steen_Nielsen,2026-04-06T16:55:35.021986+00:00
+1113,Q574413,Michael Tronborg,mand,1983-07-13,Danmark,56.0,10.0,128218,,,0,,"https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BD%D0%B1%D0%BE%D1%80%D0%B3,_%D0%9C%D0%B8%D0%BA%D0%B0%D1%8D%D0%BB%D1%8C",2026-04-06T16:55:45.709633+00:00
+1114,Q1926802,Michael Valgren,mand,1992-02-07,Østerild,57.0292,8.8467,139801,71.0,1.79,0,,https://sv.wikipedia.org/wiki/Michael_Valgren,2026-04-06T16:55:56.212237+00:00
+1115,Q19518531,Michelle Lauge Quaade,kvinde,1991-05-18,Frederikssund,55.8406,12.0637,230603,,,0,,https://en.wikipedia.org/wiki/Michelle_Lauge_Quaade,2026-04-06T16:56:06.792646+00:00
+1116,Q434418,Mie Bekker Lacota,kvinde,1988-11-10,Greve Kommune,55.583888888,12.295277777,124391,,,0,,https://pl.wikipedia.org/wiki/Mie_Bekker_Lacota,2026-04-06T16:56:17.287055+00:00
+1117,Q116890212,Mie Nordlund Pedersen,kvinde,1990-10-23,Roskilde,55.641666666,12.080833333,292448,,,0,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B8%D0%B5",2026-04-06T16:56:27.752087+00:00
+1118,Q51954777,Mie Saabye,kvinde,2001-08-08,Ry,56.092222222,9.758055555,216387,,,0,,https://no.wikipedia.org/wiki/Mie_Saabye_Madsen,2026-04-06T16:56:38.257637+00:00
+1119,Q1876638,Mikael Kyneb,mand,1972-03-05,Hobro,56.633333333,9.8,113454,,,0,,https://nl.wikipedia.org/wiki/Mikael_Kyneb,2026-04-06T16:56:48.790346+00:00
+1120,Q29462362,Mikkel Honoré,mand,1997-01-21,Fredericia,55.564444444,9.759722222,185568,68.0,1.85,0,,"https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BD%D0%BE%D1%80%D0%B5,_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B5%D0%BB%D1%8C_%D0%A4%D1%80%D0%BE%D0%BB%D0%B8%D1%85",2026-04-06T16:56:59.410785+00:00
+1121,Q112678828,Mikkel Kastrup,mand,1999-11-06,,,,270228,,,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BF,_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B5%D0%BB%D1%8C",2026-04-06T16:57:10.041326+00:00
+1122,Q21847122,Mikkel Mortensen,mand,1988-08-08,,,,131940,,,0,,https://nl.wikipedia.org/wiki/Mikkel_Mortensen,2026-04-06T16:57:20.514741+00:00
+1123,Q27786531,Mikkel Norsgaard Bjerg,mand,1998-11-03,København,55.676111111,12.568888888,203053,78.0,1.91,0,,https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%85%8B%E5%B0%94%C2%B7%E6%AF%94%E8%80%B6%E6%A0%BC,2026-04-06T16:57:30.976268+00:00
+1124,Q1651464,Mikkel Schiøler,mand,1989-12-28,,,,117557,,,0,,https://fr.wikipedia.org/wiki/Mikkel_Schi%C3%B8ler,2026-04-06T16:57:41.636505+00:00
+1125,Q76858310,Mikkel Øritsland,mand,1995-07-25,Odense,55.4,10.383333333,223078,75.0,1.79,0,,https://da.wikipedia.org/wiki/Mikkel_%C3%98ritsland,2026-04-06T16:57:53.607058+00:00
+1126,Q116215432,Mille Foldager Nielsen,kvinde,2007-07-07,Silkeborg,56.166666666,9.55,302780,,,0,,"https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BB%D1%8C%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5_%D0%A4%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0%D0%B3%D0%B5%D1%80",2026-04-06T16:58:04.187615+00:00
+1127,Q106238344,Mille Troelsen,kvinde,2002-11-12,Sunds,56.206111111,9.015277777,240662,,,0,,https://da.wikipedia.org/wiki/Mille_Troelsen,2026-04-06T16:58:14.763593+00:00
+521,Q109732924,Mogens Boldt,mand,1952-01-01,,,,,,,0,,https://de.wikipedia.org/wiki/Mogens_Boldt,2026-04-06T15:50:01.217116+00:00
+1128,Q63570106,Mogens Danholt,mand,1910-11-18,,,,230393,,,0,,https://da.wikipedia.org/wiki/Mogens_Danholt,2026-04-06T16:58:25.207609+00:00
+1129,Q1449357,Mogens Frey,mand,1941-07-02,Glostrup Kommune,55.666666666,12.4,172121,,,0,,https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D2%91%D0%B5%D0%BD%D1%81_%D0%A4%D1%80%D0%B5%D0%B9,2026-04-06T16:58:36.199300+00:00
+524,Q28971603,Mogens Tvilling,mand,1935-05-18,København,55.676111111,12.568888888,,,,0,,https://de.wikipedia.org/wiki/Mogens_Tvilling,2026-04-06T15:50:01.217116+00:00
+1130,Q29344293,Morten Hulgaard,mand,1998-08-23,København,55.676111111,12.568888888,195500,73.0,1.81,0,,https://pl.wikipedia.org/wiki/Morten_Hulgaard,2026-04-06T16:58:47.202761+00:00
+1131,Q732559,Morten Høberg,mand,1988-03-08,,,,128035,,,0,,https://fr.wikipedia.org/wiki/Morten_H%C3%B8berg,2026-04-06T16:58:58.123073+00:00
+1132,Q2684287,Morten Knudsen,mand,1981-09-21,Herning,56.136111111,8.976666666,135382,,,0,,https://nl.wikipedia.org/wiki/Morten_Knudsen,2026-04-06T16:59:08.746701+00:00
+1133,Q106522775,Morten Nørtoft,mand,2002-09-05,Kollemorten,55.8658,9.3647,244543,,,0,,https://fr.wikipedia.org/wiki/Morten_N%C3%B8rtoft,2026-04-06T16:59:19.195843+00:00
+1134,Q1948698,Morten Reckweg,mand,1988-10-03,Grenaa,56.413333333,10.875833333,117556,,,0,,https://nl.wikipedia.org/wiki/Morten_Birck_Reckweg,2026-04-06T16:59:29.687768+00:00
+1135,Q2222720,Morten Sonne,mand,1970-11-13,Køge,55.45,12.183333333,113903,,,0,,https://nl.wikipedia.org/wiki/Morten_Sonne,2026-04-06T16:59:40.329008+00:00
+531,Q6914553,Morten Therkildsen,mand,1983-09-24,Vejle,55.708333333,9.533333333,,,,0,,https://pt.wikipedia.org/wiki/Morten_Therkildsen,2026-04-06T15:50:01.217116+00:00
+1136,Q1257446,Morten Voss Christiansen,mand,1979-01-21,,,,132053,,,0,,https://fr.wikipedia.org/wiki/Morten_Voss_Christiansen,2026-04-06T16:59:50.845616+00:00
+1137,Q122146717,Morten Örnhagen,mand,2001-07-30,,,,296902,,,0,,https://da.wikipedia.org/wiki/Morten_%C3%96rnhagen_J%C3%B8rgensen,2026-04-06T17:00:01.273118+00:00
+1138,Q12327763,Morten Øllegaard,mand,1988-02-06,,,,130774,,,0,,https://fr.wikipedia.org/wiki/Morten_%C3%98llegaard,2026-04-06T17:00:11.765180+00:00
+1139,Q116860800,Nadine Bruhn,kvinde,1977-04-10,,,,228676,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D1%80%D1%83%D0%BD,_%D0%9D%D0%B0%D0%B4%D0%B8%D0%BD",2026-04-06T17:00:22.356605+00:00
+1140,Q106864586,Nicholas Thorøe-Hansen,mand,2001-07-06,Gentofte,55.7517,12.5508,217151,,,0,,https://da.wikipedia.org/wiki/Nicholas_Thor%C3%B8e-Hansen,2026-04-06T17:00:32.902038+00:00
+1141,Q429112,Nicki Sørensen,mand,1975-05-14,Hillerød,55.933333333,12.3,140766,71.0,1.82,0,,https://sv.wikipedia.org/wiki/Nicki_S%C3%B8rensen,2026-04-06T17:00:43.997183+00:00
+1142,Q29343875,Nicklas Amdi Pedersen,mand,1993-08-03,Aarhus,56.156388888,10.209722222,177736,,,0,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BB%D0%B0%D1%81_%D0%90%D0%BC%D0%B4%D0%B8",2026-04-06T17:00:54.445900+00:00
+1143,Q107012761,Nicklas Lilleskov Falk Rasmussen,mand,1997-07-13,Gørlev,55.5392,11.2273,271350,,,0,,https://da.wikipedia.org/wiki/Nicklas_Lilleskov_Falk_Rasmussen,2026-04-06T17:01:05.267805+00:00
+1144,Q20109533,Nicolai Brøchner,mand,1993-07-04,Kolding,55.490833333,9.472222222,158593,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D1%80%D1%91%D1%85%D0%BD%D0%B5%D1%80,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9",2026-04-06T17:01:17.263130+00:00
+1145,Q101609326,Nicolai Wandahl,mand,2004-04-19,Stockholm,59.329444444,18.068611111,270090,,,0,,https://da.wikipedia.org/wiki/Nicolai_Wandahl,2026-04-06T17:01:27.838638+00:00
+1146,Q1600550,Nicolaj Bo Larsen,mand,1971-11-10,Roskilde,55.641666666,12.080833333,113918,,,0,,https://nl.wikipedia.org/wiki/Nicolaj_Bo_Larsen,2026-04-06T17:01:38.349451+00:00
+1147,Q17489518,Niels Baunsøe,mand,1939-06-29,Frederiksberg,55.6779,12.5327,246638,,,0,,https://pt.wikipedia.org/wiki/Niels_Bauns%C3%B8e,2026-04-06T17:01:48.792756+00:00
+1148,Q21231009,Niels Bech Rasmussen,mand,1995-10-05,,,,269340,,,0,,"https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81%D1%81%D0%B5%D0%BD,_%D0%9D%D0%B8%D0%BB%D1%8C%D1%81",2026-04-06T17:01:59.314595+00:00
+1149,Q972002,Niels Fredborg,mand,1946-10-28,Odder,55.9725,10.149722222,213535,,,0,,https://fi.wikipedia.org/wiki/Niels_Fredborg,2026-04-06T17:02:09.755334+00:00
+546,Q120201414,Niels Ole Hald,mand,,,,,,,,0,,https://de.wikipedia.org/wiki/Niels_Ole_Hald,2026-04-06T15:50:01.217116+00:00
+547,Q106314444,Niels Poulsen,mand,1960-09-30,København,55.676111111,12.568888888,,,,0,,https://de.wikipedia.org/wiki/Niels_Poulsen_(Radsportler),2026-04-06T15:50:01.217116+00:00
+1150,Q1990214,Niki Byrgesen,mand,1990-07-21,,,,133308,,,0,,https://fr.wikipedia.org/wiki/Niki_Byrgesen,2026-04-06T17:02:20.214528+00:00
+1151,Q1329160,Niki Østergaard,mand,1988-01-21,Horsens,55.861944444,9.851944444,139744,,,0,,https://nl.wikipedia.org/wiki/Niki_%C3%98stergaard,2026-04-06T17:02:31.136991+00:00
+1152,Q24325233,Niklas Eg,mand,1995-01-06,Kibæk,56.0344,8.8547,168775,60.0,1.84,0,,"https://ru.wikipedia.org/wiki/%D0%AD%D0%B3,_%D0%9D%D0%B8%D0%BA%D0%BB%D0%B0%D1%81",2026-04-06T17:02:41.641257+00:00
+1153,Q23008003,Niklas Larsen,mand,1997-03-22,Slagelse,55.400833333,11.35,184433,74.0,1.83,0,,https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%85%8B%E6%8B%89%E6%96%AF%C2%B7%E6%8B%89%E6%A3%AE,2026-04-06T17:02:52.440176+00:00
+552,Q23771381,Niklas Laustsen,mand,1992-08-30,Hadsund,56.7185,10.1155,,,,0,,https://no.wikipedia.org/wiki/Niklas_Laustsen,2026-04-06T15:50:01.217116+00:00
+553,Q125857887,Niklas Petersen,mand,1994-01-14,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BB%D0%B0%D1%81",2026-04-06T15:50:01.217116+00:00
+1154,Q1990563,Nikola Aistrup,mand,1987-08-22,Ballerup Kommune,55.733333333,12.366666666,132178,,,0,,https://it.wikipedia.org/wiki/Nikola_Aistrup,2026-04-06T17:03:03.064971+00:00
+1155,Q116873600,Nikolaj Ankerstjerne Klausen,mand,2006-11-21,Lind,56.1042,8.97917,283376,,,0,,https://da.wikipedia.org/wiki/Nikolaj_Ankerstjerne_Klausen,2026-04-06T17:03:14.039627+00:00
+556,Q121356600,Nikolaj Hougs,mand,2006-01-11,Hellerup,55.733333333,12.566666666,,,,0,,https://da.wikipedia.org/wiki/Nikolaj_Hougs,2026-04-06T15:50:01.217116+00:00
+1156,Q102836597,Nikolaj Mengel,mand,2002-03-09,Ringsted,55.4406,11.7936,242309,65.0,1.82,0,,https://fr.wikipedia.org/wiki/Nikolaj_Mengel,2026-04-06T17:03:24.816154+00:00
+1157,Q104151615,Nikoline Hansen,kvinde,1987-04-04,Fårhus,54.8589,9.3261,138171,,,0,,"https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B8%D0%BD",2026-04-06T17:03:35.424490+00:00
+1158,Q66794593,Nikoline Splittorff,kvinde,1999-05-16,Gentofte,55.7517,12.5508,386963,,,0,,https://da.wikipedia.org/wiki/Nikoline_Splittorff,2026-04-06T17:03:46.133033+00:00
+1159,Q98594964,Nils Lau Nyborg Broge,mand,1992-01-04,Langå,56.392778,9.894167,189852,75.0,1.82,0,,https://da.wikipedia.org/wiki/Nils_Lau_Nyborg_Broge,2026-04-06T17:03:56.787884+00:00
+1160,Q19973672,Nina Krebs Ovesen,kvinde,1996-02-20,,,,185185,,,0,,https://en.wikipedia.org/wiki/Nina_Krebs_Ovesen,2026-04-06T17:04:07.378748+00:00
+1161,Q119828853,Noah Lindholm Møller Andersen,mand,2007-01-27,Trørød,55.8436,12.5386,292561,,,0,,https://fr.wikipedia.org/wiki/Noah_Lindholm_M%C3%B8ller,2026-04-06T17:04:18.036980+00:00
+1162,Q119828664,Noah Sonnich Gadeberg,mand,2007-02-25,,,,294151,,,0,,"https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B4%D0%B5%D0%B1%D0%B5%D1%80%D0%B3,_%D0%9D%D0%BE%D0%B0",2026-04-06T17:04:28.461724+00:00
+1163,Q109576241,Noah Wulff,mand,2005-06-14,Beder,56.0589,10.2097,270101,,,0,,https://da.wikipedia.org/wiki/Noah_Wulff,2026-04-06T17:04:38.929310+00:00
+565,Q7082956,Olaf Holmstrup,mand,1930-10-05,Horsens,55.861944444,9.851944444,,,,0,,https://pt.wikipedia.org/wiki/Olaf_Holmstrup,2026-04-06T15:50:01.217116+00:00
+1164,Q16031258,Olaf Meyland-Smith,mand,1882-07-23,Fraugde,55.3544,10.4883,246921,,,0,,https://pt.wikipedia.org/wiki/Olaf_Meyland-Smith,2026-04-06T17:04:49.589823+00:00
+1165,Q19975669,Ole Byriel,mand,1958-01-03,Aarhus,56.156388888,10.209722222,216246,,,0,,https://pt.wikipedia.org/wiki/Ole_Byriel,2026-04-06T17:04:59.998261+00:00
+1166,Q1723927,Ole Højlund Pedersen,mand,1943-02-17,Aarhus,56.156388888,10.209722222,226590,80.0,1.76,0,,https://pt.wikipedia.org/wiki/Ole_H%C3%B8jlund_Pedersen,2026-04-06T17:05:10.649803+00:00
+569,Q16583983,Ole Krøier,mand,1940-05-22,Danmark,56.0,10.0,,,,0,,https://pl.wikipedia.org/wiki/Ole_Kr%C3%B8ier,2026-04-06T15:50:01.217116+00:00
+570,Q80800862,Ole Pingel,mand,1938-08-17,Helsingør,56.036,12.6106,,,,0,,https://de.wikipedia.org/wiki/Ole_Pingel,2026-04-06T15:50:01.217116+00:00
+1167,Q581376,Ole Ritter,mand,1941-08-29,Slagelse,55.400833333,11.35,169802,74.0,1.78,0,,https://vo.wikipedia.org/wiki/Ole_Ritter,2026-04-06T17:05:21.175462+00:00
+1168,Q115620349,Oliver Juul Mortensen,mand,2004-03-20,Svendborg,55.059722222,10.61,270682,62.0,1.72,0,,"https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%82%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9E%D0%BB%D0%B8%D0%B2%D0%B5%D1%80",2026-04-06T17:05:31.871267+00:00
+1169,Q64785950,Oliver Knudsen,mand,1999-01-08,Silkeborg,56.166666666,9.55,268931,59.0,1.73,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D0%BD%D1%83%D0%B4%D1%81%D0%B5%D0%BD,_%D0%9E%D0%BB%D0%B8%D0%B2%D0%B5%D1%80",2026-04-06T17:05:42.397956+00:00
+1170,Q109367709,Oliver Søndergaard,mand,2003-06-19,Silkeborg,56.166666666,9.55,253153,,,0,,https://da.wikipedia.org/wiki/Oliver_S%C3%B8ndergaard,2026-04-06T17:05:52.814746+00:00
+1171,Q104647440,Oliver Vedersø Sølvhøj,mand,2002-04-20,Odder,55.9725,10.149722222,324122,77.0,1.85,0,,"https://ru.wikipedia.org/wiki/%D0%A1%D1%91%D0%BB%D1%8C%D0%B2%D1%85%D1%91%D0%B9,_%D0%9E%D0%BB%D0%B8%D0%B2%D0%B5%D1%80_%D0%92%D0%B5%D0%B4%D0%B5%D1%80%D1%81%D1%91",2026-04-06T17:06:03.454691+00:00
+1172,Q43019831,Oliver Wulff Frederiksen,mand,2000-10-11,Greve Strand,55.582222222,12.288888888,207958,,,0,,https://fr.wikipedia.org/wiki/Oliver_Wulff,2026-04-06T17:06:14.193896+00:00
+1173,Q19958217,Olivia Overskov Jakobsen,kvinde,1996-09-29,,,,192947,,,0,,https://en.wikipedia.org/wiki/Olivia_Overskov_Jakobsen,2026-04-06T17:06:24.641792+00:00
+1174,Q110490132,Olympia Norrid-Mortensen,kvinde,2005-03-20,Hornbæk,56.0875,12.4587,279550,,,0,,https://da.wikipedia.org/wiki/Olympia_Bianca_Norrid-Mortensen,2026-04-06T17:06:35.777630+00:00
+1175,Q113455,Orla Jørgensen,mand,1904-05-25,Gentofte Kommune,55.750472,12.552073,246782,,,0,,https://uk.wikipedia.org/wiki/%D0%9E%D1%80%D0%BB%D0%B0_%D0%84%D1%80%D2%91%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,2026-04-06T17:06:46.198143+00:00
+580,Q779622,Orla Nord,mand,1875-09-30,Danmark,56.0,10.0,,,,0,,https://pl.wikipedia.org/wiki/Orla_Nord,2026-04-06T15:50:01.217116+00:00
+1176,Q102352987,Oscar Bluhm,mand,2002-01-03,Sorø,55.4366,11.5592,240732,,,0,,https://da.wikipedia.org/wiki/Oscar_Bluhm,2026-04-06T17:06:56.761959+00:00
+1177,Q119828926,Oskar Louw Larsen,mand,2007-12-27,Roskilde,55.641666666,12.080833333,294143,,,0,,https://da.wikipedia.org/wiki/Oskar_Louw_Larsen,2026-04-06T17:07:07.275617+00:00
+1178,Q109553309,Oskar Winkler,mand,2000-03-28,Roskilde,55.641666666,12.080833333,242838,,,0,,https://fr.wikipedia.org/wiki/Oskar_Winkler,2026-04-06T17:07:17.719043+00:00
+1179,Q16071088,Otto Jensen,mand,1893-01-01,Herning,56.136111111,8.976666666,253371,,,0,,https://pt.wikipedia.org/wiki/Otto_Jensen,2026-04-06T17:07:28.320531+00:00
+1180,Q63614833,Otto Olsen,mand,1928-02-06,København,55.676111111,12.568888888,246621,,,0,,https://da.wikipedia.org/wiki/Otto_Olsen_(cykelrytter),2026-04-06T17:07:39.489507+00:00
+1181,Q112650160,Otto Schultz Jølving,mand,2006-09-25,Middelfart,55.505833333,9.730555555,282371,,,0,,https://da.wikipedia.org/wiki/Otto_Schultz_J%C3%B8lving,2026-04-06T17:07:50.146142+00:00
+587,Q63484444,Ove Claus Hansen,mand,1926-01-02,,,,,,,0,,https://da.wikipedia.org/wiki/Ove_Claus_Hansen,2026-04-06T15:50:01.217116+00:00
+1182,Q18358890,Ove Jensen,mand,1947-09-03,Region Midtjylland,56.166666666,9.5,246260,74.0,1.88,0,,https://pt.wikipedia.org/wiki/Ove_Jensen,2026-04-06T17:08:00.990814+00:00
+589,Q1302305,Ove Krogh Rants,mand,1925-08-14,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Ove_Krogh_Rants,2026-04-06T15:50:01.217116+00:00
+590,Q460255,Palle Lykke Jensen,mand,1936-11-04,Ringe,55.236944444,10.479444444,,,,0,,https://vo.wikipedia.org/wiki/Palle_Lykke,2026-04-06T15:50:01.217116+00:00
+1183,Q109575722,Patrick Boje Frydkjær,mand,2005-03-19,Fensmark,55.2778,11.805,270691,,,0,,https://fr.wikipedia.org/wiki/Patrick_Frydkj%C3%A6r,2026-04-06T17:08:11.415049+00:00
+1184,Q3369344,Patrick Clausen,mand,1990-07-02,Hvidovre,55.6564,12.4686,139740,,,0,,https://da.wikipedia.org/wiki/Patrick_Clausen,2026-04-06T17:08:21.939469+00:00
+1185,Q124538385,Paw Kragh,mand,2005-03-05,,,,302782,,,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%B3,_%D0%9F%D0%B0%D0%B2",2026-04-06T17:08:32.433012+00:00
+594,Q338293,Peder Pedersen,mand,1945-11-03,Nørre Nærå,55.5728093,10.2849457,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%9F%D0%B5%D0%B4%D0%B5%D1%80",2026-04-06T15:50:01.217116+00:00
+1186,Q109370536,Pelle Køster,mand,2003-04-25,København,55.676111111,12.568888888,260764,72.0,1.88,0,,https://fr.wikipedia.org/wiki/Pelle_K%C3%B8ster,2026-04-06T17:08:42.875097+00:00
+1187,Q99178930,Per Bausager,mand,1956-09-06,Roskilde,55.641666666,12.080833333,175457,,,0,,https://fr.wikipedia.org/wiki/Per_Bausager,2026-04-06T17:08:53.630250+00:00
+597,Q20015992,Per Kærsgaard Laursen,mand,1955-11-07,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Per_K%C3%A6rsgaard_Laursen,2026-04-06T15:50:01.217116+00:00
+598,Q861570,Per Lyngemark,mand,1941-05-23,Frederiksberg,55.6779,12.5327,,,,0,,https://vo.wikipedia.org/wiki/Per_Lyngemark,2026-04-06T15:50:01.217116+00:00
+1188,Q118610416,Per Nørup-Hansen,mand,1944-02-17,,,,259088,,,0,,https://de.wikipedia.org/wiki/Per_N%C3%B8rup-Hansen,2026-04-06T17:09:04.195603+00:00
+1189,Q3050251,Per Pedersen,mand,1964-04-05,Vestervig,56.7631,8.3169,167997,,,0,,https://pt.wikipedia.org/wiki/Per_Pedersen,2026-04-06T17:09:14.701872+00:00
+601,Q111913507,Per Rydicher,mand,1950-12-04,,,,,,,0,,https://de.wikipedia.org/wiki/Per_Rydicher,2026-04-06T15:50:01.217116+00:00
+1190,Q20982531,Per Sandahl Jørgensen,mand,1953-08-02,Skive,56.566666666,9.026944444,249027,78.0,1.85,0,,https://pt.wikipedia.org/wiki/Per_Sandahl_J%C3%B8rgensen,2026-04-06T17:09:26.473724+00:00
+603,Q17626759,Per Sarto Jørgensen,mand,1944-03-03,Region Midtjylland,56.166666666,9.5,,,,0,,https://pt.wikipedia.org/wiki/Per_Sarto_J%C3%B8rgensen,2026-04-06T15:50:01.217116+00:00
+604,Q125862167,Pernille Hansen,kvinde,,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9F%D0%B5%D1%80%D0%BD%D0%B8%D0%BB%D0%BB%D0%B5",2026-04-06T15:50:01.217116+00:00
+1191,Q55422500,Pernille Langelund Jakobsen,kvinde,1979-12-29,,,,130065,,,0,,https://fr.wikipedia.org/wiki/Pernille_Langelund_Jakobsen,2026-04-06T17:09:37.096495+00:00
+1192,Q25920437,Pernille Mathiesen,kvinde,1997-10-05,Holstebro,56.358055555,8.6175,179877,71.0,1.84,0,,https://nl.wikipedia.org/wiki/Pernille_Mathiesen,2026-04-06T17:09:47.553406+00:00
+607,Q125855779,Peter Bech,mand,1976-10-01,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BA,_%D0%9F%D0%B5%D1%82%D0%B5%D1%80",2026-04-06T15:50:01.217116+00:00
+608,Q27107409,Peter Clausen,mand,1964-04-13,Rødovre,55.6811,12.4558,,,,0,,https://en.wikipedia.org/wiki/Peter_Clausen,2026-04-06T15:50:01.217116+00:00
+609,Q106588628,Peter Ellegaard,mand,1958-01-01,,,,,,,0,,https://de.wikipedia.org/wiki/Peter_Ellegaard,2026-04-06T15:50:01.217116+00:00
+1193,Q2108695,Peter Meinert,mand,1966-05-24,Grenaa,56.413333333,10.875833333,113604,73.0,1.9,0,,"https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BB%D1%8C%D1%81%D0%B5%D0%BD,_%D0%9F%D0%B5%D1%82%D0%B5%D1%80_%D0%9C%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D1%82",2026-04-06T17:09:58.234277+00:00
+1194,Q350311,Peter Riis Andersen,mand,1980-07-25,,,,116309,67.0,1.76,0,,https://sv.wikipedia.org/wiki/Peter_Riis_Andersen,2026-04-06T17:10:08.774307+00:00
+1195,Q112755895,Peter Øxenberg Hansen,mand,2005-10-23,Nørreby,55.5931,10.2558,291410,69.0,1.91,0,,https://da.wikipedia.org/wiki/Peter_%C3%98xenberg,2026-04-06T17:10:19.616178+00:00
+1196,Q1485324,Philip Nielsen,mand,1987-08-31,,,,165025,,,0,,https://en.wikipedia.org/wiki/Philip_Nielsen,2026-04-06T17:10:30.180225+00:00
+1197,Q108133219,Phillip Mathiesen,mand,2003-03-01,Valby,55.6614,12.5167,260798,,,0,,https://fr.wikipedia.org/wiki/Phillip_Mathiesen,2026-04-06T17:10:40.732080+00:00
+1198,Q17180965,Poul Bergenhammer Sørensen,mand,1906-08-03,Maribo,54.7753,11.5035,246785,,,0,,https://de.wikipedia.org/wiki/Poul_S%C3%B8rensen_(Radsportler),2026-04-06T17:10:52.175721+00:00
+616,Q2108208,Preben Isaksson,mand,1943-01-22,København,55.676111111,12.568888888,,,,0,,https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B1%D0%B5%D0%BD_%D0%86%D1%81%D0%B0%D0%BA%D1%81%D1%81%D0%BE%D0%BD,2026-04-06T15:50:01.217116+00:00
+617,Q7239363,Preben Lundgren Kristensen,mand,1923-11-28,Region Hovedstaden,55.931507329,12.35011779,,,,0,,https://pt.wikipedia.org/wiki/Preben_Lundgren_Kristensen,2026-04-06T15:50:01.217116+00:00
+744,Q136489427,Q136489427,mand,,,,,323191,,,0,,https://de.wikipedia.org/wiki/Finn_Jensen_Strausholm,2026-04-06T15:50:09.174964+00:00
+1199,Q29343977,Rasmus Byriel Iversen,mand,1997-09-16,Marstrup,55.2089,9.4422,184409,77.0,1.9,0,,"https://ru.wikipedia.org/wiki/%D0%98%D0%B2%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81_%D0%91%D0%B8%D1%80%D0%B8%D1%8D%D0%BB%D1%8C",2026-04-06T17:11:04.139905+00:00
+1200,Q28970755,Rasmus Bøgh Wallin,mand,1996-01-02,Hellerup,55.733333333,12.566666666,189064,78.0,1.96,0,,"https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD,_%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81",2026-04-06T17:11:14.632935+00:00
+620,Q2131955,Rasmus Damm,mand,1988-09-18,,,,,,,0,,https://de.wikipedia.org/wiki/Rasmus_Damm,2026-04-06T15:50:01.217116+00:00
+1201,Q30070893,Rasmus Esmann Ginnerup,mand,1994-08-04,Viborg,56.45,9.4,164353,,,0,,https://nl.wikipedia.org/wiki/Rasmus_Ginnerup,2026-04-06T17:11:25.667397+00:00
+1202,Q1668902,Rasmus Guldhammer,mand,1989-03-09,Vejle,55.708333333,9.533333333,139811,66.0,1.83,0,,"https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%BB%D1%8C%D0%B4%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D1%80,_%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81",2026-04-06T17:11:36.548101+00:00
+1203,Q114435591,Rasmus Gøtke,mand,1997-06-24,Fredericia,55.564444444,9.759722222,204044,,,0,,"https://ru.wikipedia.org/wiki/%D0%93%D1%91%D1%82%D0%BA%D0%B5,_%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81",2026-04-06T17:11:46.962300+00:00
+624,Q125859687,Rasmus Jessing,mand,1978-12-08,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%99%D0%B5%D1%81%D1%81%D0%B8%D0%BD%D0%B3,_%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81",2026-04-06T15:50:01.217116+00:00
+625,Q2131966,Rasmus Lehrmann,mand,1985-08-07,,,,,,,0,,https://de.wikipedia.org/wiki/Rasmus_Lehrmann,2026-04-06T15:50:01.217116+00:00
+1204,Q29052712,Rasmus Lund Pedersen,mand,1998-07-09,Odense,55.4,10.383333333,194908,84.0,1.84,0,,https://sv.wikipedia.org/wiki/Rasmus_Pedersen_(cyklist),2026-04-06T17:11:57.599392+00:00
+1205,Q106984738,Rasmus Lundtoft Lindbjerg,mand,2000-06-11,Give,55.8439,9.2383,245874,,,0,,https://da.wikipedia.org/wiki/Rasmus_Lundtoft_Lindbjerg,2026-04-06T17:12:08.057512+00:00
+1206,Q28970255,Rasmus Mygind,mand,1989-05-08,Langå,56.392778,9.894167,132435,,,0,,https://fr.wikipedia.org/wiki/Rasmus_Mygind,2026-04-06T17:12:18.627991+00:00
+1207,Q1291181,Rasmus Quaade,mand,1990-01-07,København,55.676111111,12.568888888,134345,77.0,1.87,0,,https://it.wikipedia.org/wiki/Rasmus_Christian_Quaade,2026-04-06T17:12:29.419044+00:00
+1208,Q15841766,Rasmus Sterobo,mand,1991-08-11,,,,139796,,,0,,https://nl.wikipedia.org/wiki/Rasmus_Sterobo,2026-04-06T17:12:39.912726+00:00
+1209,Q58880207,Rasmus Søgaard,mand,1991-08-14,,,,203209,,,0,,https://da.wikipedia.org/wiki/Rasmus_S%C3%B8gaard,2026-04-06T17:12:50.388537+00:00
+1210,Q106366863,Rasmus Søjberg Pedersen,mand,2002-07-09,Esbjerg,55.470833333,8.451388888,256754,74.0,1.82,0,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81_%D0%A1%D0%BE%D0%B9%D0%B1%D0%B5%D1%80%D0%B3",2026-04-06T17:13:00.926244+00:00
+1211,Q99900865,Rebecca Koerner,kvinde,2000-09-22,Herlev,55.731,12.424,260883,,,0,,https://simple.wikipedia.org/wiki/Rebecca_Koerner,2026-04-06T17:13:11.539119+00:00
+634,Q860397,Reno Olsen,mand,1947-02-19,Roskilde,55.641666666,12.080833333,,,,0,,https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%BE_%D0%9E%D0%BB%D1%8C%D1%81%D0%B5%D0%BD,2026-04-06T15:50:01.217116+00:00
+1212,Q330342,René Jørgensen,mand,1975-07-26,Herning,56.136111111,8.976666666,139807,60.0,1.79,0,,https://nl.wikipedia.org/wiki/Ren%C3%A9_J%C3%B8rgensen,2026-04-06T17:13:22.190258+00:00
+1213,Q120201471,René W. Andersen,mand,1962-09-09,,,,240355,,,0,,https://de.wikipedia.org/wiki/Ren%C3%A9_W._Andersen,2026-04-06T17:13:32.965526+00:00
+1214,Q7313819,René Wenzel,mand,1960-04-20,København,55.676111111,12.568888888,240349,,,0,,https://fr.wikipedia.org/wiki/Ren%C3%A9_Wenzel,2026-04-06T17:13:43.414326+00:00
+1215,Q1584073,Ricky Enø Jørgensen,mand,1989-06-05,Ilulissat,69.216666666,-51.1,133293,,,0,,https://fr.wikipedia.org/wiki/Ricky_En%C3%B8_J%C3%B8rgensen,2026-04-06T17:13:54.009470+00:00
+639,Q112162609,Rikke Balle,kvinde,2001-03-22,Nykøbing Mors,56.7981,8.8622,,,,0,,https://da.wikipedia.org/wiki/Rikke_Balle,2026-04-06T15:50:01.217116+00:00
+640,Q7334060,Rikke Kornvig,kvinde,1983-10-18,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BD%D0%B2%D0%B8%D0%B3,_%D0%A0%D0%B8%D0%BA%D0%BA%D0%B5",2026-04-06T15:50:01.217116+00:00
+1216,Q2153009,Rikke Sandhøj Olsen,kvinde,1972-04-20,Glostrup,55.6628,12.3972,228599,,,0,,https://da.wikipedia.org/wiki/Rikke_Sandh%C3%B8j_Olsen,2026-04-06T17:14:04.435224+00:00
+1217,Q53843875,Robin Juel Skivild,mand,2001-08-21,Ryslinge,55.243055555,10.5375,215940,,,0,,https://nl.wikipedia.org/wiki/Robin_Juel_Skivild,2026-04-06T17:14:15.329128+00:00
+1218,Q46503049,Rolf Stougård Broge,mand,1991-02-27,Langå,56.392778,9.894167,131938,,,0,,https://fr.wikipedia.org/wiki/Rolf_Broge,2026-04-06T17:14:25.801658+00:00
+1219,Q529118,Rolf Sørensen,mand,1965-04-20,Annisse,55.9808,12.1731,114058,70.0,1.78,0,,https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BB%D1%8C%D1%84_%D0%A1%D0%B5%D1%80%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,2026-04-06T17:14:36.354821+00:00
+1220,Q12333736,Ronny Lerche,mand,1968-07-23,,,,210451,,,0,,https://da.wikipedia.org/wiki/Ronny_Lerche,2026-04-06T17:14:47.218946+00:00
+1221,Q17388662,Rudolf Rasmussen,mand,1918-06-18,København,55.676111111,12.568888888,255897,,,0,,https://sv.wikipedia.org/wiki/Rudolf_Rasmussen,2026-04-06T17:14:57.645741+00:00
+1222,Q58771640,Sander Andersen,mand,1999-10-24,Ølstykke Stationsby,55.7765,12.1717,202662,56.0,1.72,0,,https://da.wikipedia.org/wiki/Sander_Andersen,2026-04-06T17:15:08.321557+00:00
+648,Q17057654,Sandra Dolcerocca,kvinde,1975-10-11,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BB%D1%8C%D1%87%D0%B5%D1%80%D0%BE%D0%BA%D0%BA%D0%B0,_%D0%A1%D0%B0%D0%BD%D0%B4%D1%80%D0%B0",2026-04-06T15:50:01.217116+00:00
+1223,Q55422447,Sanne Schmidt,kvinde,1974-12-08,,,,226916,,,0,,"https://ru.wikipedia.org/wiki/%D0%A8%D0%BC%D0%B8%D0%B4%D1%82,_%D0%A1%D0%B0%D0%BD%D0%BD%D0%B5",2026-04-06T17:15:18.851079+00:00
+650,Q114347973,Sara Aaboe Kallestrup,kvinde,2007-04-19,Viborg,56.45,9.4,,,,0,,https://da.wikipedia.org/wiki/Sara_Aaboe_Kallestrup,2026-04-06T15:50:01.217116+00:00
+1224,Q106974037,Sebastian Andreasson,mand,2002-04-15,Albertslund,55.6597,12.3617,242312,,,0,,https://fr.wikipedia.org/wiki/Sebastian_Andreasson,2026-04-06T17:15:29.332149+00:00
+1225,Q112749209,Sebastian Brandt Christiansen,mand,2006-12-07,Nørre Asmindrup,55.8827,11.6078,282370,,,0,,https://da.wikipedia.org/wiki/Sebastian_Brandt_Christiansen,2026-04-06T17:15:39.877479+00:00
+1226,Q23668704,Sebastian Fini,mand,1995-03-26,Hellerup,55.733333333,12.566666666,193463,69.0,1.74,0,,"https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B8,_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD",2026-04-06T17:15:50.331345+00:00
+1227,Q58841531,Sebastian Kolze Changizi,mand,2000-12-29,Silkeborg,56.166666666,9.55,211817,,,0,,"https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D0%B3%D0%B8%D0%B7%D0%B8,_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD",2026-04-06T17:16:00.832821+00:00
+1228,Q127803,Sebastian Lander,mand,1991-03-11,Køge,55.45,12.183333333,139771,70.0,1.75,0,,"https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D0%B5%D1%80,_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD",2026-04-06T17:16:13.249331+00:00
+1229,Q102353593,Sebastian Nielsen,mand,2000-08-27,Rødovre,55.6811,12.4558,209007,,,0,,https://nl.wikipedia.org/wiki/Sebastian_Nielsen,2026-04-06T17:16:23.699024+00:00
+1230,Q99236881,Sebastian Ryttersgaard,mand,1999-12-22,Aalborg,57.05,9.916666666,221868,,,0,,https://da.wikipedia.org/wiki/Sebastian_Ryttersgaard,2026-04-06T17:16:34.226453+00:00
+1231,Q124748326,Selma Viktoria Wehberg,kvinde,2007-08-28,Odense,55.4,10.383333333,303216,,,0,,"https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%85%D0%B1%D0%B5%D1%80%D0%B3,_%D0%A1%D0%B5%D0%BB%D1%8C%D0%BC%D0%B0",2026-04-06T17:16:44.820944+00:00
+659,Q124807862,Signe D. Strandvig,kvinde,1978-11-27,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D0%B2%D0%B8%D0%B3,_%D0%A1%D0%B8%D0%B3%D0%BD%D0%B5",2026-04-06T15:50:01.217116+00:00
+1232,Q50098616,Silas Zacharias Clemmensen,mand,1996-10-25,Rakkeby,57.4044,9.9242,196423,,,0,,https://da.wikipedia.org/wiki/Silas_Zacharias_Clemmensen,2026-04-06T17:16:55.331117+00:00
+1233,Q126683083,Silje Weitze Antvorskov,kvinde,2004-10-12,Frederiksberg,55.6779,12.5327,314214,,,0,,https://da.wikipedia.org/wiki/Silje_Weitze_Antvorskov,2026-04-06T17:17:05.912389+00:00
+1234,Q18953971,Simon Andreassen,mand,1997-08-30,Odense,55.4,10.383333333,190445,68.0,1.77,0,,https://sv.wikipedia.org/wiki/Simon_Andreassen,2026-04-06T17:17:18.666434+00:00
+1235,Q106871171,Simon Bak,mand,2000-02-12,Odense,55.4,10.383333333,245872,,,0,,https://fr.wikipedia.org/wiki/Simon_Bak,2026-04-06T17:17:29.846950+00:00
+1236,Q20736148,Simon Bigum,mand,1993-04-10,Svendborg,55.059722222,10.61,158609,,,0,,https://fr.wikipedia.org/wiki/Simon_Bigum,2026-04-06T17:17:40.905833+00:00
+1237,Q107473830,Simon Dalby,mand,2003-01-29,Holstebro,56.358055555,8.6175,256767,,,0,,https://vo.wikipedia.org/wiki/Simon_Dalby_(saikulan),2026-04-06T17:17:51.415831+00:00
+666,Q125855934,Simon Tarp Jensen,mand,1982-08-05,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%99%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD_%D0%A2%D0%B0%D1%80%D0%BF",2026-04-06T15:50:01.217116+00:00
+1238,Q28835920,Simone Eg,kvinde,1998-04-06,Kibæk,56.0344,8.8547,179876,,,0,,https://da.wikipedia.org/wiki/Simone_Eg,2026-04-06T17:18:01.940054+00:00
+1239,Q60673584,Sofie Heby Pedersen,kvinde,2001-02-01,Aalborg,57.05,9.916666666,233018,,,0,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%A1%D0%BE%D1%84%D0%B8_%D0%A5%D0%B5%D0%B1%D1%8E",2026-04-06T17:18:12.486264+00:00
+1240,Q106237832,Solbjørk Minke Anderson,kvinde,2004-08-15,Rigshospitalet,55.696,12.5664,260877,,,0,,https://nl.wikipedia.org/wiki/Solbj%C3%B8rk_Minke_Anderson,2026-04-06T17:18:22.946598+00:00
+1241,Q96755411,Steen Michael Petersen,mand,1959-10-29,København,55.676111111,12.568888888,173174,,,0,,https://fr.wikipedia.org/wiki/Steen_Michael_Petersen,2026-04-06T17:18:33.639891+00:00
+1242,Q20736158,Stefan Djurhuus,mand,1990-04-07,Amager,55.616666666,12.616666666,188813,,,0,,https://da.wikipedia.org/wiki/Stefan_Djurhuus,2026-04-06T17:18:44.493792+00:00
+1243,Q84762296,Stian Rosenlund Richter,mand,2002-04-04,Tønder,54.942777777,8.863888888,242307,72.0,1.92,0,,https://fr.wikipedia.org/wiki/Stian_Rosenlund,2026-04-06T17:18:54.950937+00:00
+1244,Q106628437,Stig Larsen,mand,1962-02-18,Odense,55.4,10.383333333,250967,,,0,,https://de.wikipedia.org/wiki/Stig_Larsen,2026-04-06T17:19:05.428817+00:00
+1245,Q107325498,Stinus Kæmpe,mand,2001-02-26,København,55.676111111,12.568888888,252180,59.0,1.8,0,,https://da.wikipedia.org/wiki/Stinus_K%C3%A6mpe,2026-04-06T17:19:16.503114+00:00
+675,Q125862170,Susanne Berg,kvinde,,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B3,_%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B5",2026-04-06T15:50:01.217116+00:00
+676,Q12337810,Susanne Lindberg,kvinde,1871-11-05,,,,,,,0,,https://en.wikipedia.org/wiki/Susanne_Lindberg,2026-04-06T15:50:01.217116+00:00
+677,Q18057042,Svend Erik Bjerg,mand,1944-11-16,Maribo,54.7753,11.5035,,,,0,,https://pt.wikipedia.org/wiki/Svend_Erik_Bjerg,2026-04-06T15:50:01.217116+00:00
+1246,Q119828453,Sylvester Vittinghus Stokbro,mand,2007-07-16,Nørre Jernløse,55.6637,11.6253,292553,,,0,,https://da.wikipedia.org/wiki/Sylvester_Vittinghus_Stokbro,2026-04-06T17:19:27.037574+00:00
+1247,Q3511555,Søren Kragh Andersen,mand,1994-08-10,Strib,55.5367,9.7722,168755,73.0,1.78,0,,https://sv.wikipedia.org/wiki/S%C3%B8ren_Kragh_Andersen,2026-04-06T17:19:37.541310+00:00
+1248,Q526433,Søren Lilholt,mand,1965-09-22,København,55.676111111,12.568888888,168006,72.0,1.82,0,,https://sv.wikipedia.org/wiki/S%C3%B8ren_Lilholt,2026-04-06T17:19:48.030665+00:00
+1249,Q2380221,Søren Nissen,mand,1984-12-14,København,55.676111111,12.568888888,136560,65.0,1.83,0,,"https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D1%81%D1%81%D0%B5%D0%BD,_%D0%A1%D1%91%D1%80%D0%B5%D0%BD",2026-04-06T17:19:58.538671+00:00
+1250,Q1655194,Søren Petersen,mand,1967-10-07,Skive,56.566666666,9.026944444,136492,,,0,,https://de.wikipedia.org/wiki/S%C3%B8ren_Petersen_(Radsportler),2026-04-06T17:20:09.165732+00:00
+683,Q7666591,Søren Strunge,mand,,,,,,,,0,,https://en.wikipedia.org/wiki/S%C3%B8ren_Strunge,2026-04-06T15:50:01.217116+00:00
+1251,Q104054821,Søren Vosgerau,mand,2000-03-16,Skanderborg,56.033333333,9.933333333,228095,69.0,1.8,0,,"https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%B3%D0%B5%D1%80%D0%B0%D1%83,_%D0%A1%D1%91%D1%80%D0%B5%D0%BD",2026-04-06T17:20:19.841412+00:00
+1252,Q18926967,Tage Møller,mand,1914-03-14,København,55.676111111,12.568888888,255858,,,0,,https://pt.wikipedia.org/wiki/Tage_M%C3%B8ller,2026-04-06T17:20:30.422295+00:00
+1253,Q526554,Tayeb Braikia,mand,1974-03-08,Aarhus,56.156388888,10.209722222,113612,,,0,,https://nl.wikipedia.org/wiki/Tayeb_Braikia,2026-04-06T17:20:40.804623+00:00
+1254,Q112748755,Theodor Clemmensen,mand,2006-08-24,Rakkeby,57.4044,9.9242,282367,,,0,,https://da.wikipedia.org/wiki/Theodor_Clemmensen,2026-04-06T17:20:51.221670+00:00
+1255,Q109540499,Theodor Storm,mand,2005-03-31,Roskilde,55.641666666,12.080833333,270086,,,0,,https://nl.wikipedia.org/wiki/Theodor_Storm_(wielrenner),2026-04-06T17:21:01.832107+00:00
+1256,Q12339201,Thomas Bay,mand,1970-08-22,Hvidovre,55.6564,12.4686,174609,,,0,,https://fr.wikipedia.org/wiki/Thomas_Bay,2026-04-06T17:21:12.291623+00:00
+1257,Q2374506,Thomas Bruun Eriksen,mand,1979-02-13,København,55.676111111,12.568888888,114490,,,0,,https://nl.wikipedia.org/wiki/Thomas_Bruun_Eriksen,2026-04-06T17:21:23.023253+00:00
+1258,Q114436181,Thomas Bundgaard,mand,1984-02-21,Aarhus,56.156388888,10.209722222,203313,70.0,1.77,0,,"https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BD%D0%BD%D0%B3%D0%BE%D1%80,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81",2026-04-06T17:21:33.514380+00:00
+692,Q16177571,Thomas Christian Bonne,mand,1977-05-22,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BD%D0%BD%D0%B5,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD",2026-04-06T15:50:01.217116+00:00
+1259,Q1702449,Thomas Guldhammer,mand,1987-07-31,Vejle,55.708333333,9.533333333,133269,,,0,,https://nl.wikipedia.org/wiki/Thomas_Guldhammer,2026-04-06T17:21:44.065437+00:00
+1260,Q2425569,Thomas Kristiansen,mand,1987-01-08,Glostrup Kommune,55.666666666,12.4,125374,,,0,,https://fr.wikipedia.org/wiki/Thomas_Kristiansen,2026-04-06T17:21:54.501273+00:00
+1261,Q1384439,Thomas Kvist,mand,1987-08-18,Odder,55.9725,10.149722222,131743,68.0,1.83,0,,https://nl.wikipedia.org/wiki/Thomas_Kvist,2026-04-06T17:22:05.037803+00:00
+1262,Q12343125,Thomas Nybo Riis,mand,1992-08-31,,,,131962,,,0,,https://en.wikipedia.org/wiki/Thomas_Riis,2026-04-06T17:22:15.600801+00:00
+697,Q108908264,Thomas Steinthal,mand,1999-04-18,Hillerød,55.933333333,12.3,,,,0,,https://da.wikipedia.org/wiki/Thomas_Steinthal,2026-04-06T15:50:01.217116+00:00
+1263,Q124049074,Thor Vangsø Nielsen,mand,2006-06-26,Aarhus,56.156388888,10.209722222,300168,,,0,,https://da.wikipedia.org/wiki/Thor_Vangs%C3%B8_Nielsen,2026-04-06T17:22:26.230631+00:00
+699,Q1715455,Thorvald Ellegaard,mand,1877-03-07,Fangel,55.3125,10.3153,,,,0,,https://sv.wikipedia.org/wiki/Thorvald_Ellegaard,2026-04-06T15:50:01.217116+00:00
+700,Q125861972,Tine Maria Henriksen,kvinde,1971-01-23,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BD%D1%80%D0%B8%D0%BA%D1%81%D0%B5%D0%BD,_%D0%A2%D0%B8%D0%BD%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F",2026-04-06T15:50:01.217116+00:00
+1264,Q25921056,Tine Rasch Hansen,kvinde,1976-04-10,,,,197112,,,0,,https://en.wikipedia.org/wiki/Tine_Rasch_Hansen,2026-04-06T17:22:36.822098+00:00
+702,Q125862220,Tine Vogt,kvinde,1979-06-13,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%83%D1%81%D1%82%D1%81%D0%B5%D0%BD,_%D0%A2%D0%B8%D0%BD%D0%B5_%D0%92%D0%BE%D0%B3%D1%82",2026-04-06T15:50:01.217116+00:00
+1265,Q100321327,Tobias Aagaard Hansen,mand,2002-03-10,Odense,55.4,10.383333333,242808,77.0,1.85,0,,https://zh.wikipedia.org/wiki/%E6%89%98%E6%AF%94%E4%BA%9A%E6%96%AF%C2%B7%E6%B1%89%E6%A3%AE,2026-04-06T17:22:47.314378+00:00
+1266,Q124748274,Tobias Bahn,mand,2007-07-30,,,,303217,,,0,,"https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD,_%D0%A2%D0%BE%D0%B1%D0%B8%D0%B0%D1%81",2026-04-06T17:22:57.818251+00:00
+1267,Q28970230,Tobias Kongstad,mand,1996-09-14,København,55.676111111,12.568888888,179098,75.0,1.87,0,,https://fr.wikipedia.org/wiki/Tobias_Kongstad,2026-04-06T17:23:08.201474+00:00
+706,Q106155558,Tobias Lillelund,mand,2002-08-14,Ikast,56.1356,9.1547,,,,0,,"https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BB%D0%BB%D0%B5%D0%BB%D1%83%D0%BD%D0%BD,_%D0%A2%D0%BE%D0%B1%D0%B8%D0%B0%D1%81",2026-04-06T15:50:01.217116+00:00
+1268,Q98918621,Tobias Lund Andresen,mand,2002-08-20,Taastrup,55.65,12.3,240406,69.0,1.81,0,,https://sr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B1%D0%B8%D1%98%D0%B0%D1%81_%D0%9B%D1%83%D0%BD%D0%B4_%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,2026-04-06T17:23:18.979440+00:00
+1269,Q109550353,Tobias Svarre,mand,2004-07-19,Faxe,55.2544,12.1181,262280,,,0,,https://en.wikipedia.org/wiki/Tobias_Svarre,2026-04-06T17:23:29.561425+00:00
+709,Q25344497,Tommy Nielsen,mand,1967-11-11,Hillerød,55.933333333,12.3,,,,0,,https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9F%E3%83%BB%E3%83%8B%E3%83%AB%E3%82%BB%E3%83%B3,2026-04-06T15:50:01.217116+00:00
+710,Q7825501,Torbjørn Gasbjerg,mand,1980-08-24,,,,,,,0,,https://fi.wikipedia.org/wiki/Torbj%C3%B8rn_Gasbjerg,2026-04-06T15:50:01.217116+00:00
+1270,Q112676053,Tore Troelsen,mand,2005-06-17,Sunds,56.206111111,9.015277777,270119,,,0,,https://da.wikipedia.org/wiki/Tore_Troelsen,2026-04-06T17:23:40.060001+00:00
+1271,Q20609015,Torkil Veyhe,mand,1990-01-09,Thorshavn,62.00981,-6.77135,179976,77.0,1.86,0,,"https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B9%D1%85%D0%B5,_%D0%A2%D0%BE%D1%80%D0%BA%D0%B8%D0%BB%D1%8C",2026-04-06T17:23:50.468243+00:00
+1272,Q30524922,Trine Andersen,kvinde,1987-01-08,Holstebro,56.358055555,8.6175,210644,,,0,,https://da.wikipedia.org/wiki/Trine_Andersen_(cykelrytter),2026-04-06T17:24:00.940479+00:00
+1273,Q41891276,Trine Holmsgaard,kvinde,1997-09-04,Sunds,56.206111111,9.015277777,196889,,,0,,https://da.wikipedia.org/wiki/Trine_Holmsgaard,2026-04-06T17:24:11.389574+00:00
+1274,Q263167,Trine Schmidt,kvinde,1988-06-03,Ganløse,55.791944444,12.264722222,132793,,,0,,https://sv.wikipedia.org/wiki/Trine_Schmidt,2026-04-06T17:24:21.853756+00:00
+1275,Q1372921,Troels Vinther,mand,1987-02-24,Silkeborg,56.166666666,9.55,140324,68.0,1.82,0,,"https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD%D1%82%D0%B5%D1%80,_%D0%A2%D1%80%D0%BE%D1%8D%D0%BB%D1%8C%D1%81",2026-04-06T17:24:32.349854+00:00
+1276,Q112532533,Tusnelda Svanholmer,kvinde,2001-05-10,Klampenborg,55.7733,12.5875,211049,,,0,,https://da.wikipedia.org/wiki/Tusnelda_Svanholmer,2026-04-06T17:24:43.222610+00:00
+718,Q16164131,Vagn Bangsborg,mand,1936-05-28,Slagelse Kommune,55.402,11.353661111,,,,0,,https://pt.wikipedia.org/wiki/Vagn_Bangsborg,2026-04-06T15:50:01.217116+00:00
+719,Q112864915,Vagn Scharling,mand,1940-01-15,,,,,,,0,,https://de.wikipedia.org/wiki/Vagn_Scharling,2026-04-06T15:50:01.217116+00:00
+720,Q16071090,Valdemar Christoffer Nielsen,mand,1893-09-21,København,55.676111111,12.568888888,,,,0,,https://pt.wikipedia.org/wiki/Valdemar_Christoffer_Nielsen,2026-04-06T15:50:01.217116+00:00
+1277,Q15998554,Valdemar Nielsen,mand,1879-06-21,København,55.676111111,12.568888888,253351,,,0,,https://pt.wikipedia.org/wiki/Valdemar_Nielsen,2026-04-06T17:24:53.695874+00:00
+722,Q136840710,Valdemar Wagner,mand,2010-03-22,Hvidovre,55.6564,12.4686,,,,0,,https://da.wikipedia.org/wiki/Valdemar_Wagner,2026-04-06T15:50:01.217116+00:00
+723,Q125862221,Vanessa Salinas,kvinde,1979-02-22,,,,,,,0,,"https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B8%D0%BD%D0%B0%D1%81,_%D0%92%D0%B0%D0%BD%D0%B5%D1%81%D1%81%D0%B0",2026-04-06T15:50:01.217116+00:00
+1278,Q984151,Verner Blaudzun,mand,1946-03-23,Sønderborg,54.911388888,9.786666666,246237,68.0,1.73,0,,https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D0%BD%D0%B5%D1%80_%D0%91%D0%BB%D0%B0%D1%83%D0%B4%D0%B7%D1%83%D0%BD,2026-04-06T17:25:04.325768+00:00
+1279,Q106870766,Victor Grue Enggaard,mand,2001-06-16,Kongens Lyngby,55.77,12.5,269454,,,0,,https://da.wikipedia.org/wiki/Victor_Grue_Enggaard,2026-04-06T17:25:14.950762+00:00
+1280,Q116873626,Victor Johannsen,mand,2006-07-02,Silkeborg,56.166666666,9.55,282374,,,0,,https://da.wikipedia.org/wiki/Victor_Johannsen,2026-04-06T17:25:25.485391+00:00
+727,Q123183613,Victor Philipsen,mand,2001-11-26,Holte,55.810939,12.473536,,,,0,,"https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D1%81%D0%B5%D0%BD,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80",2026-04-06T15:50:01.217116+00:00
+1281,Q98590211,Victoria Lund,kvinde,2004-09-05,Køge,55.45,12.183333333,260874,,,0,,https://da.wikipedia.org/wiki/Victoria_Lund,2026-04-06T17:25:36.167192+00:00
+1282,Q106419685,Viktoria Smidth Knudsen,kvinde,1993-07-24,Helsinge,56.02194,12.19944,260878,,,0,,"https://ru.wikipedia.org/wiki/%D0%9A%D0%BD%D1%83%D0%B4%D1%81%D0%B5%D0%BD,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A8%D0%BC%D0%B8%D0%B4%D1%82",2026-04-06T17:25:46.577274+00:00
+1283,Q7979144,Wedell Østergaard,mand,1924-05-07,Gentofte,55.7517,12.5508,245008,,,0,,https://pt.wikipedia.org/wiki/Wedell_%C3%98stergaard,2026-04-06T17:25:57.192108+00:00
+1284,Q120199550,Wenzel Jørgensen,mand,1918-07-18,,,,246620,,,0,,https://de.wikipedia.org/wiki/Wenzel_J%C3%B8rgensen,2026-04-06T17:26:07.591583+00:00
+732,Q106830657,Werner Andresen,mand,1932-01-03,,,,,,,0,,https://de.wikipedia.org/wiki/Werner_Andresen,2026-04-06T15:50:01.217116+00:00
+1285,Q12341497,Werner Grundahl,mand,1914-08-22,København,55.676111111,12.568888888,214831,,,0,,https://pl.wikipedia.org/wiki/Werner_Grundahl,2026-04-06T17:26:18.179235+00:00
+1286,Q54165692,William Blume Levy,mand,2001-01-14,Horsens,55.861944444,9.851944444,216733,,,0,,https://nl.wikipedia.org/wiki/William_Blume_Levy,2026-04-06T17:26:28.854838+00:00
+735,Q61203525,William Rimkratt-Milkowski,mand,1995-07-19,,,,,,,0,,https://da.wikipedia.org/wiki/William_Rimkratt-Milkowski,2026-04-06T15:50:01.217116+00:00
+1287,Q20859655,William Wisholm,mand,1997-05-26,Aalborg,57.05,9.916666666,204039,,,0,,https://da.wikipedia.org/wiki/William_Wisholm,2026-04-06T17:26:39.333126+00:00
+737,Q21817238,Willum Nielsen,mand,,,,,,,,0,,https://de.wikipedia.org/wiki/Willum_Nielsen,2026-04-06T15:50:01.217116+00:00
+1288,Q2581895,Willy Emborg,mand,1921-09-08,Kongens Lyngby,55.77,12.5,236502,,,0,,https://fr.wikipedia.org/wiki/Willy_Emborg,2026-04-06T17:26:49.910447+00:00
+739,Q1372041,Willy Falck Hansen,mand,1906-04-04,Helsingør,56.036,12.6106,,,,0,,https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BB%D0%BB%D1%96_%D0%93%D0%B0%D0%BD%D1%81%D0%B5%D0%BD,2026-04-06T15:50:01.217116+00:00
+740,Q1804642,Willy Gervin,mand,1903-11-28,København,55.676111111,12.568888888,,,,0,,https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BB%D0%BB%D1%96_%D2%90%D0%B5%D1%80%D0%B2%D1%96%D0%BD,2026-04-06T15:50:01.217116+00:00
+1289,Q12341593,Willy Skibby,mand,1942-02-20,Skanderborg,56.033333333,9.933333333,224786,69.0,1.74,0,,https://pt.wikipedia.org/wiki/Willy_Skibby,2026-04-06T17:27:00.512925+00:00
