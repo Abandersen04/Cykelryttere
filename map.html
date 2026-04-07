@@ -165,7 +165,9 @@
   <div class="sep"></div>
 
   <div class="filter-group">
-    <button class="btn" id="ranked-btn" data-ranked="false">Kun DK all-time rangliste</button>
+    <span class="filter-label">DK all-time rang</span>
+    <input type="range" id="rank-slider" min="1" max="70" value="70">
+    <span class="slider-val" id="rank-val">Alle</span>
   </div>
 
   <div class="sep"></div>
@@ -299,7 +301,7 @@ let layerGroup = L.layerGroup().addTo(map);
 let activeGender = "all";
 let activeCats = new Set(["UWT","Pro","HC","WC","other"]);
 let minWins = 0, minCitySize = 1, yearFrom = 1868, yearTo = 2010;
-let onlyRanked = false;
+let maxDkRank = 70;
 
 // ── Ikon ──────────────────────────────────────────────────────────────────
 function makeIcon(count) {
@@ -408,7 +410,10 @@ function applyFilters() {
     if (query.length > 1 && !r.name.toLowerCase().includes(query) &&
         !(r.birthplace||"").toLowerCase().includes(query)) return false;
     if (minWins > 0 && countFilteredWins(r) < minWins) return false;
-    if (onlyRanked && !getPcsRank(r)) return false;
+    if (maxDkRank < 70) {
+      const pr = getPcsRank(r);
+      if (!pr || pr.rank > maxDkRank) return false;
+    }
     return true;
   });
 
@@ -449,9 +454,9 @@ bindSlider("year-to",     "year-to-val",  v => { yearTo = v;     applyFilters();
 
 document.getElementById("search").addEventListener("input", applyFilters);
 
-document.getElementById("ranked-btn").addEventListener("click", function() {
-  onlyRanked = !onlyRanked;
-  this.classList.toggle("active", onlyRanked);
+document.getElementById("rank-slider").addEventListener("input", function() {
+  maxDkRank = +this.value;
+  document.getElementById("rank-val").textContent = maxDkRank >= 70 ? "Alle" : `Top ${maxDkRank}`;
   applyFilters();
 });
 
