@@ -84,7 +84,8 @@
     .pop-meta { font-size: 0.72rem; color: #666; margin: 2px 0 4px; }
 
     .wins-label { font-size: 0.68rem; color: #f5a623; font-weight: 700; }
-    .rank-dk-badge { font-size: 0.68rem; color: #C60C30; font-weight: 700; }
+    .rank-dk-badge { font-size: 0.68rem; color: #C60C30; font-weight: 700; text-decoration: none; }
+    .rank-dk-badge:hover { text-decoration: underline; }
     .pop-rank-row { margin: 1px 0 3px; }
     .wiki-link { font-size: 0.68rem; color: #4a9eff; text-decoration: none; }
     .wiki-link:hover { text-decoration: underline; }
@@ -165,7 +166,7 @@
   <div class="sep"></div>
 
   <div class="filter-group">
-    <span class="filter-label">DK all-time rang</span>
+    <span class="filter-label">DK all-time rang <a href="https://www.prestigelisten.dk" target="_blank" style="color:#C60C30;font-size:0.65rem;text-decoration:none;" title="prestigelisten.dk">↗</a></span>
     <input type="range" id="rank-slider" min="1" max="70" value="70">
     <span class="slider-val" id="rank-val">Alle</span>
   </div>
@@ -380,7 +381,7 @@ function buildPopup(loc) {
       : "";
     const pcsRank = getPcsRank(r);
     const rankLabel = pcsRank
-      ? `<span class="rank-dk-badge" title="DK all-time #${pcsRank.rank} · ${pcsRank.points} pt">#${pcsRank.rank} DK · ${pcsRank.points}pt</span>`
+      ? `<a class="rank-dk-badge" href="https://www.prestigelisten.dk" target="_blank" title="DK all-time #${pcsRank.rank} på prestigelisten.dk">#${pcsRank.rank} DK all-time · ${pcsRank.points}pt</a>`
       : "";
 
     return `<div class="pop-rider">
