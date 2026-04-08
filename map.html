@@ -34,10 +34,12 @@
       color: #aaa; font-size: 0.72rem; cursor: pointer; transition: all 0.15s; white-space: nowrap;
     }
     .btn.active, .btn:hover { background: #e94560; border-color: #e94560; color: #fff; }
-    .btn.cat-uwt.active { background: #f5a623; border-color: #f5a623; color: #000; }
-    .btn.cat-pro.active { background: #7ed321; border-color: #7ed321; color: #000; }
-    .btn.cat-hc.active  { background: #4a9eff; border-color: #4a9eff; color: #000; }
-    .btn.cat-wc.active  { background: #bd10e0; border-color: #bd10e0; }
+    .btn.cat-gt.active       { background: #f5a623; border-color: #f5a623; color: #000; }
+    .btn.cat-monument.active { background: #bd10e0; border-color: #bd10e0; color: #fff; }
+    .btn.cat-uwt.active      { background: #ff7f3f; border-color: #ff7f3f; color: #000; }
+    .btn.cat-hcpro.active    { background: #4a9eff; border-color: #4a9eff; color: #000; }
+    .btn.cat-onept.active    { background: #7ed321; border-color: #7ed321; color: #000; }
+    .btn.cat-wc.active       { background: #e040fb; border-color: #e040fb; color: #000; }
 
     input[type=range] {
       -webkit-appearance: none; height: 4px; border-radius: 2px;
@@ -99,11 +101,13 @@
     .rank-1 { background: #f5a623; color: #000; }
     .rank-2 { background: #aaa;    color: #000; }
     .rank-3 { background: #cd7f32; color: #fff; }
-    .cls-badge { font-size: 0.6rem; padding: 1px 3px; border-radius: 3px; background: #0f3460; color: #aaa; flex-shrink: 0; }
-    .cls-uwt { background: #f5a623; color: #000; }
-    .cls-pro { background: #7ed321; color: #000; }
-    .cls-hc  { background: #4a9eff; color: #000; }
-    .cls-wc  { background: #bd10e0; color: #fff; }
+    .cls-badge    { font-size: 0.6rem; padding: 1px 3px; border-radius: 3px; background: #0f3460; color: #aaa; flex-shrink: 0; }
+    .cls-gt       { background: #f5a623; color: #000; }
+    .cls-monument { background: #bd10e0; color: #fff; }
+    .cls-uwt      { background: #ff7f3f; color: #000; }
+    .cls-hcpro    { background: #4a9eff; color: #000; }
+    .cls-onept    { background: #7ed321; color: #000; }
+    .cls-wc       { background: #e040fb; color: #000; }
 
     .leaflet-control-zoom a { background:#16213e!important; color:#e0e0e0!important; border-color:#0f3460!important; }
     .leaflet-control-zoom a:hover { background:#0f3460!important; }
@@ -154,11 +158,13 @@
 
   <div class="filter-group">
     <span class="filter-label">Lobstype</span>
-    <button class="btn cat-uwt active" data-cat="UWT">UWT/GT</button>
-    <button class="btn cat-pro active" data-cat="Pro">Pro Series</button>
-    <button class="btn cat-hc  active" data-cat="HC">HC/1.1</button>
-    <button class="btn cat-wc  active" data-cat="WC">VM/OL</button>
-    <button class="btn active"         data-cat="other">Ældre</button>
+    <button class="btn cat-gt       active" data-cat="GT">Grand Tour</button>
+    <button class="btn cat-monument active" data-cat="Monument">Monument</button>
+    <button class="btn cat-uwt      active" data-cat="UWT">UWT/WT</button>
+    <button class="btn cat-hcpro    active" data-cat="HCPro">HC/Pro</button>
+    <button class="btn cat-onept    active" data-cat="OnePt">1.1/2.1</button>
+    <button class="btn cat-wc       active" data-cat="WC">VM/OL</button>
+    <button class="btn              active" data-cat="other">Ældre</button>
   </div>
 
   <div class="sep"></div>
@@ -187,19 +193,30 @@ L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
 }).addTo(map);
 
 // ── Løbsklasse → kategori ─────────────────────────────────────────────────
-function classToCat(cls) {
-  if (!cls) return "other";
-  const u = cls.toUpperCase().trim();
+const MONUMENTS = [
+  "il lombardia","liège-bastogne-liège","liege-bastogne-liege","milano-sanremo",
+  "paris-roubaix","ronde van vlaanderen","paris-tours","paris-brest-paris",
+  "bordeaux-paris","grand prix wolber","cuca cocoa cup","north road 24 hour"
+];
+const GRAND_TOURS = ["tour de france","giro d'italia","giro d'","vuelta a españa","vuelta a espana","la vuelta"];
+
+function classToCat(cls, name) {
+  const n = (name || "").toLowerCase();
+  const u = (cls  || "").toUpperCase().trim();
+
+  if (GRAND_TOURS.some(g => n.includes(g)))   return "GT";
+  if (MONUMENTS.some(m => n.includes(m)))      return "Monument";
+  if (u === "WC" || u === "OLYMPICS" || u === "OWG") return "WC";
   if (u.includes("UWT") || u === "WT" || u === "CDM" || u === "GT") return "UWT";
-  if (u.includes("PRO"))                                               return "Pro";
-  if (u.includes("HC") || u === "1.1" || u === "2.1")                return "HC";
-  if (u === "WC" || u === "OLYMPICS" || u === "OWG")                  return "WC";
+  if (u.includes("PRO"))                       return "HCPro";
+  if (u.includes("HC"))                        return "HCPro";
+  if (u === "1.1" || u === "2.1" || u === "SPP") return "OnePt";
   return "other";
 }
 
-function classBadge(cls) {
-  const cat = classToCat(cls);
-  const c = { UWT:"cls-uwt", Pro:"cls-pro", HC:"cls-hc", WC:"cls-wc" };
+function classBadge(cls, name) {
+  const cat = classToCat(cls, name);
+  const c = { GT:"cls-gt", Monument:"cls-monument", UWT:"cls-uwt", HCPro:"cls-hcpro", OnePt:"cls-onept", WC:"cls-wc" };
   return `<span class="cls-badge ${c[cat]||''}">${cls || '?'}</span>`;
 }
 
@@ -300,7 +317,7 @@ function getPcsRank(rider) {
 let allData = [];
 let layerGroup = L.layerGroup().addTo(map);
 let activeGender = "all";
-let activeCats = new Set(["UWT","Pro","HC","WC","other"]);
+let activeCats = new Set(["GT","Monument","UWT","HCPro","OnePt","WC","other"]);
 let minWins = 0, minCitySize = 1, yearFrom = 1868, yearTo = 2010;
 let maxDkRank = 70;
 
@@ -319,7 +336,7 @@ function makeIcon(count) {
 
 // ── Filtrering ────────────────────────────────────────────────────────────
 function filteredResults(rider) {
-  return (rider.results || []).filter(r => activeCats.has(classToCat(r.race_class)));
+  return (rider.results || []).filter(r => activeCats.has(classToCat(r.race_class, r.race_name)));
 }
 
 function countFilteredWins(rider) {
@@ -369,7 +386,7 @@ function buildPopup(loc) {
       `<div class="pop-result">
         <span class="rank-badge rank-${x.rank <= 3 ? x.rank : ''}">${x.rank}</span>
         <span style="flex:1;overflow:hidden;white-space:nowrap;text-overflow:ellipsis">${x.race_name}</span>
-        ${classBadge(x.race_class)}
+        ${classBadge(x.race_class, x.race_name)}
         ${x.pcs_points ? `<span style="color:#888;font-size:0.68rem;flex-shrink:0">${x.pcs_points}p</span>` : ''}
         <span style="color:#555;font-size:0.68rem;flex-shrink:0">${(x.date||'').slice(0,4)}</span>
       </div>`
